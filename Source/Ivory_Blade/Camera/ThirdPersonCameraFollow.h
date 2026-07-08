@@ -20,4 +20,16 @@ public:
 		float interp_speed    = 3.0f,
 		float speed_threshold = 50.0f
 	);
+
+	UFUNCTION(BlueprintCallable, Category = "Camera|ThirdPerson")
+	static void UpdateVRCameraFollow(
+		USpringArmComponent* camera_boom,
+		FVector vr_camera_forward,
+		FVector character_velocity,
+		FVector local_up,
+		float delta_time,
+		float follow_distance    = 100.0f,
+		float interp_speed       = 2.0f,
+		float speed_threshold    = 50.0f
+	);
 };

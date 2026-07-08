@@ -13,7 +13,8 @@ public class Ivory_Blade : ModuleRules
 			"Engine",
 			"InputCore",
 			"EnhancedInput",
-			"HeadMountedDisplay"
+			"HeadMountedDisplay",
+			"AnimGraphRuntime"
 		});
 	}
 }
