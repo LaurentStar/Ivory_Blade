@@ -12,7 +12,7 @@
 | **Type** | Anomaly Realm |
 | **Universal Energy** | Mid-tier low |
 | **Primary Feature** | Planetoid-based terrain with strange, inconsistent gravity |
-| **Status** | Active warzone -- two armies engaged in an ongoing conflict |
+| **Status** | Active warzone -- civil war between the Swahili East Axel Legion and the People Swahili Brigade and Electives |
 | **Role in Story** | Setting for the first game of the Ivory Blade series |
 
 ---
@@ -73,16 +73,24 @@ As an Anomaly Realm, the Swahili Realm does not follow standard UE-to-magic scal
 
 ## The War
 
-Two armies are fighting in the Swahili Realm. The war predates the protagonist's arrival and will continue after she leaves. She is not here to resolve it.
+A civil war is being fought in the Swahili Realm between two factions: the **Swahili East Axel Legion** and the **People Swahili Brigade and Electives**. The war predates the protagonist's arrival and will continue after she leaves. She is not here to resolve it.
+
+### The Factions
+
+| Faction | Role in Story |
+|---|---|
+| **Swahili East Axel Legion** | Primary antagonist faction. Deploys the Husky Squad, Wolf Squad, and Tiger Unit against the protagonist. |
+| **People Swahili Brigade and Electives** | Secondary antagonist faction. Converges on the protagonist in Ch3 after a spy within the Legion tips them off. |
 
 ### The Conflict
 
-The specifics of the war -- its cause, its duration, its goals -- have not been fully established. What is known:
+The war is a civil conflict -- both factions are from the Swahili Realm, fighting over their own home.
 
-- Two distinct factions are engaged in sustained, large-scale military conflict
-- The war involves both **human soldiers** and **anthropomorphic creatures** -- the realm's population includes both, and both serve in military structures
+- Both factions field **human soldiers** and **anthropomorphic creatures** -- the realm's population includes both, and both serve in military structures
 - The conflict is serious enough to require dedicated military units, organized command structures, and ongoing campaigns across the planetoid system
 - The war creates the conditions for the protagonist's hunt -- military infrastructure, patrols, checkpoints, supply lines, and communication networks all exist and are obstacles for the crew
+
+Full profiles: `GameLore/Groups/SwahiliEastAxelLegion.md` | `GameLore/Groups/PeopleSwahiliBrigade.md`
 
 ### The Prophecy
 
@@ -143,7 +151,7 @@ The gravity anomalies define how fights play in this realm:
 
 ## Open Questions
 
-1. **The two factions** -- Names, ideologies, leadership, species composition
+1. ~~**The two factions**~~ -- Resolved. Swahili East Axel Legion vs. People Swahili Brigade and Electives. See group files.
 2. **Planetoid geography** -- Are there named regions, major cities, key strategic locations the story moves through?
 3. **The Apotheosis Track** -- Where is the entrance relative to the Swahili Realm? Is reaching it the crew's exit strategy?
 4. **Realm history** -- How long has the war been going on? What was the Swahili Realm like before the conflict?

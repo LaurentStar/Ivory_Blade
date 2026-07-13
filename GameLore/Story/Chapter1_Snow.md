@@ -1,6 +1,6 @@
 # Chapter 1: Snow
 
-> *Face down. Cold. Alone. The bottle is still intact. Get up.*
+> *Face down. Cold. Alone. The earring is still intact. Get up.*
 
 ---
 
@@ -14,9 +14,9 @@ The armies have not focused their attention on her yet. She has not beaten their
 
 ## Level 1: Crash into the Snow
 
-The protagonist wakes up face down in the snow on a mountaintop planetoid. She is alone, disoriented, and the Meta Morph Blade is nearby. Kim is in the bottle. He is still intact. She gets up.
+The protagonist wakes up face down in the snow on a mountaintop planetoid. She is alone, disoriented, and the Meta Morph Blade is nearby. Kim is in the earring. He is still intact. She gets up.
 
-The Husky Squad is already in the area. They are husky-like anthropomorphic soldiers -- weaker than the Wolf Squad, a low-priority unit, not elites. They operate in this snowy mountain terrain and have spotted the crash. They are closing in.
+The Husky Squad is already in the area. They are a mixed unit -- huskies, humans, and foxes -- weaker than the Wolf Squad, a low-priority unit, not elites. They operate in this snowy mountain terrain and have spotted the crash. They are closing in.
 
 The protagonist fights through husky patrols, navigates the mountain, and establishes her bearings. She has no contact with the crew. She does not know the ship's status. She does not know if anyone else survived the attack.
 
@@ -44,7 +44,7 @@ The Husky Squad has captured Brod Tsumi and fitted him with a mind control devic
 
 Brod is hostile. Under the device's control, he attacks the protagonist on sight.
 
-He is not much of a threat. Without his drawing-casting ability and Sketch, Brod is a mediocre fighter at best. The protagonist handles him easily. She already knows how to free him -- she identified the mind control device and its vulnerability before or during the fight (Kat's intel, her own observation, or Kim's hint from the bottle).
+He is not much of a threat. Without his drawing-casting ability and Sketch, Brod is a mediocre fighter at best. The protagonist handles him easily. She already knows how to free him -- she identified the mind control device and its vulnerability before or during the fight (Kat's intel, her own observation, or Kim's hint from the earring).
 
 ### The Magic Tutorial
 
@@ -70,7 +70,7 @@ Kat relays this to both of them. The camp is still out of the way -- off the pro
 
 The protagonist is against it. She does not want to split up so Brod can go back for a stupid book and a robot. The mech is coming. They need to move, not run errands.
 
-**Kat mentions the vessel.** She reminds the protagonist of what she carries -- Kim's bottle. The thing that matters most to her in the world. If someone told her to leave it behind because it was just a bottle, she would not listen either. That shuts the protagonist up. She does not argue further.
+**Kat mentions the vessel.** She reminds the protagonist of what she carries -- Kim's earring. The thing that matters most to her in the world. If someone told her to take it off because it was just an earring, she would not listen either. That shuts the protagonist up. She does not argue further.
 
 Brod goes alone. The protagonist stays on the mountain. The mech is close.
 
@@ -100,7 +100,7 @@ The Wolf Squad is not the Husky Squad. They are an elite hunter-killer unit -- s
 
 The calculus changes. The Husky Squad was manageable. The Wolf Squad is a different problem entirely. The protagonist needs to be off this mountain before they arrive.
 
-This level is about urgency. She is still fighting huskies, still cutting through their coordinated patrols, but the clock is no longer just Kim's bottle. There is a second timer now: the wolves. Every minute she spends fighting the huskies is a minute closer to a much worse fight.
+This level is about urgency. She is still fighting huskies, still cutting through their coordinated patrols, but the clock is no longer just Kim's earring. There is a second timer now: the wolves. Every minute she spends fighting the huskies is a minute closer to a much worse fight.
 
 **Gameplay establishes:** Escalation through information rather than direct combat. The player feels the approaching threat before seeing it. Kat's role as intelligence source deepens. The level teaches the player that winning every fight is not always the goal -- sometimes the goal is to move.
 
@@ -130,7 +130,7 @@ With the Wolf Squad misdirected, the protagonist contacts Kat one more time. The
 
 There is a path underground -- a river that runs beneath the mountain and feeds into a **lava lake** deeper in the planetoid's interior. The water is cold at the entrance, still carrying snowmelt, but it warms gradually as the tunnels descend toward the volcanic system below. It is a way off the snow.
 
-The protagonist takes the underground path, following the river down and away from the mountaintop. She does not regroup with the full crew. She is still separated, still alone with Kim's bottle. But she is off the mountain, out of the snow, and ahead of the wolves.
+The protagonist takes the underground path, following the river down and away from the mountaintop. She does not regroup with the full crew. She is still separated, still alone with Kim's earring. But she is off the mountain, out of the snow, and ahead of the wolves.
 
 **Chapter 2 begins at ground level** on the Swahili Realm.
 
@@ -157,4 +157,4 @@ The protagonist takes the underground path, following the river down and away fr
 2. **Brod's path** -- Where does Brod end up after splitting from the protagonist in Level 3? Does he regroup with the ship crew, or is he still separate when Chapter 2 begins?
 3. **The lava lake** -- What is waiting at ground level? Is the underground river exit near civilization, a battlefield, or empty terrain?
 4. **The Wolf Squad's reaction** -- How quickly do they realize the radio deception? Do they pursue to the mountain or begin tracking her new route?
-5. **Kim's bottle** -- How much has the bottle's condition deteriorated by the end of Chapter 1? Does Kim comment on the time pressure?
+5. **Kim's earring** -- How much has the vessel's condition deteriorated by the end of Chapter 1? Does Kim comment on the time pressure?

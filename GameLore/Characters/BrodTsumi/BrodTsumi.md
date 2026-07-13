@@ -119,7 +119,7 @@ Brod is one of Ys's two closest connections on the crew (the other being the rab
 
 Brod is the crew's most straightforward combatant after the protagonist. He is not the leader (Ys), not the specialist (the mechanic, the mouse woman), and not the mission's reason for existing (the protagonist). He is the hired gun who has been with Ys long enough to be more than hired.
 
-During the Swahili Realm, Brod is among those captured by the wolf squad. The protagonist rescues the entire crew using the wolf captain as bait. Being rescued by the girl Ys brought aboard -- the prophecy child, the passenger -- likely shifts something in how Brod sees her. She went from cargo to someone who saved his life.
+During the Swahili Realm, Brod is among those captured by the wolf squad. The protagonist rescues the entire crew using Jack (the wolf leader) as bait. Being rescued by the girl Ys brought aboard -- the prophecy child, the passenger -- likely shifts something in how Brod sees her. She went from cargo to someone who saved his life.
 
 ---
 

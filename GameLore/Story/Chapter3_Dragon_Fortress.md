@@ -6,13 +6,13 @@
 
 ## Context
 
-Chapter 2 ended with the protagonist defeating and capturing the Wolf Squad leader in a storm. She reached the ship at the top of the giant tower with the mechanic. The rest of the crew -- Ys, Kat, Brod, and the mouse woman -- are still captured by the Wolf Squad on the frozen lake.
+Chapter 2 ended with the protagonist defeating and capturing Jack (Master Loneel Jacky, the Wolf Squad leader) in a storm. She reached the ship at the top of the giant tower with the mechanic. The rest of the crew -- Ys, Kat, Brod, and the mouse woman -- are still captured by the Wolf Squad (Nemo, Elpha, and Bleu) on the frozen lake.
 
 A **powerful and deadly storm** has rolled in across the region. This is not the wind and lightning from the boss fight -- this is worse. A full-scale storm that forces everyone to take shelter. The general army and the Wolf Squad cannot operate in it. They hunker down.
 
 The **Tiger Unit** is still en route. The storm does not stop them. They are coming regardless.
 
-The protagonist has the captured wolf leader, the ship, the mechanic, and a narrow window created by the storm. She needs a plan to free the crew before the storm passes and the Tiger Unit arrives.
+The protagonist has the captured Jack, the ship, the mechanic, and a narrow window created by the storm. She needs a plan to free the crew before the storm passes and the Tiger Unit arrives.
 
 ---
 
@@ -20,14 +20,14 @@ The protagonist has the captured wolf leader, the ship, the mechanic, and a narr
 
 | Who | Status |
 |---|---|
-| **Protagonist** | At the ship with the mechanic and the captured wolf leader. Injured from the boss fight. |
+| **Protagonist** | At the ship with the mechanic and the captured Jack. Injured from the boss fight. |
 | **Captain Ys** | Captured by the Wolf Squad. Sheltering from the storm. |
 | **Kat** | Captured. Has secret contact with the protagonist via magic. Recovered intel about the area while in captivity. |
 | **Brod** | Captured. Has Sketch and Tablet (unless confiscated again). |
 | **Mouse Woman** | Captured. |
 | **Mechanic** | At the ship with the protagonist. |
-| **Kim (bottle)** | Clock is still ticking. |
-| **Wolf Squad** | Sheltering from the storm. Leader missing (captured by protagonist). Young wolf dead. Crew still in custody. |
+| **Kim (earring)** | Clock is still ticking. |
+| **Wolf Squad** | Sheltering from the storm. Jack missing (captured by protagonist). Bassual dead. Nemo commanding. Crew still in custody. |
 | **General Army** | Sheltering from the storm. Higher command knows about the prophecy child. |
 | **Tiger Unit** | En route. Not stopped by the storm. |
 
@@ -43,7 +43,7 @@ Kat recovered **records** about the local area while captured. Among them: there
 
 ### The Bargaining Problem
 
-The protagonist wants to use the captured wolf leader as a **bargaining chip** to free the crew. She has the leverage. But she cannot take on the entire army and the Wolf Squad -- even sheltering from the storm, they outnumber her by orders of magnitude. Walking up and offering a trade means walking into a situation she cannot fight her way out of if the trade goes wrong.
+The protagonist wants to use the captured Jack as a **bargaining chip** to free the crew. She has the leverage. But she cannot take on the entire army and the remaining Wolf Squad -- even sheltering from the storm, they outnumber her by orders of magnitude. Walking up and offering a trade means walking into a situation she cannot fight her way out of if the trade goes wrong.
 
 She needs a distraction. Something that forces the army to deal with a bigger problem than her.
 
@@ -79,7 +79,7 @@ The environment is **white and foggy**. Visibility is short. The fortress looms 
 
 The underside of the fortress is industrial -- exposed supports, maintenance hatches, structural ribs, rusted scaffolding. This is not the part of the fortress anyone was meant to see. It is cold, wet, and the wind pulls at her constantly.
 
-The captured wolf leader is secured at the ship. The mechanic is with the ship. The protagonist is alone on the climb. Kim is in the bottle.
+The captured Jack is secured at the ship. The mechanic is with the ship. The protagonist is alone on the climb. Kim is in the earring.
 
 **Gameplay establishes:** Vertical traversal, climbing mechanics, navigation in low visibility. The fortress introduced from below -- the player sees its scale and construction before seeing its interior. The storm as an environmental obstacle, not just a backdrop.
 
@@ -99,15 +99,15 @@ The dragon is somewhere deeper in the fortress. The protagonist is getting close
 
 While the protagonist navigates the fortress interior, the **Tiger Unit** reaches the Swahili Realm.
 
-The Tiger Unit is able to **locate its subordinate units** -- they track the Wolf Squad's position and status. They know the wolf leader is missing. They know he was last reported with the prophecy child. They head straight to the **ship's hidden location**.
+The Tiger Unit is able to **locate its subordinate units** -- they track the Wolf Squad's position and status. They know Jack is missing. They know he was last reported with the prophecy child. They head straight to the **ship's hidden location**.
 
-They find the **mechanic** and the **wolf leader tied up**.
+They find the **mechanic** and **Jack tied up**.
 
 The **Tiger Unit captain** grabs the mechanic by the neck and **threatens her life** to force her to reveal the protagonist's location. The mechanic is terrified -- she has already been through the cave animals, the volcanic activity, and being left alone. Now the most dangerous unit in the army has her by the throat.
 
-The tiger captain **unties the wolf leader** and **scolds him**. The Wolf Squad -- the army's elite hunter-killer unit -- was beaten by a teenage girl. Their youngest member is dead. Their leader was captured and tied up at a ship. The tiger captain does not hide his contempt.
+The tiger captain **unties Jack** and **scolds him**. The Wolf Squad -- the army's elite hunter-killer unit -- was beaten by a teenage girl. Bassual is dead. Jack was captured and tied up at a ship. The tiger captain does not hide his contempt.
 
-The wolf leader is **visibly upset** but backs down. He does not challenge the tiger captain. The hierarchy is clear. The wolves answer to the tigers when the tigers are deployed, and the tigers have been deployed because the wolves failed.
+Jack is **visibly upset** but backs down. He does not challenge the tiger captain. The hierarchy is clear. The wolves answer to the tigers when the tigers are deployed, and the tigers have been deployed because the wolves failed.
 
 The protagonist does not know any of this is happening. She is inside the fortress, climbing through coiling trees, getting closer to the dragon. Her ship, her hostage, and the mechanic are now in the Tiger Unit's hands.
 
@@ -185,8 +185,8 @@ The Tiger Unit had a **spy**. This spy alerted the **opposing army** about the p
 Everyone is on the ground fighting. The protagonist, the crew, Brod's creatures, the mouse woman's fake soldiers -- all of them are in the middle of a three-way war:
 
 - **The dragon** -- attacking indiscriminately, chasing its egg, destroying everything
-- **Army 1** -- the army that deployed the Wolf Squad and Tiger Unit, converging on the shelter
-- **Army 2** -- the opposing army, arriving from the other direction, also hunting the prophecy child
+- **Swahili East Axel Legion** -- the army that deployed the Wolf Squad and Tiger Unit, converging on the shelter
+- **People Swahili Brigade and Electives** -- the opposing army, arriving from the other direction via spy intelligence, also hunting the prophecy child
 
 The protagonist is not trying to win. She is trying to **survive for a duration** -- hold the ground, keep the crew alive, and wait for the ship to be ready for departure. The crew fights. The drawing-cast minions fight. The dragon fights everyone. The two armies fight each other AND the crew AND the dragon.
 
@@ -226,7 +226,7 @@ But they are not alone inside.
 
 The **Tiger Unit captain** managed to **slip through the gate** before it sealed. He is inside with the crew. Alone. Separated from his unit, his airship, his support. Just him.
 
-He is **extremely dangerous even when alone.** The Tiger Unit captain is not like the wolf leader. The wolf leader was the best of an elite squad. The tiger captain is something beyond that -- the kind of fighter that gets deployed when elite squads fail, and he does not need his squad to be a lethal threat. One tiger, alone, inside a sealed ancient structure with the entire crew.
+He is **extremely dangerous even when alone.** The Tiger Unit captain is not like Jack. Jack was the best of an elite squad. The tiger captain is something beyond that -- the kind of fighter that gets deployed when elite squads fail, and he does not need his squad to be a lethal threat. One tiger, alone, inside a sealed ancient structure with the entire crew.
 
 **Gameplay establishes:** Timed platforming on giant moving architecture -- precision traversal under a closing deadline. The ancient structure as a world-building revelation -- the Swahili Realm has secrets older than the war. The dragon as an accidental key. Ys's tactical decision to go inside rather than flee. The gate sealing as a point of no return -- the crew is safe from the armies but trapped with the tiger captain. The tiger captain as an immediate, personal, overwhelming threat.
 
@@ -255,7 +255,7 @@ The protagonist, Brod, and the mechanic talk while they work -- about the situat
 | Level | Event | Establishes |
 |---|---|---|
 | Level 1 | Climb the floating fortress from the underside. White fog, low visibility. | Vertical traversal, fortress scale, storm as obstacle |
-| Level 2 | Inside the fortress. Coiling redwood-like trees through broken military architecture. Tiger Unit arrives at the ship (parallel), threatens mechanic, frees wolf leader. | Interior traversal, Tiger Unit escalation, protagonist unaware |
+| Level 2 | Inside the fortress. Coiling redwood-like trees through broken military architecture. Tiger Unit arrives at the ship (parallel), threatens mechanic, frees Jack. | Interior traversal, Tiger Unit escalation, protagonist unaware |
 | Level 3 | Dragon nest. Sleeping dragon with egg. Plan to steal egg. Tiger Unit airship approaches, marksman nearly kills protagonist. Ys commands immediate egg theft. Chase sequence -- dragon and airship fire. | Dragon as force of nature, dual threat chase, Ys's remote ship activation |
 | Level 4 | Eye of the hurricane. Dragon attacks shelter. Ys signals drawing-cast minions. Ys brings down tiger airship, rescues mechanic. Spy tips off second army. Two armies converge. Survival fight. | Survival combat, three-way war plus dragon, drawing-cast allies, full escalation |
 | Level 5 | Dragon's fireball unseals ancient structure. Both armies go all hands on deck. Ys orders crew inside. Giant moving architecture -- timed platforming before gate closes. Tiger captain slips in. | Timed traversal, ancient world secret, point of no return, tiger captain trapped inside |
@@ -269,5 +269,5 @@ The protagonist, Brod, and the mechanic talk while they work -- about the situat
 2. **The tiger captain** -- He is inside the sealed structure with the crew. When and how does the confrontation happen?
 3. **The dragon and the egg** -- Does the protagonist still have the egg? Is the dragon locked outside?
 4. **Both armies** -- They are locked outside. Do they try to open the gate? Do they fight each other over it?
-5. **The wolf leader** -- Is he locked outside? What does he do after being scolded by the tiger captain?
+5. **Jack** -- Is he locked outside? What does he do after being scolded by the tiger captain?
 6. **The structure's interior** -- Chapter 4 explores what this place actually is. What does the crew find?

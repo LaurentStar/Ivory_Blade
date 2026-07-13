@@ -67,7 +67,7 @@ Both armies in the Swahili Realm also believe the protagonist is the prophecy ch
 
 This is the hidden weight behind everything Ys does with the protagonist.
 
-**Ys and the bottle:** Ys has examined the vessel containing Kim Tiernan. He knows what Kim is, what state he is in, and how the containment works. More importantly, he knows that the bottle is the only reason the protagonist is on this journey. If the bottle is lost -- if Kim is obliterated -- she will not willingly continue toward the center of the Mirralata System. Her motivation evaporates entirely. No Kim, no prophecy child walking toward her role. Ys understands this completely. The bottle is not just the protagonist's emotional anchor. It is the thing that keeps his mission viable. Protecting the bottle is not an act of kindness. It is operational necessity.
+**Ys and the earring:** Ys has examined the vessel containing Kim Tiernan -- a thumb-sized container the protagonist wears as an earring. He knows what Kim is, what state he is in, and how the containment works. More importantly, he knows that the earring is the only reason the protagonist is on this journey. If the earring is lost -- if Kim is obliterated -- she will not willingly continue toward the center of the Mirralata System. Her motivation evaporates entirely. No Kim, no prophecy child walking toward her role. Ys understands this completely. The earring is not just the protagonist's emotional anchor. It is the thing that keeps his mission viable. Protecting the earring is not an act of kindness. It is operational necessity.
 
 ### Ys and the Protagonist
 
@@ -127,13 +127,15 @@ She is not a fighter. Despite her tall, lanky frame, she has no combat training 
 
 ### The Mouse Woman -- The Stray with a Mission
 
-The mouse woman was not part of the original crew. She joined because her star cat was kidnapped, and the crew's path intersected with her chance to get it back. She is determined to save her cat, and nothing Ys or anyone else says will change that priority.
+Vennessa was not part of the original crew. A wealthy collector took her star cat and retreated to the Mayler Realm. The galaxy-sized worm guardian blocked cross-realm travel for regular people -- but not the rich. Vennessa was stranded with no way to follow.
 
-She can perform drawing-casting magic -- the same general type the mercenary uses -- but she does it significantly better than he does. Where the mercenary's magic is functional and combat-oriented, the mouse woman's casting is refined. She is the better mage of the two by a clear margin.
+She never asked Ys. She knew what the answer would be. She **stowed away** -- hid on the ship until it was too late to turn back. By the time Ys found her, turning back was not viable. He accepted it with cold pragmatism: she is here, she works.
 
-She is small and not built for combat. Her magic is her only tool in a fight, and even then she is better suited to support and utility than direct confrontation. She is not a soldier. She is a small woman looking for her cat who happened to end up on a ship full of people being hunted across an active warzone.
+She can perform drawing-casting magic -- the same general type the mercenary uses, at a similar skill level. The difference is tools: the mercenary's dual swords function as ink pens (fine lines, functional results), while Vennessa's pen brush is a broad brush (sweeping strokes, detailed creations). Her output looks more refined because her instrument allows it, not because she is more talented.
 
-Ys is actively looking for a place to leave her -- somewhere she will not be stranded, somewhere she can survive and continue her search. He did not sign up to be responsible for someone this vulnerable, but he is not going to dump her in a war zone either. Until he finds the right spot, she stays on the ship.
+She is small and not built for combat. Her magic is her only tool in a fight, and even then she is better suited to support and utility than direct confrontation. She is not a soldier. She is a small woman looking for her cat who snuck onto a ship full of people being hunted across an active warzone.
+
+Ys really wants her gone. But the Mayler Realm -- the only destination that makes sense for Vennessa -- is **close to the center of the Mirralata System**. There is no convenient stop along the way. Dropping her anywhere else means stranding her in a realm that is not her destination with no way to reach her cat. She is going to be on his ship for **nearly the entire journey**. He did not invite her. She did not ask. And he is stuck with her for almost every game.
 
 ### Crew Summary
 
@@ -142,7 +144,7 @@ Ys is actively looking for a place to leave her -- somewhere she will not be str
 | **Kat Arlean Mori** | Pre-existing. His partner. | Hidden wife. Closest bond on the ship. | Unknown |
 | **Brod Tsumi** | Pre-existing. Long history together. | Mentee. Stern, serious, no jokes. | Combatant. Drawing-casting magic. |
 | **Mechanic** | Picked up from public transport. | Protected crew member. Ys shields her from conflict. | Non-combatant. Mechanic and ship maintenance. |
-| **Mouse woman** | Joined to save her kidnapped star cat. | Temporary. Ys is looking for a safe place to leave her. | Limited. Drawing-casting magic (better than the mercenary), but small and not combat-suited. |
+| **Vennessa** | Stowaway. Never asked -- just hid on the ship. | Uninvited. Ys is looking for a safe place to leave her. | Limited. Drawing-casting magic (similar skill to the mercenary, better tools). Small, not combat-suited. |
 
 Everyone on the crew believes the same baseline truth: they are hired to get from point A to point B by a strange ghost man. The rabbit girl's true relationship with Ys, the depth of his mentorship with the mercenary, and his quiet calculations about who stays and who gets dropped off -- none of this is spoken aloud. The crew operates on orders and proximity, not intimacy.
 
@@ -193,8 +195,8 @@ After the rescue, the crew's dynamic shifts. The protagonist has proven she is m
 3. **The prophecy** -- Does he truly believe it, or is the prophecy a convenient justification for something else he wants?
 4. **His history** -- Where did he come from? How long has he existed? Has he done this before -- escorted someone toward the Mirralata System's center?
 5. **His knowledge** -- How much does he know about the realms, the war, the armies? Is his calm born from understanding or from something else?
-6. **Kim** -- Does he know about the bottle and the protagonist's real mission? If so, does he care?
+6. **Kim** -- Does he know about the earring and the protagonist's real mission? If so, does he care?
 7. **The rabbit girl** -- What is her name? What are her combat capabilities? How long have she and Ys been together? Does she know what he truly is?
 8. **The mercenary** -- What is his name? How did he and Ys first meet? How many "bouts of craziness" has Ys pulled him into before this one?
-9. **The star cat** -- What is a star cat? Why was it kidnapped? By whom? Is recovering it achievable within this game or is it a longer thread?
+9. ~~**The star cat**~~ -- Partially resolved: A wealthy collector in the Mayler Realm saw Vennessa's star cat, wanted it, and took it after she refused to sell. The crew will venture into the Mayler Realm in a future game to steal a rare creature -- Vennessa's personal mission and the crew's need converge there. What a star cat actually is remains TBD.
 10. **The mechanic** -- What is her name? Where was she heading before joining the crew? Does she have any personal stake in the journey beyond survival?

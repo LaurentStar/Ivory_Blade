@@ -1,4 +1,4 @@
-# The Protagonist
+# IndigoLLiy Vel Quem -- The Protagonist
 
 > *"She is seen as a prodigy. She is not. She is average, well-trained, and clever."*
 
@@ -8,7 +8,8 @@
 
 | Field | Detail |
 |---|---|
-| **Name** | TBD |
+| **Name** | IndigoLLiy Vel Quem |
+| **Nickname** | Indigo, Indy |
 | **Age** | 17 |
 | **Race** | Human (Black female) |
 | **Birthplace** | Unknown -- a war-torn country destroyed in her infancy |
@@ -249,29 +250,27 @@ She was personally in charge of erasing the protagonist's critical memories -- s
 
 ## Kim Tiernan
 
-Kim Tiernan is the protagonist's oldest friend. He is not special. He is not a warrior, not a chosen one, not someone with extraordinary abilities. He is an ordinary person whose significance comes entirely from the depth of his bond with the protagonist and the choice he made.
+Kim Tiernan is Indigo's oldest friend. He is not special. He is not a warrior, not a chosen one, not someone with extraordinary abilities. He is an ordinary elf whose significance comes entirely from the depth of his bond with her and the choice he made.
 
-At some point, Kim sacrificed his soul to save the protagonist and her entire adoptive family -- the brother, the sister, and their children. He did not just save the protagonist. He saved everyone she considered family, because he considered her family too.
+Three months before the game begins, a weapon was fired from across the world -- a soul-destroying wave that swept outward like a tsunami, obliterating the souls of every living being it passed through. The warning reached the city with only 20 minutes to prepare. The city had a barrier, but Kim, Indigo, and their families were on the outer edge. They could not reach it in time.
 
-This was not merely dying. In the metaphysical framework of the Mirralata System, souls are tangible and can be offered as payment or sacrifice. Kim gave his away entirely, condemning himself to agony beyond death -- suffering that continues past the point where life ends, with no afterlife, no peace, no release.
+Kim created a smaller barrier using his own body to sustain it. His soul -- his entire being -- was the power source. The wave hit. The barrier held. Kim's soul was consumed.
 
-### The Containment
+### The Earring
 
-The protagonist could not prevent Kim's sacrifice, but she managed to partially intervene. She caught what was left of him before he was completely obliterated, containing his being in what can be described as a bottle -- a temporary vessel that preserves what remains of who he is.
+Kim should have vanished completely. Indigo refused to let that happen. She caught what was left of him before he was obliterated, containing his being in a thumb-sized vessel she now wears as an **earring**. She taps it to talk to him. He talks back. Regular contact keeps him somewhat stabilized -- silence accelerates the vessel's decay.
 
-Kim is still present within the vessel. Still conscious. Still himself. The protagonist can talk to him, and he can talk back. He is not a ghost or an echo. He is *him*, compressed into a failing container.
-
-The containment is not permanent. The vessel is degrading. She is on a time limit. If she does not restore Kim before the vessel gives out, he will be lost completely -- obliteration. No afterlife. No soul. Nothing.
+The containment is not permanent. The vessel is degrading. She has one year. If she does not restore Kim before the vessel gives out, he will be lost completely -- obliteration. No afterlife. No soul. Nothing.
 
 This is the ticking clock that drives the game's journey.
 
 ### Kim's Family
 
-Kim's family told the protagonist to stop. To let him go. To not burden herself with this quest.
+Kim's family told Indigo to stop. To let him go. To not burden herself with this quest.
 
-They knew how close Kim and the protagonist were. They did not want to watch her destroy herself chasing something that might be impossible. Kim was a hero to his own family too -- he had saved them as well. But they accepted the loss in a way the protagonist cannot.
+They knew how close Kim and Indigo were. They did not want to watch her destroy herself chasing something that might be impossible. Kim was a hero to his own family too -- he had saved them as well. But they accepted the loss in a way Indigo cannot.
 
-She carries their words with her alongside the bottle. The people Kim died to protect are telling her to move on, and she refuses.
+She carries their words with her alongside the earring. The people Kim died to protect are telling her to move on, and she refuses.
 
 ---
 
@@ -281,7 +280,7 @@ Everyone who loves the protagonist told her not to do this.
 
 Kim's family asked her to let go. The brother, though he would never stop her, understood the danger. The weight of a journey to the center of the Mirralata System -- whatever that entails -- is not lost on anyone.
 
-She went anyway. Not because she believes she is strong enough. Not because she believes she is destined for this. She went because Kim is still in the bottle, still conscious, still suffering, and the vessel is failing. Every day she waits is a day closer to losing him forever.
+She went anyway. Not because she believes she is strong enough. Not because she believes she is destined for this. She went because Kim is still in the earring, still conscious, still suffering, and the vessel is failing. Every day she waits is a day closer to losing him forever.
 
 The journey is not heroism. It is obligation and love tangled together until she cannot tell which one is pulling her forward.
 
@@ -345,13 +344,13 @@ She does not always play it clever because it is optimal. Sometimes the clever p
 
 ### With Kim
 
-Her most honest self. When she talks to the bottle, everything else drops. She does not perform for Kim. She does not need to. He knew her before she was competent, before she was a "prodigy," before she had anything to prove. With him, she is allowed to be tired, confused, and seventeen. The cockiness is gone. The cold is gone. What remains is the girl underneath all of it.
+Her most honest self. When she taps the earring and talks to Kim, everything else drops. She does not perform for him. She does not need to. He knew her before she was competent, before she was a "prodigy," before she had anything to prove. With him, she is allowed to be tired, confused, and seventeen. The cockiness is gone. The cold is gone. What remains is the girl underneath all of it.
 
 ### What She Carries
 
 A deep, quiet awareness that she does not belong anywhere. Not human enough for humans, not elf enough for elves, not hybrid enough for the Black Rose. She has made peace with this in the way that a seventeen-year-old can, which is to say she has not made peace with it at all but has learned to function despite it.
 
-The cockiness, the humor, the edge -- these are real, not masks. But they exist on top of something heavier. She is a teenager carrying sixty years of knowledge she half-remembers, a dying friend in a bottle, and the weight of being extraordinary for reasons she cannot tell anyone about. The personality is genuine. The lightness is earned. But it sits on a foundation that is anything but light.
+The cockiness, the humor, the edge -- these are real, not masks. But they exist on top of something heavier. She is a teenager carrying sixty years of knowledge she half-remembers, a dying friend in an earring, and the weight of being extraordinary for reasons she cannot tell anyone about. The personality is genuine. The lightness is earned. But it sits on a foundation that is anything but light.
 
 ---
 
@@ -364,13 +363,13 @@ Her anchor. The person who chose to love her after initially wanting to leave he
 The person who saved her life as a baby and then slowly stopped seeing her as real. The sister is not a villain. She is an elf who adopted a human child out of genuine compassion and then could not sustain that compassion across the gulf of their lifespans. The protagonist's relationship with the sister is defined by a wound that was never inflicted sharply enough to confront directly -- just a slow, steady withdrawal of regard.
 
 ### Kim Tiernan (Oldest Friend)
-An ordinary person who made an extraordinary choice. Kim is her longest and deepest connection, the one person who saw her fully and chose her as family. He is now contained in a failing vessel that she carries with her, still conscious, still him. She talks to him. He talks back. The relationship continues, compressed into a bottle and a ticking clock.
+An ordinary elf who made an extraordinary choice. Kim is her longest and deepest connection, the one person who saw her fully and chose her as family. He is now contained in a failing vessel -- a thumb-sized earring she wears at all times -- still conscious, still him. She taps it to talk to him. He talks back. The relationship continues, compressed into an earring and a ticking clock.
 
-Kim is always with her. Physically, literally, constantly. The bottle is on her person at all times. He is her companion through every fight, every quiet moment, every decision. He is the voice she hears most.
+Kim is always with her. Physically, literally, constantly. He is her companion through every fight, every quiet moment, every decision. He is the voice she hears most.
 
-**In gameplay, Kim serves as the hint system.** When the protagonist is stuck, lost, or missing something, Kim speaks up from the bottle. He does not solve problems for her -- he nudges, suggests, points her attention toward things she might have overlooked. He is not a tactical advisor or a combat instructor. He is her friend, and he helps the way a friend helps: by knowing how she thinks and gently redirecting when she is spinning her wheels.
+**In gameplay, Kim serves as the hint system.** When Indigo is stuck, lost, or missing something, she taps the earring and Kim speaks up. He does not solve problems for her -- he nudges, suggests, points her attention toward things she might have overlooked. He is not a tactical advisor or a combat instructor. He is her friend, and he helps the way a friend helps: by knowing how she thinks and gently redirecting when she is spinning her wheels.
 
-Kim does not speak to anyone else on the crew. He is contained in the bottle, and his communication is limited to the protagonist. The one exception is **Captain Ys**, who has examined the bottle and what Kim is. Ys understands the vessel, understands Kim's state, and understands the stakes. Ys knows that if the bottle is lost -- if Kim is obliterated -- the protagonist will not willingly continue the journey. Her entire reason for traveling to the center of the Mirralata System is Kim. Without him, there is no motivation, no compliance, no prophecy child walking toward her role. The bottle is not just the protagonist's emotional anchor. It is Ys's leverage -- the thing that keeps his mission viable.
+Kim does not speak to anyone else on the crew. His communication is limited to Indigo. The one exception is **Captain Ys**, who has examined the earring and what Kim is. Ys understands the vessel, understands Kim's state, and understands the stakes. Ys knows that if the earring is lost -- if Kim is obliterated -- Indigo will not willingly continue the journey. Her entire reason for traveling to the center of the Mirralata System is Kim. Without him, there is no motivation, no compliance, no prophecy child walking toward her role. The earring is not just Indigo's emotional anchor. It is Ys's leverage -- the thing that keeps his mission viable.
 
 ### Iris Lirra -- The Professora (Black Rose)
 The woman who brought her in, nearly got her killed, advocated for her life, trained her, bonded with her, and then erased the Blaze Network from her memory as a final act of protection. The protagonist remembers Iris -- her name, their bond, the feeling that this person matters. But the context that would explain the depth of that bond is gone. Iris is the protagonist's only real connection to the Black Rose, and the relationship exists in a strange limbo: close, but incomplete. The protagonist knows Iris shaped her. She cannot fully explain how.
@@ -388,11 +387,11 @@ The brother's biological child, who shares the protagonist's father figure witho
 
 ## Story Context
 
-The protagonist is currently on a journey to the center of the Mirralata System. The Mirralata System is the world -- or cosmos -- in which the game takes place, encompassing multiple regions, realms, or interconnected territories.
+IndigoLLiy is currently on a journey to the center of the Mirralata System. The Mirralata System is the world -- or cosmos -- in which the game takes place, encompassing multiple regions, realms, or interconnected territories.
 
 At the system's center, she believes she can restore Kim Tiernan's soul. The vessel containing his being is failing. If she does not reach the center and find a way to restore him before it gives out, Kim will be obliterated completely -- no soul, no afterlife, nothing.
 
-She carries the bottle. She talks to Kim as she travels. The clock is always running.
+She wears the earring. She taps it and talks to Kim as she travels. The clock is always running.
 
 ---
 
@@ -400,15 +399,12 @@ She carries the bottle. She talks to Kim as she travels. The clock is always run
 
 These elements are referenced in the lore but have not been finalized:
 
-1. **The protagonist's name** -- human birth name, elven given name, or both
-2. **The war** -- what caused it, who fought, and whether she knows anything about her birth family
-3. **The Ivory Blade** -- how the game's title connects to the protagonist
-4. **Kim Tiernan's background** -- his species, how they met, and what forced the soul sacrifice
-5. **The soul sacrifice mechanics** -- who or what Kim gave his soul to, and how the protagonist caught his being
-6. **The bottle** -- what it is physically, how it works, and how long it has left
-7. **Elidyr T. Lumo** -- whether she appears in the game's story, and how the relationship has evolved from age 8 to 17
-8. **The Professora's memory status** -- whether the protagonist remembers her at all, and whether she appears in the game's story
-9. **The Mirralata System** -- its structure, what lies at its center, and why the protagonist believes it can restore a soul
-10. **The adoptive siblings' children** -- their relevance to the story beyond backstory context
-11. **Elven society** -- its structure, its relationship with humans, and the social standing of hybrids
-12. **Kim's family** -- whether they appear in the game, and how the protagonist departed against their wishes
+1. **The war** -- what caused it, who fought, and whether she knows anything about her birth family
+2. **The Ivory Blade** -- how the game's title connects to IndigoLLiy
+3. **Elidyr T. Lumo** -- whether she appears in the game's story, and how the relationship has evolved from age 8 to 17
+4. **The Professora's memory status** -- whether IndigoLLiy remembers her at all, and whether she appears in the game's story
+5. **The Mirralata System** -- its structure, what lies at its center, and why IndigoLLiy believes it can restore a soul
+6. **The adoptive siblings' children** -- their relevance to the story beyond backstory context
+7. **Elven society** -- its structure, its relationship with humans, and the social standing of hybrids
+8. **Kim's family** -- whether they appear in the game, and how IndigoLLiy departed against their wishes
+*Resolved:* Name (IndigoLLiy Vel Quem, nicknames Indigo/Indy). The "Vel" prefix is a shared elven family name -- Sirus is Vel Ouef, IndigoLLiy is Vel Quem, confirming she carries the family name as his adopted daughter. Kim's species (elf). The sacrifice event (soul-destroying wave weapon, outer edge of city, Kim's body-sustained barrier). The vessel (thumb-sized earring, tap to talk, regular contact stabilizes Kim, one year deadline).

@@ -107,4 +107,4 @@ Whether Iris is aware of the protagonist's current journey, whether she would he
 4. **Does she appear in the game?** -- Does Iris show up during the protagonist's journey, or is she purely backstory for this installment?
 5. **Her relationship with the Black Rose leadership** -- Did advocating for the protagonist cost her politically? Is she trusted less now?
 6. **Her own Blaze Network experience** -- How many subjective years did Iris spend inside? What is her magical specialization?
-7. **Does she know about Kim?** -- Is Iris aware of the protagonist's current mission and the bottle?
+7. **Does she know about Kim?** -- Is Iris aware of the protagonist's current mission and the earring?
