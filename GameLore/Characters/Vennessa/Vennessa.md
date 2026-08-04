@@ -69,6 +69,14 @@ Vennessa will be with the crew for **nearly the entire journey**. Ys knows this.
 
 He did not invite her. She did not ask. And she is going to be on his ship for almost the entire 10-game arc whether he wants it or not.
 
+#### The whole crew knows why she is here
+
+**Her motivation is not private and never has been.** The moment Ys found her in the hold she had to explain herself, and the explanation is the entire story above: the cat, the collector, the Mayler Realm, the worm. By the end of that day every person aboard knew all of it.
+
+Write her accordingly. **Nothing about the star cat is a secret, a reveal, or a confession.** There is no scene where Vennessa admits why she is on this ship, because there is nobody left to admit it to. If she raises it, she is raising something everyone in the room already knows.
+
+What is true instead is stranger and worse: **it has been common knowledge for four chapters and not one person has brought it up.** Not to help, not to ask, not in passing. Her reason for existing on this crew was explained once, filed, and never spoken of again. This is the same fact as the nickname -- see § Naming -- and it is why Ys's running "want me to drop you off?" joke works at all. He is needling her about the one thing everybody knows and nobody discusses.
+
 ### Why the Crew Goes to the Mayler Realm
 
 Vennessa's mission and the crew's journey eventually converge. In a **future game**, the crew needs to venture into the **Mayler Realm** to find and steal a **rare creature** capable of helping them cross an Anomaly Realm that blocks their path toward the center of the Mirralata System.
@@ -82,6 +90,12 @@ This means Vennessa's personal mission -- recovering her star cat from the wealt
 ## Drawing-Casting Magic
 
 Vennessa uses the same type of magic as Brod Tsumi -- **drawing-casting**, the ability to bring drawings to life. But where Brod's magic is functional and combat-oriented, Vennessa's is **refined**. She is the better mage of the two by a clear margin.
+
+> **She casts entirely on her own, and she has no connection to Sketch.**
+>
+> Vennessa animates her own creations by her own power. Sketch is Brod's and only Brod's -- not Vennessa's animator, not her courier, not a shared crew tool. Vennessa does not use Sketch, does not need Sketch, does not speak to Sketch, and does not know Sketch is a person at all.
+>
+> When Brod and Vennessa work the same job, they are running **two independent techniques side by side**. Brod draws and Sketch brings his lines out. Vennessa paints and her strokes come alive on their own. The outputs meet; the methods never mix. **This mistake has been written into finished scenes three separate times -- Ch2 twice and Ch4 once. Do not write it a fourth.**
 
 ### The Tool Gap
 
@@ -225,6 +239,24 @@ Vennessa fills gaps. Directional markers in caves. Fake soldiers on a battlefiel
 
 ---
 
+## Naming -- "the mouse" and who says it
+
+**This is a writing rule. It holds in every scene, in every chapter.**
+
+Most of the crew does not call her Vennessa. They call her **"the mouse"** or **"the mouse woman"** -- Indigo, Ys, Brod, and Kim all do it, in dialogue and in narration. It is not cruel and none of them intend anything by it. That is the problem.
+
+"The mouse" is what you call someone who has been fully explained to you and then filed away. They know her name. They know her species, her magic, her cat, her collector, and her destination. They know everything, and they still reach for the label, because she was categorised early and nobody has had a reason to revisit it since. **The nickname and the four chapters of nobody asking about the star cat are the same fact wearing two faces.**
+
+**Kat Arlean Mori is the exception.** Kat has never said "the mouse" in any script, in any chapter -- she uses Vennessa's name every single time, and she has never remarked on doing it. This was true before it was a rule and it is now a rule.
+
+- Kat: **always "Vennessa."** Never the nickname. Not once, not as a joke.
+- Everyone else: the nickname is fine and correct, and should stay common.
+- Vennessa herself: has never objected to it and never will. She notices. She does not consider it worth a fight.
+
+The payoff is quiet and cumulative. If the nickname stays common everywhere else, then one person using her name reads as warmth without anyone having to say anything about it. **Do not retrofit the nickname out of other characters' mouths, and do not let it into Kat's.**
+
+---
+
 ## Key Relationships
 
 ### Captain Ys
@@ -238,6 +270,10 @@ He did not recruit her. She did not ask. She is going to be on his ship for almo
 Ys **jokes about kicking her off. A lot.** It is a running bit -- dry, casual, delivered like it is the most reasonable thing in the world. "We're passing a settlement, Vennessa. Want me to slow down?" The humor lands the way Ys's humor always does: somewhere between funny and unsettling. Vennessa is never entirely sure how much of it is a joke. The unease is constant. She lives on a ship captained by someone who regularly reminds her she was not invited and could be removed at any time.
 
 In a later game, Ys buys her the **Brush Blade** -- but with an ultimatum: learn to use it or get off the crew. This is not a gift. It is an investment with conditions. Ys is done carrying someone who will not evolve. The fact that he bought it at all -- that he spent resources on the stowaway instead of just finding a place to dump her -- says more than any "I'll kick you off" joke ever could.
+
+**She speaks to him exactly once in the first four chapters, and he does not answer.** In the cell in Ch3 1.6, after Brod fobs her off with "She's Indigo," she goes over Brod's head and asks Ys directly what happens to Indigo. It lands closer to the sacrifice than anyone in that cell realises. Ys pauses one second too long and says "Draw."
+
+Vennessa reads this as a captain shutting down chatter during an operation, which is exactly what it is designed to look like, and she goes back to painting without pushing. **She must not suspect anything.** She is structurally the right person to graze the game's largest secret and notice nothing -- her established mode is one soft question followed by reading the room and stopping, set up in Ch1 5.3 with "...Is she okay?" and *(Vennessa blinks. Decides not to ask.)* The audience is meant to catch what she misses.
 
 ### Brod Tsumi
 
@@ -259,7 +295,15 @@ IndigoLLiy **likes Vennessa**. She messes with her a little -- the same cocky en
 
 The dynamic is warm but not deep. IndigoLLiy enjoys Vennessa's presence without investing in it emotionally. She is someone Indigo can poke at without consequence -- a safe target in a crew full of people who are either too dangerous (Ys, Kat), too reactive (Brod), or too fragile (Robert) for that kind of casual play.
 
-In a later game, when Ys gives Vennessa the Brush Blade, IndigoLLiy helps her **learn to use the blade for self-defense**. This is the first sustained, purposeful interaction between them -- and it shifts the dynamic from casual teasing to something with more substance.
+**Their first real exchange is at the end of Chapter 4, and it is the most Vennessa talks in the game.** Indigo has just come back from the wish machine, which was a lie, and she is asking the crew whether the Mirralata center is another one. Kat answers with evidence, Robert with logistics, Brod with "I'd rather find out than wonder" -- three people all answering *is it real*. Nobody answers the question Indigo actually asked, which is *what happens if it isn't*.
+
+Vennessa is the only person aboard who can answer that one, because she is the only person aboard who is not here for a prophecy, a paycheck, or an order. She raises the star cat -- something everyone has known for four chapters and nobody has mentioned -- and makes the point plainly: she does not know if the cat is still alive, she has never known, and she would go anyway. So would Indigo. That is not stupidity, it is the price, and the question worth asking is whether you can pay it.
+
+**The asymmetry between them is the whole point.** Vennessa's cat is real and she knows exactly where it is; she simply cannot reach it. Indigo does not know whether there is anything at the center at all. Same devotion, opposite odds -- and the one whose object is real is the one this crew calls "the mouse."
+
+This is recognition, not friendship, and it does not make them close. Indigo answers with a single "...Okay." But it is the first time she has looked at Vennessa as a person rather than a safe target, and it reframes the casual teasing that came before it.
+
+In a later game, when Ys gives Vennessa the Brush Blade, IndigoLLiy helps her **learn to use the blade for self-defense**. This is the first sustained, purposeful interaction between them -- and it shifts the dynamic from casual teasing to something with more substance. The Ch4 ending beat is the seed of it.
 
 ### Kat Arlean Mori
 
@@ -267,7 +311,17 @@ Neutral but friendly. Kat does not provoke Vennessa the way she provokes Brod. T
 
 Where Kat's energy toward Brod is predatory and playful, her energy toward Vennessa is almost maternal -- a more experienced woman offering guidance to someone who is clearly out of her depth. This is rare for Kat, who defaults to provocation with most people.
 
-The one exception: Kat will occasionally **ship Vennessa with Brod** -- or with others -- specifically to make Brod flustered. This is not her primary method of tormenting him (she prefers direct seduction for that), but when she wants variety, suggesting that Brod and Vennessa are a thing -- or that Vennessa and someone else would be cute together -- gets a reaction out of him that direct flirtation does not. It is rare compared to Kat's usual approach, but effective.
+The relationship runs through medicine. Vennessa is a civilian who does not fight, cannot take a hit, and gets hurt anyway, so Kat has patched her up more times than anyone else aboard. Kat is one of the only people who regularly touches her and one of the only people who gets time alone with her, because injuries create privacy that nothing else on this ship does.
+
+Kat is also **the only person who notices her work.** Vennessa's magic is force multiplication -- decoys, copies, barriers -- and it is invisible precisely when it succeeds. Kat is the crew's other support caster and knows that problem from the inside. In Ch3 6.2 she points out that Vennessa spent hours in a cell painting an entire army and not one person has said a word about it. She is right, and she is the only one who would notice.
+
+**Kat calls her by her name, always.** See § Naming above. It is the quietest and most important thing in this relationship.
+
+The one exception to the warmth: Kat will occasionally **ship Vennessa with Brod** -- or with others -- specifically to make Brod flustered. This is not her primary method of tormenting him (she prefers direct seduction for that), but when she wants variety, suggesting that Brod and Vennessa are a thing -- or that Vennessa and someone else would be cute together -- gets a reaction out of him that direct flirtation does not. It is rare compared to Kat's usual approach, but effective.
+
+The first instance is Ch3 6.2, while Kat is stitching her arm. Warm voice, completely stoic face, no visible tell, and "I haven't said anything, Brod" -- which is literally true, and which leaves him arguing with an accusation nobody made.
+
+It has a second effect Kat probably intends. **It forces Vennessa to react**, which she otherwise never does. Her default is one soft question and then letting it go. Here that default fails: she deflects twice and then gives up with "I don't want to be in this." Kat is the only crew member who reliably breaks her composure, and watching the composure break is characterisation Vennessa gets nowhere else.
 
 ---
 
@@ -283,7 +337,15 @@ Vennessa's entire reason for being on the crew is her **kidnapped star cat**.
 | **Where is it now?** | The Mayler Realm -- a realm notorious for poaching, animal abuse, and terrible conditions for captive creatures. |
 | **When does recovery happen?** | A future game. The crew ventures into the Mayler Realm to steal a rare creature that can help them cross an Anomaly Realm. Vennessa's personal mission and the crew's strategic need converge. |
 
-Vennessa will not stop looking. The cat is not a plot device she will forget about. It is the reason she is here, and it will remain the reason she is here until it is resolved. Every realm the crew passes through, she is scanning for information. Every stop, she is listening for leads. The Mayler Realm is where it ends -- one way or another.
+Vennessa will not stop. The cat is not a plot device she will forget about. It is the reason she is here, and it will remain the reason she is here until it is resolved. The Mayler Realm is where it ends -- one way or another.
+
+### It is a destination, not a mystery
+
+**Do not write this as a search.** Vennessa is not hunting for leads, chasing rumours, or asking Kat to look anything up. She has known the answer since the day it happened: she knows the man's name, she knows the house, she knows the realm. Nothing is missing except the ability to get there, and that is a travel problem created by the worm and the class divide -- not an information problem. There is nothing for anyone on this crew to find out for her.
+
+**And do not write it as a secret.** The entire crew has known all of it since Ys pulled her out of the hold. See § How She Joined -- *The whole crew knows why she is here.*
+
+What she actually does not know is whether the cat is still alive. She has never known and she has no way to find out. It has been a long time, the Mayler Realm is notorious for how captive animals are kept there, and she is riding a warship that will not reach the place for most of a ten-game arc. **She goes anyway.** That is the load-bearing fact about her, and it is the one she finally says out loud in the Ch4 ending beat -- see § Key Relationships -- IndigoLLiy.
 
 ---
 
@@ -299,12 +361,12 @@ The crew has two temporary passengers who are supposed to be dropped off -- Robe
 
 ## Open Questions
 
-1. **The star cat** -- What exactly is a star cat? What makes it rare? Is it a pet, a companion, or something with magical significance?
+1. **The star cat** -- What exactly is a star cat? What makes it rare? Is it a pet, a companion, or something with magical significance? Also unnamed on the page, deliberately: nobody has ever asked Vennessa what the cat is called. **Note:** Vennessa refers to the cat as *she* in the Ch4 ending beat. If that is wrong, it is the one place to change it.
 2. **Age** -- How old is Vennessa? Is she older or younger than the rest of the crew?
 3. **Origin** -- Where is she from? What realm? What was her life before the cat was taken?
 4. **Drawing-casting training** -- How did she learn? Is it the same tradition Brod learned from, or a completely different school? Does she know how Brod learned his?
-5. ~~**Relationship with IndigoLLiy**~~ -- Partially resolved: Initially neutral/background. Changes when Indigo helps train Vennessa with the Brush Blade. Whether this creates a real bond remains open.
-6. **Awareness of Sketch** -- Does Vennessa know Brod's sketchbook is sentient? As a fellow drawing-caster, would she recognize the signs?
+5. ~~**Relationship with IndigoLLiy**~~ -- Partially resolved: Initially neutral/background, then the Ch4 ending beat, where Vennessa answers the question nobody else answers and Indigo sees her properly for the first time. Deepens further when Indigo trains her with the Brush Blade. Whether it becomes a real bond remains open.
+6. ~~**Awareness of Sketch**~~ -- **Resolved: she does not know.** Vennessa reads the sketchbook as a powerful magic tool, same as Indigo and Robert. Only Brod knows Sketch is a person; only Ys and Kat have guessed, and they have never said so. Whether a fellow drawing-caster *should* be able to spot it is a live scene opportunity, not an open lore question -- she has not spotted it yet, and she must not until the reveal. See `GameLore/Characters/BrodTsumi/Sketch.md` § Writing Rules.
 7. ~~**The safe place**~~ -- Resolved: There is no early stop. The Mayler Realm is near the center of the Mirralata System. Vennessa is on the ship for nearly the entire journey. Ys really wants her gone but the math doesn't work.
 8. **Her reaction to the paintings** -- Does she know the directional paintings led the Wolf Squad to the crew? If so, how does she feel about it?
 9. **Combat ceiling** -- Is deception her limit, or could she create things that fight at the level her fake soldiers deceive? What happens when her drawings are discovered to be fakes mid-battle?

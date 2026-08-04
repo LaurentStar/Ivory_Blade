@@ -12,8 +12,10 @@
 | **Nature** | Sentient sketchbook. A living being with two forms. |
 | **Owner** | Brod Tsumi |
 | **Forms** | Book form (default) and humanoid form |
-| **Perceived As** | Brod's imaginary friend -- until the reveal |
-| **Awareness** | Captain Ys and the rabbit girl know Sketch is real. Nobody else on the crew does initially. |
+| **Perceived As** | A blue sketchbook that Brod talks to. Most of the crew thinks it is a quirk. |
+| **Awareness** | Captain Ys and Kat (the rabbit girl) know Sketch can talk. Nobody else on the crew does -- including Brod, who does not know they know. |
+| **Humanoid Form Seen By** | Brod. Only Brod. Nobody else has ever seen it. |
+| **Reveal Status** | **Has not happened.** The reveal is a future-story event. See [Writing Rules](#writing-rules). |
 
 ---
 
@@ -21,9 +23,13 @@
 
 ### Book Form (Default)
 
-A blue spiral-bound sketchbook. This is how Sketch appears most of the time -- sitting in Brod's hands, tucked under his arm, or open on whatever surface he is drawing on. It looks like a normal sketchbook to anyone who does not know better. Blue cover, spiral binding, pages full of Brod's drawings.
+A blue spiral-bound sketchbook. This is how Sketch appears **almost all of the time** -- sitting in Brod's hands, tucked under his arm, or open on whatever surface he is drawing on. Blue cover, spiral binding, pages full of Brod's drawings.
+
+The book is not inert. It floats, hovers, flips its own pages, hums when it works, and pushes ink constructs off the paper into the world. The crew has watched it do all of this and reads it as exactly what it looks like: a powerful magical tool, the source of Brod's drawing-casting. A talented artist with an enchanted sketchbook. That is the whole story as far as they are concerned.
 
 Brod talks to the sketchbook. The crew assumes this is a quirk -- the anxious artist muttering to his drawings, an imaginary friend, a coping mechanism. Nobody takes it seriously because nobody has a reason to. It is just Brod being Brod.
+
+**Sketch talks back, but only Brod hears her.** She pitches her voice down to him -- from under his arm, from the open pages, close and quiet. When other people are in the room, this is the only way she communicates. Anything the crew needs to hear, Brod says out loud himself. To an observer, he mutters at a book and then reports a conclusion.
 
 ### Humanoid Form
 
@@ -32,6 +38,8 @@ Sketch can manifest as a humanoid figure -- a girl with white/pale hair, blue ey
 She looks like something Brod drew and brought to life -- which is essentially what she is. There is a sketch-like quality to her, as if the lines that define her were put down by the same hand that fills the sketchbook's pages.
 
 In humanoid form, Sketch is loud where Brod is quiet, confident where he is anxious, and socially aggressive where he is withdrawn. She leans in, asks questions, gets in people's space. She is the extrovert attached to an introvert, and she does not let him hide.
+
+**She has only ever manifested in front of Brod.** The humanoid form is private -- something that happens when the two of them are alone and nobody else is watching. It is not a combat form, not a utility form, and not something she does because a job calls for it. She can pull off every trick she has from inside the book. Manifesting is intimacy, not capability.
 
 ---
 
@@ -59,17 +67,36 @@ Sketch can make Brod's drawings become real. This is the core of their partnersh
 
 ## The Secret
 
-The rest of the crew -- the protagonist, the mechanic, the mouse woman -- does not know Sketch is real. They see Brod talking to a sketchbook and chalk it up to his personality. An anxious kid with an imaginary friend. Weird, but harmless.
+**Indigo, Robert, and Vennessa do not know Sketch can talk.** They see a blue book Brod carries and mutters at. They know it is magic -- they have watched it cast. They do not know there is a person in it. An anxious kid with an enchanted sketchbook and an imaginary friend. Weird, but harmless.
 
-**Captain Ys and the rabbit girl know.** They are aware of all sentient beings on the ship. Sketch's existence is not hidden from them -- they simply have not announced it to the rest of the crew. Brod did not know they knew until an emergency forced the issue.
+**Captain Ys and Kat know.** They are aware of all sentient beings on the ship, so Sketch's existence was never hidden from them. But knowing is all they do. They have never announced it, never addressed the book directly, and never treated Sketch as a crew member in front of anyone. **Brod does not know they know.** That gap is the whole point of the reveal, and it only pays off if it stays sealed until then.
 
-### The Reveal
+### The Reveal -- Future Story, Not Yet Written
 
-During a crisis, Ys calls for "all hands on deck." He grabs the sketchbook, yells at it to get to work or get thrown out. Sketch manifests. The crew sees her for the first time. Brod's imaginary friend is standing in front of them, very real, very much a person, and apparently being drafted into emergency labor by the captain.
+> **This has not happened. Do not script it, reference it, or let characters behave as though it has.**
 
-Ys and the rabbit girl confirm, without particular drama, that they are aware of all sentient beings on the ship. They have always known about Sketch. This was never a secret to them -- just something they did not consider worth discussing until it became operationally relevant.
+At some future point, during a crisis, Ys calls for "all hands on deck." He grabs the sketchbook and yells at it to get to work or get thrown out. Sketch manifests. The crew sees her for the first time. Brod's imaginary friend is standing in front of them, very real, very much a person, and apparently being drafted into emergency labor by the captain.
 
-For Brod, the reveal is a different kind of shock. His private companion -- the one thing that was just his, that nobody else could see or judge -- is now visible to the entire crew. The people who bully him and provoke him now know about the sketchbook girl. Whether this changes his dynamic with the crew, and whether Sketch's personality makes things better or worse for him socially, plays out after the reveal.
+Ys and Kat then confirm, without particular drama, that they are aware of all sentient beings on the ship. They have always known about Sketch. It was never a secret to them -- just something they did not consider worth discussing until it became operationally relevant.
+
+For Brod, the reveal is a different kind of shock. His private companion -- the one thing that was just his, that nobody else could see or judge -- is suddenly visible to the entire crew. The people who bully him and provoke him now know about the sketchbook girl. Whether this changes his dynamic with the crew, and whether Sketch's personality makes things better or worse for him socially, plays out after the reveal.
+
+---
+
+## Writing Rules
+
+Hard constraints for any scene written before the reveal. Chapters 1 through 4 are all pre-reveal.
+
+1. **Sketch is in book form in every scene with anyone but Brod.** No exceptions for convenience. If a scene seems to need her manifested, it does not -- rewrite the staging.
+2. **The only on-screen manifestation to date is Ch1 Level 4**, at the husky supply camp, where Brod is explicitly alone. She transforms, celebrates for three seconds, and folds back into the book. That is the correct pattern.
+3. **She never speaks so the crew can hear her.** Her lines are pitched to Brod alone and marked as such: *SKETCH (from the book, quiet -- just to Brod)*. Information the crew needs gets relayed by Brod in his own voice.
+4. **She never speaks over comms.** Anything she finds goes out through Brod or Kat.
+5. **Nobody addresses her by name in front of the crew.** Especially not Ys. Him talking to the book *is* the reveal -- spending it early destroys the scene it belongs to. Ys assigning tasks says "Kat. Brod." and stops there.
+6. **Ys and Kat give nothing away.** They know, and they act exactly like people who do not. Kat can refer to "the book" as a tool; she does not refer to Sketch as a person where others can hear.
+7. **Brod does not know Ys and Kat know.** He is protecting a secret he believes is intact.
+8. **Book form is not a limitation.** She floats, hovers, riffles pages, hums, animates every drawing Brod makes, and tires herself out doing it. Anything her power can accomplish, she can accomplish as a book -- manifesting adds nothing operational.
+9. **Her power is animation, not information.** She brings Brod's drawings to life. That is the whole of it. She does not read data, interface with hardware, or process archives -- that is Tablet's function, and the two should never be swapped. If a scene needs a machine read, it needs Tablet.
+10. **She animates Brod's drawings and nobody else's. Never Vennessa's.** **Vennessa is a fully independent drawing-caster who animates her own work by her own power and has no connection to Sketch at all.** Sketch is not her animator, not her courier, not her amplifier, and not a shared crew resource. When the two artists work the same job -- the Ch4 cannon, the Ch2 cave defense -- they are running two separate techniques side by side, and Sketch's contribution stops at the edge of Brod's linework. This error has been written into finished scenes three separate times. Check for it.
 
 ---
 

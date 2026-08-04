@@ -160,7 +160,11 @@ The protagonist makes it to the shelter with the dragon egg. She has led the dra
 
 The weather reports are deceptive -- the skies above the shelter are **calm**. The storm has not passed. They are in the **eye of a hurricane**. It will get much worse when the wall hits.
 
-The dragon **rains down on the shelter**, attacking everything and everyone. It does not discriminate. Soldiers, structures, vehicles -- the dragon wants its egg and it will destroy anything in its path. The army scrambles to respond to a threat they abandoned a fortress to avoid.
+The dragon **rains down on the camp**, attacking everything and everyone. It does not discriminate. Soldiers, structures, vehicles -- the dragon wants its egg and it will destroy anything in its path. The Legion scrambles to respond to a threat they abandoned a fortress to avoid.
+
+**The protagonist throws the egg away.** The moment she is on the ground, she pitches it into the nearest Legion tent and keeps moving. The egg has served its purpose and holding it makes her the target of a rampaging dragon. She does not look at where it lands.
+
+**The egg's fate is deliberately left unresolved.** It is not shown breaking and it is not shown intact. What matters is the consequence: the dragon can no longer track it. It arrived enraged and now it has nothing to focus that rage on, so it turns on the entire field. Whatever restraint a creature looking for one specific object might have had is gone. This is what makes the rest of the level a three-way war rather than a dragon retrieving its property and leaving.
 
 **Ys gives the signal.** Brod and the mouse woman activate their prepared drawings. Brod's combat creatures deploy into the chaos. The mouse woman's **fake soldiers** -- copies of real army troops, loyal to their creator -- flood the battlefield, blending in with the real forces and sowing confusion about who is on which side.
 
@@ -184,13 +188,21 @@ The Tiger Unit had a **spy**. This spy alerted the **opposing army** about the p
 
 Everyone is on the ground fighting. The protagonist, the crew, Brod's creatures, the mouse woman's fake soldiers -- all of them are in the middle of a three-way war:
 
-- **The dragon** -- attacking indiscriminately, chasing its egg, destroying everything
+- **The dragon** -- attacking indiscriminately, no longer able to find its egg, destroying everything
 - **Swahili East Axel Legion** -- the army that deployed the Wolf Squad and Tiger Unit, converging on the shelter
 - **People Swahili Brigade and Electives** -- the opposing army, arriving from the other direction via spy intelligence, also hunting the prophecy child
 
 The protagonist is not trying to win. She is trying to **survive for a duration** -- hold the ground, keep the crew alive, and wait for the ship to be ready for departure. The crew fights. The drawing-cast minions fight. The dragon fights everyone. The two armies fight each other AND the crew AND the dragon.
 
 This is the most chaotic battlefield in the game. Three factions plus a dragon plus the crew in the eye of a hurricane with the storm wall closing in.
+
+**Brod meets the tiger captain here.** In a parallel cutscene the protagonist never sees, the tiger captain walks through Brod's position on his way to the prophecy child. Brod deploys three constructs; the tiger captain destroys all three in a single motion and puts Brod on his back. **Tablet is the only reason Brod survives** -- she hits the tiger captain from the side and is put down for it, buying the seconds that keep him from being finished. The tiger captain looks at Brod, decides he is not worth the time, and moves on without touching him again.
+
+This is the fight Brod refers to in Chapter 4 when he warns the protagonist. It lasted seconds and it was completely one-sided. Nobody else on the crew witnesses it, and Brod never learns the tiger captain later gets inside the seal.
+
+**Then Jack goes after him.** In the second half of the same parallel cutscene, Jack -- close enough to have heard the tiger captain write Brod off -- stops where his superior did not. Brod tries to duel him and is put through a stack of crates for it. Then he stops dueling. He backs off and works: rushed midair symbols, constructs cycling in faster than Jack can clear them, Tablet closing every time Jack commits. Jack is better than every individual piece of it, and it does not matter, because there is always another one. He is taken to a knee. He breaks off unfinished when the tiger captain gets too far ahead of him, says two words, and goes.
+
+**Back to back, these two encounters do opposite jobs.** The tiger captain establishes how far above the crew the endgame threat sits. Jack establishes that Brod's floor is far higher than the audience has been allowed to think -- not as a swordsman, but as a system. It is Chapter 4's central argument ("weak people together beat one strong person alone") rehearsed at one-fifth scale, and it is the reason the cannon sequence lands as earned rather than convenient. Brod does not read it as a win. Sketch does.
 
 **Gameplay establishes:** Survival combat -- endure waves of enemies from multiple factions for a set duration. The dragon as an environmental hazard that attacks all sides. The drawing-cast minions (Brod's creatures and the mouse woman's fake soldiers) as allied combatants on the field. Ys's special move and his ability to move through elite fighters. The escalation from a local hunt to a full-scale convergence of two armies. The hurricane eye as a ticking clock -- when the wall hits, everything changes.
 
@@ -200,7 +212,7 @@ The dragon is getting angrier. The battle, the armies, the chaos -- it has been 
 
 The shot hits the shelter. But the shelter is not just a shelter.
 
-The structure the army had been using as cover is an **ancient structure** -- sealed away for centuries, locked, forgotten. The armies used it as a shelter without knowing what it actually was. The dragon's white fireball hits the **gate** in exactly the right way to **unseal it**. The gate opens.
+The structure the army had been using as cover is an **ancient structure** -- sealed away for centuries, locked, forgotten. The Legion camped on it and sheltered behind it without knowing what it actually was. The Brigade had only just arrived on the field and never used it at all. The dragon's white fireball hits the **gate** in exactly the right way to **unseal it**. The gate opens.
 
 This is a **hidden secret of the Swahili Realm**. The key to opening this ancient structure was always a dragon -- a specific kind of force, a specific kind of fire. The dragon did not know this. The armies did not know this. Nobody planned for this.
 
@@ -267,7 +279,7 @@ The protagonist, Brod, and the mechanic talk while they work -- about the situat
 
 1. **The ancient structure** -- What is it? Why was it sealed? What is inside? Is it connected to the prophecy or the Mirralata System?
 2. **The tiger captain** -- He is inside the sealed structure with the crew. When and how does the confrontation happen?
-3. **The dragon and the egg** -- Does the protagonist still have the egg? Is the dragon locked outside?
+3. **The dragon and the egg** -- The protagonist threw the egg into a Legion tent in Level 4 and the dragon is locked outside the gate. Whether the egg survived that tent is unanswered and intentionally so. If it did, there is a dragon somewhere that has a reason to keep looking.
 4. **Both armies** -- They are locked outside. Do they try to open the gate? Do they fight each other over it?
-5. **Jack** -- Is he locked outside? What does he do after being scolded by the tiger captain?
+5. ~~**Jack**~~ -- Resolved. He is not locked outside; he follows the tiger captain through the gate in Level 5. What he does after being scolded is Level 4 -- he breaks off from his captain's wake to finish the one enemy his captain judged not worth finishing, and fails. Still open: whether that was aimed at the protagonist, at the tiger captain, or at himself.
 6. **The structure's interior** -- Chapter 4 explores what this place actually is. What does the crew find?

@@ -90,7 +90,7 @@ This is where the crew sees Robert as more than the person who fixes things. Her
 
 In Chapter 4, the protagonist kicks the tiger captain into the air. Brod's drawing-cast symbols are on the ship's laser. Robert fires.
 
-The magically augmented blast hits the tiger captain. He is burned, broken, and beaten. Robert contributed to a kill for the first time -- the most dangerous individual fighter in the game, brought down by a crew working together, with the scared mechanic pulling the trigger.
+The magically augmented blast hits the tiger captain. He is burned, broken, and beaten. He does not die -- he goes down and stays down. Robert took a shot at a living person for the first time in her life, and it brought down the most dangerous individual fighter in the game: a crew working together, with the scared mechanic pulling the trigger.
 
 She did not volunteer for this. She was in position, the weapon was ready, and the moment came. She fired because it needed to happen. That is who Robert is: the person who does what needs to be done, not because she is brave, but because she is there and nobody else can do it.
 

@@ -73,15 +73,27 @@ The ceiling on what he can create is high -- dragons, copies of people, complex 
 
 **Not a good fighter.** Brod is a mercenary who is not particularly good at fighting. He can defend himself -- he is not helpless, and he will not go down without resistance -- but he is not someone you want leading a charge or holding a line. His value is in his drawing-casting, not his swordplay. The dual swords are tools for drawing first and weapons second. In a straight fight without magic, he loses to most serious opponents. Given the choice between rushing in with blades and standing back to sketch a spell, he picks the sketch every time because the sketch is where his actual capability lives.
 
+### High-water mark -- Ch3 4.4c
+
+Brod's best showing in the game is against **Jack**, the Wolf Squad leader, immediately after the tiger captain has already knocked him flat and dismissed him. It is the clearest demonstration of everything above.
+
+He opens by trying to duel Jack and is beaten across the field for it in a single exchange. Then he stops. He backs off, starts slashing rushed symbols in midair, and puts Jack in front of three problems at once -- constructs coming in on a rolling cycle, Tablet closing whenever Jack commits, and Sketch converting bad drawings into live threats faster than Jack can clear them. Jack takes a knee. He disengages without finishing it.
+
+**Brod did not out-fight him and could not have.** Jack is the second-best combatant in the game. What Brod did was refuse to be a single opponent, which is the one thing Jack's style has no answer for. This is the honest shape of Brod's ceiling: he is dangerous as a system and ordinary as a swordsman, and the gap between his profile and his on-screen record closes when a scene lets him operate instead of fight.
+
+He does not read it as a win. Sketch does.
+
 ---
 
 ## Sketch -- The Sketchbook
 
 Brod's closest companion is not a person on the crew. It is his sketchbook -- a blue spiral-bound book called **Sketch** that is a sentient being with two forms: a book (default) and a humanoid girl with white hair, blue eyes, and a forward, playful personality that is the opposite of everything Brod is.
 
-The crew does not know Sketch is real. They see Brod talking to a sketchbook and assume it is an imaginary friend, a quirk of the anxious artist. Captain Ys and the rabbit girl know -- they are aware of all sentient beings on the ship -- but they do not announce it until an emergency forces Ys to grab the sketchbook and yell at it to get to work or get thrown out. Sketch manifests. The secret is over.
+The crew does not know Sketch is real. They see a blue book Brod mutters at and assume it is an imaginary friend, a quirk of the anxious artist. They know the book is magic -- they have watched it cast -- they just do not know there is a person in it. Brod is the only one who has ever seen her humanoid form, and she only takes it when the two of them are alone.
 
-Brod did not know Ys and the rabbit girl were aware of Sketch. The reveal is a shock on multiple levels: his private companion is now visible to the people who bully and provoke him, and the captain he works for has been keeping quiet about knowing his deepest secret the entire time.
+Captain Ys and Kat know Sketch is real -- they are aware of all sentient beings on the ship -- but they have never said so to anyone, including Brod. **Brod does not know they know.**
+
+**The reveal has not happened yet.** In a future story, an emergency forces Ys to grab the sketchbook and yell at it to get to work or get thrown out. Sketch manifests in front of everyone. The shock lands on Brod from two directions at once: his private companion is suddenly visible to the people who bully and provoke him, and the captain he works for has been sitting on his deepest secret the entire time. Until that scene is written, Sketch stays in book form in every scene with anyone but Brod, and nobody addresses her out loud.
 
 Full profile: `GameLore/Characters/BrodTsumi/Sketch.md`
 
@@ -112,6 +124,30 @@ Ys mentors Brod, but not gently. Stern orders, no praise, no explanations beyond
 Ys does not joke with Brod. The humor Ys shows to the mechanic and the mouse woman never extends to the mercenary. With Brod, everything is direct and serious. This is how Brod knows Ys respects him.
 
 Brod is one of Ys's two closest connections on the crew (the other being the rabbit girl). What makes this relationship different from the rabbit girl's is its shape: Ys and Brod are mentor and mentee, not partners. The bond is built on shared experience and mutual understanding, not intimacy.
+
+### The Contradiction
+
+Brod cannot read Ys's big-picture thinking. He does not understand the plans, the motives, the strategy. He will openly say so -- "I don't understand a single thing he does."
+
+But Brod knows Ys well enough to act without being told. When Ys gives a half-order or no order at all, Brod's body fills in the blanks -- the right position, the right response, the right timing. His instincts operate below conscious thought. He does not think about it. He just does it.
+
+The contradiction is deliberate. His words say "I can't read this guy." His actions say "I know exactly what he expects." He does not recognize this about himself. This is what mentorship looks like when neither party will call it that.
+
+---
+
+## Avolin Credit -- The Debt
+
+Brod owes a crushing debt to **Avolin Credit**, a predatory financial entity. He is enrolled in the **Movator program** -- a debtor's agreement that keeps him out of collection as long as he maintains payments.
+
+If he stops paying, he gets pulled into a **hell-like environment** -- Avolin's collection realm. This is not a metaphor. The debt is enforced by a literal demonic infrastructure.
+
+A **demonic entity** monitors him at all times. It manifests as an ambient presence -- shadows darken around Brod's body, the temperature drops, frost appears on his clothing and skin. When it speaks, the voice is **perky corporate** -- crisp, helpful, customer-service tone. It does not threaten. It *reminds.* A billing department from hell, literally.
+
+The demon activates whenever Brod's "motivation metrics" drop -- whenever he considers quitting, walking away, or stopping. The language is corporate jargon applied to damnation: "Our systems have detected your motivation to fulfill your payment obligations has dropped below the contracted threshold. This is a friendly reminder..."
+
+This is why Brod stays with Ys. Not loyalty. Not growth. Not belief in the mission. The paycheck from Ys is the only thing keeping Avolin from collecting. Every time Brod considers walking away from the craziness, the demon checks in, and the craziness becomes the better option.
+
+The name is dropped in Chapter 2 -- Vennessa says "Avolin Credit?" and Brod goes silent. Chapter 3 is the first time the player sees and hears what that actually means.
 
 ---
 

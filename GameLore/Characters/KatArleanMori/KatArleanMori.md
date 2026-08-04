@@ -90,6 +90,22 @@ Brod considers Kat one of the crew members who is not normal. The mouse woman an
 
 ---
 
+## Relationship with Vennessa
+
+Warm, and close to maternal, though Kat would never describe it that way and Vennessa would be embarrassed if anyone said it out loud.
+
+The relationship runs through medicine. Vennessa is a civilian who does not fight, cannot take a hit, and gets hurt anyway, which means Kat has patched her up more times than anyone else on the crew. Kat is one of the only people who regularly touches her, and one of the only people who has time alone with her, because injuries create privacy that nothing else on this ship does.
+
+**She uses Vennessa's name.** This is the single most important thing about the relationship and it is invisible unless you are looking for it. Indigo, Ys, Brod, and Kim all call her "the mouse" or "the mouse woman." Kat never has, in any scene, in any chapter. It is not a statement and Kat has never remarked on it -- it is just what she does, and it means Vennessa hears her own name from exactly one person aboard. **Do not write Kat saying "the mouse."** See `GameLore/Characters/Vennessa/Vennessa.md` § Naming.
+
+She also **notices Vennessa's work**, which nobody else does. Vennessa's magic is force multiplication -- decoys, copies, barriers -- and it is invisible precisely when it succeeds. Kat is the crew's other support caster and understands the problem from the inside. In Ch3 6.2 she points out that Vennessa spent hours in a cell painting an entire army and not one person has mentioned it. She is right, and she is the only one who would notice.
+
+**And she uses all of that goodwill to torment Brod.** Kat suggests, in a completely warm voice with a completely stoic face, that Vennessa and Brod are a thing. She does it because it gets a reaction out of him that direct flirtation does not, and because Vennessa reacting is funny to her. It is the same instinct as everything else she does to Brod, aimed through a third party.
+
+This has a second effect Kat probably does intend: it forces Vennessa to have a reaction at all. Vennessa's default is one soft question and then letting it go. Kat is the only crew member who reliably breaks that.
+
+---
+
 ## Appearance -- Clothing
 
 Kat switches outfits constantly. Her default wardrobe leans **scandalous** -- revealing, attention-grabbing, the kind of clothing that makes Brod unable to look in her direction without short-circuiting. She dresses like someone who knows exactly what she looks like and enjoys the effect.

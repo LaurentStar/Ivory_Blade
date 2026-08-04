@@ -64,6 +64,13 @@ Jack finds the protagonist midway to the giant tower. Boss fight in brutal condi
 ### Ch3 L2: Freed by the Tiger Unit
 The Tiger Unit arrives at the ship, finds Jack tied up and the mechanic alone. The tiger captain unties Jack and scolds him -- the Wolf Squad was beaten by a teenage girl, Bassual is dead, and their leader was captured. Jack is visibly upset but does not challenge the tiger captain. The hierarchy is clear.
 
+### Ch3 4.4c: Brod
+The tiger captain flattens Brod on the battlefield, looks at him for half a second, says "No," and walks on. Jack was close enough to hear it. He stops where his superior did not, and this is the only thing he does in the entire chapter that was not ordered.
+
+He wins the opening exchange without effort -- Brod tries to duel him and goes through a stack of crates for it. Then Brod stops trying to duel him. What Jack ends up fighting is not a swordsman but an arrangement: a caster who will not stop drawing, a bodyguard who stands back up every time she is put down, and a sketchbook converting rushed symbols into constructs faster than he can clear them. Jack is better than every individual piece of it and that turns out not to matter. He is taken to one knee.
+
+He disengages before it resolves -- the tiger captain is across the field and closing on the protagonist, and Jack's objective goes with him. Whether he broke off because of the objective or because he was losing ground is left open. He says two words on the way out. **They are his only spoken words in Chapter 3.**
+
 ---
 
 ## Relationships
@@ -76,12 +83,13 @@ The Tiger Unit arrives at the ship, finds Jack tied up and the mechanic alone. T
 | **Bleu Rouge** | Tech support. Jack depends on Bleu's communications and tracking to keep the squad coordinated. |
 | **The Protagonist** | The target. She dismantled his squad, killed his youngest member, beat him in single combat, and used him as bait. Jack's feelings about her after being freed are unresolved. |
 | **The Tiger Captain** | Superior officer who freed him and humiliated him. Jack backed down without challenge. The hierarchy is clear, but the contempt stings. |
+| **Brod Tsumi** | The crew's caster. Jack goes after him in Ch3 4.4c specifically because the tiger captain would not, and fails to finish him. He never learns Brod's name. Brod does not think he won. |
 
 ---
 
 ## Open Questions
 
-1. **Post-capture state** -- After being used as bait and then freed by the tigers, what is Jack's mental state? Does he want revenge?
+1. ~~**Post-capture state**~~ -- Resolved in Ch3 4.4c. He wants it badly enough to break off from his own captain's wake and go after a target that was explicitly deemed not worth finishing. He does not get it. What is unresolved is whether the revenge was aimed at the protagonist, at the tiger captain, or at the version of himself that got tied to a rock.
 2. **After Ch3** -- Is he locked outside the ancient structure? Does he regroup with the remaining wolves?
 3. **Future games** -- Does Jack appear again? Does the squad reform?
 4. ~~**Age**~~ -- Resolved. 32 years old.

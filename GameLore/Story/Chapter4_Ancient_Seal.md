@@ -47,29 +47,33 @@ Kat finds him. The **Tiger Unit captain** made it inside. He is moving through t
 
 The protagonist offers to deal with it.
 
-**Brod speaks up.** He briefly fought the tiger captain during the chaos of getting through the gate. He tells the protagonist the tiger captain is "kinda tough." This is Brod's way of warning her -- the kid who is not a good fighter and knows it is telling her this one is serious.
+**Brod speaks up.** He fought the tiger captain during the Survival Fight in Chapter 3 -- see Ch3 script scene 4.4b. It lasted seconds, it was entirely one-sided, and he only walked away because Tablet intervened and because the tiger captain judged him not worth finishing. He tells the protagonist the tiger captain is "kinda tough." This is Brod's way of warning her -- the kid who is not a good fighter and knows it is telling her this one is serious. She did not see the fight and does not weigh his opinion, so she brushes it off.
 
 The protagonist **brushes him off.** She has beaten Jack. She has survived everything the Swahili Realm has thrown at her. Brod's opinion on who is tough does not carry much weight with her.
 
 ### The Wish Machine Discovery
 
-**Kat, Brod, and Sketch** interface with the structure's ancient records. By combining magic and technology -- Sketch processes the structure's digital systems while Kat interprets through magic -- they begin pulling data about what this place actually is.
+**Kat, Brod, and Tablet** interface with the structure's ancient records. By combining magic and technology -- Tablet's digital nature lets her plug directly into the structure's still-running data systems, while Kat reads the magical signatures layered over them -- they begin pulling data about what this place actually is.
 
-The discovery plays out as a **back-and-forth between Kat and Sketch**. They cross-reference records, pull data, react to what they find. The picture builds in real time:
+Tablet does not talk. She projects. Holographic records, archive text, structural diagrams -- she surfaces what she finds and Brod reads it out to the room. To the crew this looks exactly like what they assume it is: the mercenary and his robot running a terminal. Nobody registers that Tablet is choosing what to show them.
+
+The discovery plays out as a **back-and-forth between Kat and Brod** -- Kat reading the magic, Brod reading Tablet's projections, the two halves confirming each other. They cross-reference records, pull data, react to what they find. The picture builds in real time:
 
 - The structure is not just a fortress. It is a **containment system** built around something.
 - Ancient records describe a **sealed machine that grants a single wish** to whoever completes the trials within.
-- The machine was locked away centuries ago. The gate was sealed. The fortress was abandoned.
+- The machine was locked away centuries ago. The gate was sealed, buried, and left to be forgotten.
 - The trials are built into the structure itself -- the gravity gates, the chambers, the corridors. They are tests designed to prove the challenger worthy.
-- The records are detailed, consistent, and ancient. They look legitimate. Every new piece of information Kat and Sketch find reinforces the same story: complete the trials, earn the wish.
+- The records are detailed, consistent, and ancient. They look legitimate. Every new piece of information Kat and Tablet find reinforces the same story: complete the trials, earn the wish.
 
-The crew listens as the information comes in pieces, each piece more convincing than the last. The dragon was not a coincidence -- it was a deterrent, or it was drawn to the power inside. The wish-granting machine is why the structure was sealed. It is why the natives were shocked it existed. It is why both armies went all hands on deck when the gate opened.
+The crew listens as the information comes in pieces, each piece more convincing than the last. The wish-granting machine is why the structure was sealed. It is why the natives were shocked it existed. It is why both armies went all hands on deck when the gate opened.
+
+**The dragon is the one thing the records do not explain.** There is no entry for it -- not as a guardian, not as a deterrent, not as anything. The archive documents centuries of the structure's history and never mentions the creature whose fire opened it. Kat says so plainly, and Brod points out that the dragon nested in the sky fortress north of here and never came near this site until the crew lured it down. The conclusion is the same one Kat reached in Chapter 3: nobody planned this. The door was opened by an accident the archive has no record of. The crew reads this as a gap in an otherwise flawless account. It is the first crack in a document that is otherwise too perfect.
 
 ### Ys Assigns Roles
 
 Captain Ys assesses the situation. He is **skeptical of the wish machine.** He does not care about ancient promises. His priority is the tiger captain (dangerous, inside the structure, hunting them) and getting the ship repaired so they can leave.
 
-Ys assigns roles: Kat, Brod, and Sketch continue research. The **mechanic** repairs the ship again -- the gate entry was rough. **Vennessa** serves as her bodyguard -- injured but capable enough to protect the mechanic while she works. Ys coordinates everything.
+Ys assigns roles: Kat, Brod, and Tablet continue research. The **mechanic** repairs the ship again -- the gate entry was rough. **Vennessa** serves as her bodyguard -- injured but capable enough to protect the mechanic while she works. Ys coordinates everything.
 
 He tells Indigo to stay with the group. The tiger captain is too dangerous to engage alone, and there is no reason to go deeper into the structure.
 
@@ -215,7 +219,7 @@ The voice **laughs.**
 
 Not a gentle laugh. A deep, ancient, cruel laugh that fills the chamber and shakes the metallic walls.
 
-The "machine" was never real. There is no wish. The guardian was a **lock**, not a test. The trials were **seals**, not challenges. The ancient records Kat and Sketch found were **planted by the demon** -- propaganda baked into the structure's systems centuries ago to ensure that someone, someday, would come. Someone desperate enough to fight through the trials. Someone with a reason strong enough to keep going when everything told them to stop.
+The "machine" was never real. There is no wish. The guardian was a **lock**, not a test. The trials were **seals**, not challenges. The ancient records Kat and Tablet found were **planted by the demon** -- propaganda baked into the structure's systems centuries ago to ensure that someone, someday, would come. Someone desperate enough to fight through the trials. Someone with a reason strong enough to keep going when everything told them to stop.
 
 The demon god emerges -- **giant black skeleton, red eyes** -- but this is not the guardian she just defeated. That was a lock. This is what was behind it. The real thing. Ancient. Massive. Free for the first time in centuries because Indigo opened the cage.
 
@@ -271,7 +275,7 @@ The protagonist is **still on script.** She does not know it, but everything she
 
 The structure is in space. The planet demon is pulling armies into a black hole. The world is ending around them. And the tiger captain is **still alive.**
 
-He was knocked unconscious by the guardian in Level 3 but not killed. He is burned, broken, and furious. The armies that deployed him are being annihilated. His mission -- capture the prophecy child -- is meaningless in the face of what just happened. But he is a tiger. He does not stop.
+He was knocked unconscious by the guardian in Level 3 but not killed. The guardian broke him -- it fights with raw impact, not fire. The burns came afterward, from the structure's eruption out of the ground. He is broken, burned, and furious. The armies that deployed him are being annihilated. His mission -- capture the prophecy child -- is meaningless in the face of what just happened. But he is a tiger. He does not stop.
 
 **Jack is not here.** He stayed behind in the guardian chamber. Broken. The tiger captain fights alone because his own arrogance left him without backup -- the soldier he dismissed, the wolf he told was too weak, is the one absence that costs him.
 
@@ -285,13 +289,13 @@ This is not a solo fight. **The entire crew comes together** against the stronge
 
 The tiger captain is at his most dangerous. Close range. Weapon to weapon. Pure fighting. The protagonist cannot beat him in a straight melee exchange -- he proved that in Level 2. She just has to hold on long enough.
 
-### Phase 2: The Kill Shot
+### Phase 2: The Shot
 
 Behind Indigo, the crew is setting up:
 
 - **Brod and Vennessa** draw up magic modifications together. Their drawing-casting augments the ship's cannon, turning the laser into something far deadlier than its base output. Two artists combining their skills on one weapon.
 - **Ys** powers up the ship like a battery. He channels his own energy into the ship's systems, overcharging it. He is the fuel.
-- **Robert** aims. The mechanic who has never contributed to a kill is now the one lining up the shot. His hands on the controls, his eye on the target.
+- **Robert** aims. The mechanic who has never fired on a living person is now the one lining up the shot. Her hands on the controls, her eye on the target.
 - **Kat and Tablet** handle containment. They deploy nets -- magic, tech, or both -- to **lock the tiger captain in place** once Indigo creates the opening.
 
 ### The Finish
@@ -306,7 +310,7 @@ He is **burnt.** Not dead -- but scorched, broken, and finally, truly beaten. Th
 
 **He does not die.** Same as the Husky Squad mech pilot, same as Jack. The crew does not kill him. He is done, not dead. His fate beyond this point is an open thread.
 
-**Gameplay establishes:** The tiger captain boss fight -- Indigo holds the line while the crew prepares the kill shot. Every crew member has an irreplaceable role: the artists augment, the captain powers, the mechanic aims, the intel specialist contains, the fighter kicks. The protagonist's physical strength paying off in the climactic moment. The cooperative victory as thematic payoff -- the tiger captain's hubris (I don't need anyone) versus the crew's strength (we need everyone). He told Jack he was too weak to help. The crew that includes a mechanic, a mouse woman, and a kid with a sketchbook proves that "weak" people working together beat one powerful person alone.
+**Gameplay establishes:** The tiger captain boss fight -- Indigo holds the line while the crew prepares the shot. Every crew member has an irreplaceable role: the artists augment, the captain powers, the mechanic aims, the intel specialist contains, the fighter kicks. The protagonist's physical strength paying off in the climactic moment. The cooperative victory as thematic payoff -- the tiger captain's hubris (I don't need anyone) versus the crew's strength (we need everyone). He told Jack he was too weak to help. The crew that includes a mechanic, a mouse woman, and a kid with a sketchbook proves that "weak" people working together beat one powerful person alone.
 
 ---
 
@@ -323,14 +327,6 @@ The golden child **flies into battle with the planet demon.** The demon -- the a
 The fight plays out **in the background.** It is environmental spectacle -- the crew watches from the ship as two cosmic forces collide. This is not their fight. The protagonist is not part of it. She was never supposed to be. Her role in the prophecy was never to be the hero -- it was to open the door so the hero could walk through it.
 
 The golden child is **just arriving.** Just now performing their hero work. They are late -- late because the protagonist's journey through the Swahili Realm, her battles with the Wolf Squad and Tiger Unit, her stumbling into the sealed structure, all of it delayed the real chosen one's path and forced them to arrive at this exact moment instead of earlier. The rabbit god's manipulation was never about stopping the prophecy. It was about **timing** it.
-
----
-
-## Credits Sequence
-
-During the credits, the **golden child vs. demon god fight** plays visually in the background.
-
-A **narrator** -- a specific character (TBD, character profile needs to be created first) -- gives commentary over the credits sequence. Their identity and tone are **placeholder** until the character is defined.
 
 ---
 
@@ -352,7 +348,7 @@ She does not say "Kim." She does not need to. Everyone knows what she is really 
 
 **Kat** reassures her. Warm, direct. The wish machine records were planted by a demon -- the information about the Mirralata System center comes from different, verified sources. Kat has cross-referenced them. It is not the same situation. Her certainty is genuine.
 
-**Robert** reassures her too. He is not a fighter, not a magic expert, but he is practical. The ship is repaired. The crew is still here. They are still moving. He contributes what he can -- the grounded, mechanical reality that the journey continues regardless of what just happened.
+**Robert** reassures her too. She is not a fighter, not a magic expert, but she is practical. The ship is repaired. The crew is still here. They are still moving. She contributes what she can -- the grounded, mechanical reality that the journey continues regardless of what just happened.
 
 **Brod** says it is worth a look. Not a grand speech. Just his honest take: they have come this far, the information is different, it is worth seeing for themselves. Understated. Sincere.
 
@@ -361,6 +357,50 @@ She does not say "Kim." She does not need to. Everyone knows what she is really 
 But underneath, it is a joke about **Indigo's sacrifice** -- the price she will pay to save Kim at the center. Only **Kat** catches it. It lands differently for her because she knows what Ys knows: the sacrifice is real, and Indigo does not know about it yet. Ys is coping. The joke is his way of processing the weight of what he is steering this crew toward. It is dark because it is true.
 
 The rest of the crew takes it at face value. Kat does not.
+
+---
+
+## Credits Sequence
+
+**The credits play after the ending beat, not before it.** The chapter closes on the wide shot of the deck, the camera keeps pulling back, and the credits fade up over the crew instead of cutting to black.
+
+The **golden child vs. demon god fight** continues in the background throughout -- visible above and beyond the hull, filling the void. Nobody in the crew is watching it.
+
+The camera comes down off the wide and finds **three conversations happening at once.** They play as overlapping vignettes rather than a queue.
+
+### Kat and Brod
+
+Kat's tactical gear drops the moment the threat is gone, and she finally treats the injury she has been putting off since Chapter 1. She has patched Vennessa and ordered Ys to sit down and never once touched Brod -- and now there is nobody bleeding worse than he is.
+
+This pays off the comms flirtation in Ch1 L5.4. The joke has always been his exits closing one at a time: in Chapter 1 she is a voice on a channel and he escapes by walking faster, and here she is kneeling in front of him with her hands on his ribs. Sketch is forced silent by Kat's presence, which is the funniest thing that has ever happened to her.
+
+Underneath it, Kat is deflecting. Ys's dark joke landed a few minutes ago and there is not one person aboard she can take it to.
+
+### Ys, Vennessa, and Robert
+
+Ys lays out the route on a physical chart. This is his answer to Vennessa's speech in the ending beat, delivered as logistics, because logistics is the only dialect of kindness he has.
+
+**Mayler Realm is on the route.** It sits between the Swahili Realm and the center, so the ship is already going where Vennessa needs it to go. He tells her to keep the name she mentioned on the deck. That is the entire gesture.
+
+**Vitoko is not.** The worm has roughly fourteen months left to pass, so Robert still cannot be delivered, and Ys finally uses the running "drop you off" joke his profile has always claimed and no script has ever contained. Robert is also asked how firing the cannon is sitting with her, and answers honestly -- she went looking for the guilt and it is not there.
+
+The trio is canon casting rather than convenience. Ys's humor is reserved for the outer circle, which means Robert and Vennessa specifically. This is the only place in the game he is funny.
+
+The scene closes on Vennessa observing that he does a lot of getting people where they are going. His pen stops. It is her second unanswered pause with him after Ch3 1.6, and she files it without pressing.
+
+### Indigo and Kim
+
+The closing vignette. Indigo sits apart while everyone else talks, which shows her isolation without anyone stating it.
+
+Kim asks directly why she went into the structure and **she lies to him.** He still does not learn that the wish machine was for him -- the gap holds and carries into the next game. He lets the lie stand without believing it.
+
+The scene turns on Kim joking that he is dead and Indigo snapping that he is not. It ends with him asking her to keep talking to him, which is company on the surface and life support underneath, since silence degrades the vessel.
+
+### Last Look
+
+The camera lifts off the deck for the final image: a crew bandaging each other, arguing about routes, and keeping a boy alive by talking to him, while someone else's prophecy finishes in the sky behind them and none of them look up.
+
+**The narrator is cut.** Three simultaneous conversations and a placeholder voice-over cannot share the same space. If the narrator character is eventually defined, they bookend the sequence rather than speak over it.
 
 ---
 
@@ -375,4 +415,4 @@ The rest of the crew takes it at face value. Kat does not.
 7. **The rabbit god** -- The plan worked. What comes next for the protagonist in the rabbit god's scheme?
 8. **The protagonist's reaction** -- She freed a demon because she wanted to save Kim. She doubts the Mirralata journey now. How does this affect her going forward?
 9. **Ys's sacrifice knowledge** -- The dark joke hints at what he knows. When does the sacrifice become explicit? How does Kat handle carrying the same secret?
-10. **The credits narrator** -- Character TBD. Needs a profile before this section is finalized.
+10. **The credits narrator** -- Character TBD. Cut from the credits, which are now carried by the crew vignettes. If the character is ever defined, decide whether they bookend the sequence or belong somewhere else entirely.

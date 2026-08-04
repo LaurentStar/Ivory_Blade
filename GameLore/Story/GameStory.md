@@ -124,7 +124,7 @@ A deadly storm forces the army to shelter. The Tiger Unit arrives. The protagoni
 | Level 1 | Climb the floating fortress from the underside in white fog. |
 | Level 2 | Inside the fortress -- coiling trees through broken architecture. Tiger Unit arrives at the ship (parallel), threatens mechanic, frees Jack. |
 | Level 3 | Dragon nest. Plan to steal egg. Tiger airship approaches. Chase sequence dodging dragon and airship fire. |
-| Level 4 | Eye of the hurricane. Dragon attacks army shelter. Drawing-cast minions deployed. Ys brings down tiger airship, rescues mechanic. Second army converges (spy tip). Survival fight. |
+| Level 4 | Eye of the hurricane. Dragon attacks the Legion camp. Indigo discards the egg into a tent -- fate unresolved. Drawing-cast minions deployed. Ys brings down tiger airship, rescues mechanic. Second army converges (spy tip). Survival fight -- Brod is put down by the tiger captain and saved by Tablet. |
 | Level 5 | Dragon's fireball unseals an ancient structure hidden for centuries. Both armies go all hands on deck. Crew enters through giant moving architecture before gate closes. Tiger captain slips inside. |
 | Level 6 | Puzzle room inside the sealed structure. Kat, Ys, Vennessa injured. Protagonist, Brod, Robert solve the room. Heavy dialog. |
 
@@ -136,11 +136,11 @@ Full details: `GameLore/Story/Chapter3_Dragon_Fortress.md`
 
 ## Chapter 4: Ancient Seal (4 Levels)
 
-The crew is sealed inside a shiny, metallic ancient structure that does not look ancient -- it looks advanced. Kat and Sketch research its records and discover references to a **wish-granting machine** that grants a single wish to whoever completes the trials within. Indigo decides to go deeper alone -- to hunt the tiger captain and investigate the wish machine. She believes it can save Kim.
+The crew is sealed inside a shiny, metallic ancient structure that does not look ancient -- it looks advanced. Kat and Tablet research its records and discover references to a **wish-granting machine** that grants a single wish to whoever completes the trials within. Indigo decides to go deeper alone -- to hunt the tiger captain and investigate the wish machine. She believes it can save Kim.
 
 | Level | Event |
 |---|---|
-| Level 1 | Exploration. Kat and Sketch discover the wish machine in the structure's records. Ys is skeptical. Indigo defies Ys and goes deeper alone, requesting remote support from Kat and Robert. Gravity gate puzzles. Tiger captain's claw marks throughout. |
+| Level 1 | Exploration. Kat, Brod, and Tablet discover the wish machine in the structure's records. Ys is skeptical. Indigo defies Ys and goes deeper alone, requesting remote support from Kat and Robert. Gravity gate puzzles. Tiger captain's claw marks throughout. |
 | Level 2 | Red Corridors. Tiger captain beats Indigo bloody (cutscene). Jack shows up mid-mauling, does not intervene -- tiger captain gives him a backhanded compliment. Indigo pushes forward through fake-fear corridors. Kim speaks up, worried about her, not knowing she is doing this for him. |
 | Level 3 | **Demon God.** Tiger captain orders Jack to stand down. Both engage the guardian anyway and are defeated. Indigo fights the guardian alone (boss fight) and wins. Mocks Jack. Heavenly voice offers her wish -- she says Kim's name. **The voice laughs.** The wish machine was a lie -- the demon's bait planted centuries ago. Demon god emerges. Tiger captain wakes, congratulates Jack for not dying. Jack does not follow to the final fight. |
 | Level 4 | **Tiger Captain -- Crew Fight.** The entire crew fights the tiger captain together. Indigo holds the line. Brod and Vennessa augment the ship's cannon, Ys powers the ship, Robert aims, Kat and Tablet deploy nets. Indigo kicks the tiger captain into the air, nets lock him, Robert fires. Tiger captain goes down but does not die. |
@@ -213,7 +213,7 @@ The fight is the first in the game where **every crew member contributes.** Indi
 
 - **Brod and Vennessa** draw magic modifications onto the ship's cannon, augmenting the laser into something far deadlier
 - **Ys** powers the ship like a battery, channeling his own energy into its systems
-- **Robert** aims the cannon -- his first contribution to a kill in the entire game
+- **Robert** aims the cannon -- her first contribution to a kill in the entire game
 - **Kat and Tablet** deploy nets to lock the tiger captain in place
 
 Indigo **kicks the tiger captain into the air.** Kat and Tablet's nets snap him in place mid-air. Robert fires. The augmented, overcharged laser hits him dead center.
@@ -247,6 +247,6 @@ Both victories come from the same core trait: she refuses to accept that a situa
 7. **Jack's fate** -- He survived Chapter 4 but is broken. Does he leave the Legion? Does his arc carry into future games?
 8. **The 1-year deadline** -- How much of the year does this game consume?
 9. **Escape** -- How does the crew leave the Swahili Realm after the demon emergence?
-10. **The credits narrator** -- Character TBD. Needs a profile.
+10. **The credits narrator** -- Character TBD. No longer blocking: the Ch4 credits are carried by the crew vignettes and the narration is cut. If the character is ever defined, decide whether they bookend a credits sequence or belong somewhere else.
 
 *Resolved:* Captain Ys's profile, the prophecy, crew members Kat Arlean Mori and Brod Tsumi are documented in `GameLore/Characters/`. The prophecy is detailed in `GameLore/World_Physics/Prophecy.md`.

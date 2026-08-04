@@ -61,7 +61,7 @@ KAT: Separate tunnel system, lower elevation. He has Sketch and Tablet back. He'
 
 INDIGO: How?
 
-KAT: She was already down here. She's been leaving directional paintings on the cave walls -- markings to guide anyone back to the rendezvous. Smart.
+KAT: She was already down here. She's been leaving directional paintings on the cave walls -- markings to guide anyone back to the rendezvous....
 
 INDIGO: That is smart.
 
@@ -175,13 +175,45 @@ INDIGO: I heard her.
 KIM: You're not bothered?
 INDIGO: I'm bothered I'm not there. I'm not bothered she's not waiting. She's right.
 KIM: First time I've heard you say someone else is right.
-INDIGO: Don't get used to it.
+INDIGO: Don't get used to it...
 (Trigger: during traversal toward the midpoint.)
 ```
 
 ---
 
-### 2.4 -- The Fight Indigo Misses
+### 2.4 -- Brod and Vennessa Moving (Parallel)
+
+```
+[CUTSCENE -- PARALLEL]
+(Brod and Vennessa moving through the caves together. Sketch floats ahead. Tablet walks beside them. They are heading toward Kat's coordinates.)
+
+VENNESSA (quiet, keeping pace): We're about to fight them!
+
+BROD (flat, not looking at her): Yup...
+
+(Beat. Vennessa processes this.)
+
+VENNESSA: You're not worried?
+
+BROD: Used to it....
+
+VENNESSA: Seriously, why?
+
+BROD: I got bills to pay T_T.
+
+VENNESSA: Avolin Credit? 
+
+BROD: .........
+
+VENNESSA: I understand your sadness now.
+
+```
+
+**Notes:** These two are the normal people on the crew, and this conversation sounds like it. No bravado, no battle speeches. Just two people who agree this is insane and are doing it anyway. Vennessa isn't panicking -- she's processing out loud. She asks where Ys is not because she expects a hero, but because it seems like something a captain should be involved in. Brod's answer isn't anger -- it's the resigned exhaustion of someone who has been through this exact cycle with Ys multiple times. "He drags me into something, says almost nothing" -- that's not a complaint about Ys being bad at his job. It's Brod being tired of being in situations he didn't sign up for beyond the paycheck. "You sound tired" / "I am tired" is the most honest beat -- they're in sync. Two normal people reading the same room. His last line -- "draw faster" -- isn't tough. It's the best answer he has, and they both know it's not great.
+
+---
+
+### 2.5 -- The Fight Indigo Misses
 
 ```
 [COMMS]
@@ -193,9 +225,10 @@ KAT (via magic signal, strained): --contact! Five wolves, full squad, tight form
 
 BROD (via magic signal, flat): There's a lot of them.
 
-YS (via magic signal, calm): Hold.
+YS (via magic signal, calm): Everyone surround the mouse, Vennessa....DRAW!
 
 (Gunfire. Elpha's assault rifle -- distinct, sustained bursts.)
+
 
 KAT (via magic signal): --being pushed back. They're cutting us off from the--
 
@@ -203,11 +236,10 @@ KAT (via magic signal): --being pushed back. They're cutting us off from the--
 (Trigger: plays during traversal. Player cannot reach the fight in time.)
 ```
 
-**Notes:** The player hears the fight but cannot participate. The signal cuts in and out -- the player pieces together what's happening from fragments. This builds urgency without showing everything.
 
 ---
 
-### 2.5 -- Arrival at the Aftermath
+### 2.6 -- Arrival at the Aftermath
 
 ```
 [GAMEPLAY DIALOGUE]
@@ -231,7 +263,7 @@ INDIGO: Trail goes east. They were pushed out.
 
 ---
 
-### 2.6 -- Following the Trail
+### 2.7 -- Following the Trail
 
 ```
 [EARRING -- HINT]
@@ -370,35 +402,35 @@ INDIGO: Pull it up.
 
 ```
 [CUTSCENE]
-(The surveillance feed shows the temple surrounded by waterfalls. The crew is there -- Ys, Kat, Brod, Vennessa. They are fighting. The Wolf Squad has them pinned.)
+(The surveillance feed shows the crew -- Ys, Kat, Brod, Vennessa, Tablet -- fighting the Wolf Squad inside the volcanic cave system. The lava is rising. Everyone is being pushed upward.)
 
-(Camera cuts between angles: Kat's scythe arcs through a wolf that dodges. Brod's drawings manifest as barriers, but gunfire punches through. Tablet moves with precision, cutting, blocking. Ys is a blur -- whatever he does in combat is fast and hard to follow.)
+(Camera cuts between angles: Kat's scythe arcs through a wolf that dodges. Tablet moves with precision, cutting, blocking. Ys is a blur -- whatever he does in combat is fast and hard to follow.)
 
-(But the wolves are better. Nemo coordinates. Elpha's assault rifle pins the crew behind cover. Bleu handles comms and tech support. Jack is not with them -- he left to pursue the protagonist.)
+(Vennessa is crouched behind a rock formation, drawing fast -- ink constructs spill off her pages under her own casting and harden into barriers and decoys. She is not fighting. She is producing. Brod fights directly in front of her position -- twin swords, controlled, always angling to keep his body between the wolves and Vennessa.)
 
-(The crew fights hard. It is not enough.)
+(When Elpha's gunfire punches through an ink barrier, Brod doesn't chase the shooter -- he closes the gap on Vennessa's side. Kat calls a flanking route and Ys intercepts before it reaches her. The crew fights as a unit, but the formation has a clear center: Vennessa.)
 
-(One by one, they are overwhelmed. Physically handled. Disarmed. Bound.)
+(The wolves are pressing them hard. Nemo coordinates. Elpha's assault rifle pins the crew behind cover. Bleu handles comms and tech support. Jack is not with them -- he left to pursue the protagonist.)
 
-(The protagonist watches it happen through the screen. She is at the ship. Too far away. She cannot help.)
+(The crew is not captured -- but they are losing ground, fighting upward through the volcano with the wolves right behind them. The lava rises below everyone. Both sides are running and fighting at the same time.)
 
-(Her hand goes to the earring.)
+(The protagonist watches through the screen. They are alive. They are fighting. But they are outnumbered, outgunned, and being driven toward the surface.)
 ```
 
-**Notes:** The player watches the capture through surveillance -- they see it but cannot change it. This should feel like watching something terrible through a window you cannot open.
+**Notes:** The player sees the crew in trouble but still fighting -- not captured yet. The capture comes later on the frozen lake. This establishes urgency without jumping ahead. The surveillance is the first time the player sees the crew's formation clearly -- and the center of it is Vennessa. She's not dead weight. She's the supply line. Her drawing magic feeds the crew's defenses. But she can't draw and fight, so the entire crew orients around keeping her alive and producing. Brod is her primary shield. Everyone else fights outward from her position.
+
+**Vennessa casts her own work.** Her constructs come off her own pages by her own hand, start to finish. Sketch has no involvement in Vennessa's magic -- not as an animator, not as a courier, not at all. Sketch only ever touches Brod's drawings.
 
 ---
 
-### 3.7 -- After the Capture
+### 3.7 -- After the Surveillance
 
 ```
 [EARRING -- CONVERSATION]
-KIM: ...I'm sorry.
-INDIGO: Don't.
-KIM: Indigo--
-INDIGO: I'm going to get them back.
-KIM: I know.
-INDIGO: Then that's all that needs to be said.
+KIM: They're still fighting.
+INDIGO: They're losing.
+KIM: What are you going to do?
+INDIGO: Get down there.
 (Trigger: after the surveillance cutscene ends.)
 ```
 
@@ -421,7 +453,7 @@ Level 4: Lava Caves
 
 ```
 [GAMEPLAY DIALOGUE]
-(The protagonist descends deeper into the cave system. The air is hot. The river water is warm now -- noticeably, uncomfortably warm. The stone walls glow faintly with heat. Lava veins run through the rock.)
+(The protagonist heads toward the crew's last known position. The caves are hot now -- the river water is warm, uncomfortably so. The stone walls glow faintly with heat. Lava veins run through the rock. The magma is rising from below, pushing her upward.)
 
 INDIGO: It's getting hot down here.
 (Trigger: player enters the lava cave environment.)
@@ -441,27 +473,23 @@ KIM: Good. Because I am.
 
 ```
 [COMMS]
-KAT (via magic signal, strained -- she is transmitting from captivity): Indigo-- can you hear me?
+KAT (via magic signal, strained): Indigo-- can you hear me?
 
-INDIGO: Kat? You're alive.
+INDIGO: Kat. Talk to me.
 
-KAT: We're captured, not dead. Nemo is running the squad. Listen -- the volcanic system beneath you is surging. Magma is rising through the lower tunnels. You are at the lowest point.
+KAT: The volcanic system beneath you is surging. Magma is rising through the lower tunnels. You are at the lowest point.
 
 INDIGO: I feel it.
 
-KAT: Get higher. Everyone is being pushed up. The wolves, us, everyone. The lava is coming from below you.
+KAT: Get higher. Everyone is being pushed up. The wolves, us, everyone. We're fighting and running at the same time.
 
-INDIGO: How are you transmitting?
+INDIGO: You okay?
 
-KAT: They didn't search well enough.
-
-INDIGO: That's my girl.
-
-KAT: Don't call me that. Move.
+KAT: Holding. Barely. Move.
 (Trigger: environmental volcanic activity starts -- tremors, lava visible in lower sections.)
 ```
 
-**Notes:** Kat managed to hide her signal equipment during the capture. She is still working, still coordinating, even as a prisoner. "They didn't search well enough" -- this is Kat. Always one step ahead.
+**Notes:** Kat is fighting and coordinating at the same time. She's transmitting mid-retreat -- the crew is being pushed upward by both wolves and lava. "Holding. Barely." is honest without being dramatic.
 
 ---
 
@@ -547,14 +575,18 @@ BASSUAL: I lost.
 
 ```
 [EARRING -- CONVERSATION]
-KIM: He was young.
+KIM: ...That was cold.
 INDIGO: He was in the way.
-KIM: Both things can be true.
-INDIGO: ...Yeah.
+KIM: I know. Just... not used to seeing you like that.
+INDIGO: Like what?
+KIM: Like you didn't care.
+INDIGO: The taco's got hot sauce, Kim. Don't let the wrap fool you.
+KIM: ...I forget sometimes. You don't look like the type. You're cute not scary
+INDIGO: ........
 (Trigger: 20 seconds after leaving Bassual, during the climb upward.)
 ```
 
-**Notes:** Kim doesn't judge. He observes. Indigo's "yeah" is the closest she comes to acknowledging what just happened. She doesn't dwell. She keeps moving.
+**Notes:** Kim is unsettled by how easily she left Bassual to die. "Not used to seeing you like that" -- he knows she's capable, but watching it still hits different. "The taco's got hot sauce" is Indigo's way of saying don't judge the inside by the outside. Kim's "you're cute not scary" disarms her completely -- only he would say something affectionate right after watching her leave someone to die. Indigo's silence is the punchline. She can shut down anyone in this game except Kim.
 
 ---
 
@@ -568,7 +600,7 @@ JACK (overheard, comms): Bassual reported in. He engaged and lost. The target be
 
 NEMO (overheard, comms): Orders?
 
-JACK: I'm going after her myself. The three of you handle the prisoners. I'll find her below.
+JACK: I'm going after her myself. The three of you handle the crew. I'll find her below.
 
 NEMO: Understood.
 
@@ -578,7 +610,9 @@ NEMO: ...Understood.
 (Location: near a comms relay or signal leak point.)
 ```
 
-**Notes:** Jack's decision to hunt Indigo personally is not arrogance -- it's respect. Bassual was the weakest, but he was still Wolf Squad. If she beat him, Jack needs to handle this himself. "Don't come looking" tells the player: Jack knows how dangerous this is.
+**Notes:** Bassual was sent to **locate** the missing crew member and report back -- not to engage. He disobeyed. He fought her solo and died for it. Jack doesn't say this out loud, but the player should feel it: his youngest wolf ignored a direct order and it killed him.
+
+This is the seed for Chapter 4. Jack himself has a long history of disobedience -- he would normally tell any superior to shove it. But in Chapter 4, when the tiger captain berates him and orders him to stand down, Jack actually listens. Not because the tiger captain earned his respect. Because Bassual's death is a fresh scar. The tiger captain's words -- "you're too weak, you'd just get in the way" -- land on top of the guilt Jack is already carrying. He gave Bassual an order. Bassual didn't listen. Bassual is dead. Now someone is giving Jack an order. The wound is too raw.
 
 ---
 
@@ -617,19 +651,19 @@ KIM: From lava to ice. This realm has range.
 
 ```
 [GAMEPLAY DIALOGUE]
-(The protagonist reaches a vantage point overlooking the frozen lake. In the distance -- the captured crew. Tied up. Guarded by three wolves: Nemo, Elpha, Bleu. No Jack.)
+(The protagonist reaches a vantage point overlooking the frozen lake. In the distance -- the crew and the Wolf Squad are fighting on the ice. Three wolves: Nemo, Elpha, Bleu. No Jack. The crew is holding but losing ground.)
 
-INDIGO: There they are. Three wolves guarding. Jack's not with them.
+(Even from a distance, the formation is visible: Brod and Tablet anchoring the front, Kat weaving between engagements, Ys cutting off angles. Vennessa is behind them all, still drawing -- ink constructs rising off her own pages and rushing into the fight. The crew has been protecting her the entire retreat.)
+
+INDIGO: There they are. Still fighting. Three wolves, no Jack.
 (Trigger: player reaches the observation point.)
 ```
 
 ```
 [EARRING -- HINT]
-KIM: Three wolves, no leader. That's better odds. But you'd still need a plan.
-INDIGO: I have a plan.
-KIM: "Hit them" is not a plan.
-INDIGO: It's the start of one.
-(Trigger: player observes the captured crew for 5+ seconds.)
+KIM: Three wolves, no leader. They might hold without you.
+INDIGO: They won't. I need to get to the ship.
+(Trigger: player observes the fight for 5+ seconds.)
 ```
 
 ---
@@ -644,13 +678,15 @@ INDIGO: It's the start of one.
 
 (Jack emerges. He does not shout. He does not announce himself. He simply appears -- stepping out of the dark, weapons ready, eyes locked on her.)
 
+INDIGO: Another one....
+
 JACK: Bassual was twenty-two.
 
 (Beat.)
 
-INDIGO: He got in my way.
+INDIGO: Rover should've backed off.
 
-JACK: I know. That's why I'm here.
+JACK: ...I'm going to enjoy this.
 
 (He attacks.)
 ```
@@ -702,13 +738,6 @@ KIM: The tunnel behind him -- it's unstable. The lava weakened the supports. You
 INDIGO (breathing hard, to herself): ...Bought some time.
 ```
 
-```
-[EARRING -- REACTION]
-KIM: That was the second time you've fought him. You didn't beat him.
-INDIGO: I'm alive. That counts.
-KIM: It does.
-(Trigger: after the collapse cutscene.)
-```
 
 ---
 
@@ -766,12 +795,9 @@ BLEU: Copying now.
 
 ```
 [EARRING -- REACTION]
-KIM: ...She just talked her way out of an execution.
-INDIGO: Yeah.
-KIM: While tied up.
-INDIGO: Yeah.
-KIM: Remind me not to argue with her.
-INDIGO: You already lost that argument in Chapter 1.
+KIM: Storm's picking up out there.
+INDIGO: I noticed.
+KIM: You should hurry.
 (Trigger: after Kat's gambit plays.)
 ```
 
@@ -861,7 +887,7 @@ JACK: Nemo tells me the rabbit woman says you're the prophecy child. Both armies
 
 JACK: --are mine.
 
-INDIGO: Then come get me.
+INDIGO: Come get me!
 ```
 
 ---
@@ -932,17 +958,21 @@ KIM: He's slowing. You're not. Keep pressing.
 
 JACK: ...Do it.
 
-INDIGO: No.
+INDIGO: (smiling, almost cheerful) Nah.
 
-JACK: I'll come after you again.
+JACK: Kill me or I'll--
 
-INDIGO: Good.
+INDIGO: You'll what? Chase me again?
 
-(She pulls restraints from her gear -- repurposed military equipment from the Husky Squad. She binds his hands.)
+(She picks up a stone from the frozen ground. She holds it in front of him -- then channels magic through it. The stone softens, bends, and wraps around his wrists like clay. It hardens instantly. Magical restraints -- solid rock fused to his joints.)
 
-JACK: ...You're making a mistake.
+INDIGO: How's that feel, Rover? Sit, Fido. Good boy.
 
-INDIGO: Maybe. But you're more useful alive than dead.
+(Jack pulls against the stone. It doesn't budge.)
+
+JACK: ...You think this holds me?
+
+INDIGO: Absolutely yes....
 ```
 
 **Notes:** Indigo captures, not kills. Same pattern as Chapter 1 -- intelligence over violence. Jack expects execution. He gets something worse: being used.
@@ -974,8 +1004,8 @@ INDIGO: I have him.
 KIM: And the crew?
 INDIGO: Still down there. Three wolves.
 KIM: What are you going to do?
-INDIGO: ...I'll figure it out. I always do.
-KIM: Yeah. You do.
+INDIGO: ...I'll figure it out. I always do......
+KIM: Yeah. You do.....
 (Trigger: player arrives at the ship with Jack. Plays before the chapter end screen.)
 ```
 
@@ -1017,7 +1047,8 @@ CHAPTER 2 -- COMPLETE
 - "They didn't search well enough" -- smug but earned. "Don't call me that" -- she maintains boundaries even under pressure.
 
 ### Voice Direction -- Brod
-- Minimal lines in this chapter. He fights, he gets captured. His line during the battle -- "There's a lot of them" -- is his flat, honest assessment. No drama.
+- Minimal lines in this chapter, but his actions speak. He fights in front of Vennessa the entire time -- twin swords, controlled, never overextending. He doesn't tell her to hide or stay safe. He tells her to keep drawing. That's his version of trust.
+- "There's a lot of them" -- flat, honest assessment. No drama. "Don't try. Draw." -- not comfort, instruction. He treats her like a teammate, not a liability.
 
 ### Voice Direction -- Captain Ys
 - One word: "Understood." Then "Hold." Ys does not talk when action is needed. His silence is its own character.

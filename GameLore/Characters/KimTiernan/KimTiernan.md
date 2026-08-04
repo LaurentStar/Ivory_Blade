@@ -99,9 +99,19 @@ Kim serves as the game's **hint system**. He is always with the protagonist -- a
 
 The tap mechanic ties the hint system to a physical action. The protagonist taps her earring, Kim responds. This keeps the interaction grounded and personal -- she is not talking to the air, she is touching the thing that holds her best friend and asking for help.
 
-He does not actively speak to anyone else on the crew. The earring is the protagonist's -- her burden, her companion, her secret in plain sight. The crew knows she wears something she talks to, but Kim is not a social presence on the ship.
+---
 
-**Captain Ys** is the exception. Ys has **examined the earring** and knows exactly what Kim is, what state he is in, and how the containment works. He understands that the earring is the only reason the protagonist is on this journey. If the earring is lost, she will not willingly continue toward the center of the Mirralata System. The earring is not just her emotional anchor -- it is the operational necessity that keeps Ys's mission viable.
+## What the Crew Knows
+
+**Kim is not a secret and never was.** The crew knows who he is, what he did, and that he is conscious inside the earring the protagonist wears. They know the vessel is failing and they know it is the reason she is going to the center. None of this has to be explained to anyone aboard.
+
+**They have spoken to him before.** Earlier in the journey, before this game begins, Kim was a voice the crew knew. He talked to them. They talked back. He was not a curiosity or a piece of equipment -- he was a person they had met.
+
+**In this game he speaks to nobody but the protagonist.** Not Kat, not Brod, not Ys, not Vennessa or Robert. The crew does not address him and he does not address them. Every line he has in Chapters 1 through 4 is to her and her alone.
+
+The effect is that somebody the crew used to talk to has gone quiet in an earring three feet away, and not one person remarks on it. Play the crew's awareness of him as settled and unspoken rather than curious. When the protagonist asks in **Ch4 End.1** whether the Mirralata center is another lie, the script notes that she "does not say Kim -- she does not need to." That only works because every person on that deck already knows exactly who she means.
+
+**Captain Ys knows the most about the vessel itself.** He has **examined the earring** and understands exactly what Kim is, what state he is in, and how the containment works -- the mechanics, not just the fact of it. He understands that the earring is the only reason the protagonist is on this journey. If the earring is lost, she will not willingly continue toward the center of the Mirralata System. The earring is not just her emotional anchor -- it is the operational necessity that keeps Ys's mission viable.
 
 ---
 
@@ -142,5 +152,7 @@ The protagonist's entire journey -- leaving home, joining Ys's crew, crossing re
 6. **The friend groups** -- Who were the other elf kids Kim brought her into? Do any of them matter, or was the social access limited and shallow?
 7. **The barrier** -- Does the city's main barrier have limits? Could it have been extended to cover the outer edges, or was Kim's situation genuinely hopeless?
 8. **Other casualties** -- Did anyone else outside the barrier die? Were Kim and the protagonist's group the only ones caught on the outer edge, or were there mass casualties?
+9. **Why he stopped talking to the crew** -- He spoke to them earlier in the journey and speaks only to the protagonist now. Is this Kim withdrawing, the decaying vessel narrowing what he can afford to spend energy on, or the protagonist quietly keeping him to herself? Nothing on screen answers it, and the crew never asks.
+10. **What the crew thinks about the silence** -- Somebody they used to talk to has gone quiet in an earring in front of them. Has anyone noticed? Does Kat, who notices everything, have a read on it?
 
-*Resolved:* The sacrifice event (soul-destroying wave weapon, 20-minute warning, outer edge of city, Kim's body-sustained barrier). The vessel (thumb-sized earring container, tap to talk, regular contact stabilizes Kim). Kim's personality (funny, goofy, socially smart, kind, strong moral core from his parents).
+*Resolved:* The sacrifice event (soul-destroying wave weapon, 20-minute warning, outer edge of city, Kim's body-sustained barrier). The vessel (thumb-sized earring container, tap to talk, regular contact stabilizes Kim). Kim's personality (funny, goofy, socially smart, kind, strong moral core from his parents). Crew awareness -- they know him, they have spoken to him before, and in this game he speaks only to the protagonist.

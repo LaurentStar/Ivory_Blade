@@ -71,5 +71,30 @@ void UThirdPersonCameraFollow::UpdateVRCameraFollow(
 	camera_boom->SetWorldRotation(
 		FMath::RInterpTo(current_rotation, target_rotation, delta_time, interp_speed));
 
-	camera_boom->TargetArmLength = follow_distance;
+}
+
+void UThirdPersonCameraFollow::UpdateCameraSpringLength(
+	USpringArmComponent* camera_boom,
+	float target_length,
+	float delta_time,
+	float interp_speed,
+	float ease_exponent)
+{
+	if (!camera_boom)
+	{
+		return;
+	}
+
+	const float current = camera_boom->TargetArmLength;
+	const float total_range = FMath::Max(FMath::Abs(target_length), 1.0f);
+	const float distance_to_target = FMath::Abs(target_length - current);
+
+	// 0 = just started (far from target), 1 = arrived (at target)
+	const float progress = 1.0f - FMath::Clamp(distance_to_target / total_range, 0.0f, 1.0f);
+
+	// ease_exponent controls ease-in; FInterpTo naturally provides ease-out
+	const float ease_factor = FMath::Max(FMath::Pow(progress, 1.0f / ease_exponent), 0.05f);
+
+	camera_boom->TargetArmLength = FMath::FInterpTo(
+		current, target_length, delta_time, interp_speed * ease_factor);
 }

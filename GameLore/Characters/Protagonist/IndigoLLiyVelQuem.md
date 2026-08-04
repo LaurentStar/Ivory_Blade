@@ -298,6 +298,12 @@ The protagonist fights with elf-trained magic and combat techniques executed thr
 
 **The gap between knowledge and body.** She knows spells and techniques that should take decades to learn, but she executes them with the stamina, reflexes, and physical resilience of a teenager. Under sustained pressure, her body fails before her knowledge does. 
 
+**A coarse magical sense.** She can read a space magically -- feel the size of it, where it branches, whether something is alive and moving in it. This is a real ability drawn from her 60 years of study, and it works. It is also blunt. She gets shape, scale, and presence; she does not get detail, identity, count, or anything reliable at distance.
+
+The contrast with Kat is the point. Kat scans and comes back with levels, corridors, signature counts, and who exactly is two floors down. Indigo scans and comes back with "big space, lots of branching, something active deep down." Both are looking at the same structure. One of them is reading it. As Kat puts it in Ch4: *"You're getting the shape. I'm getting the details."*
+
+This is another instance of the same pattern as everything else about her -- she has the knowledge for the technique and not the attunement to execute it well. It also means Kat's role is never redundant. Indigo can tell there is a room. Kat can tell her what is in it.
+
 ---
 
 ## Personality and Voice
@@ -369,7 +375,13 @@ Kim is always with her. Physically, literally, constantly. He is her companion t
 
 **In gameplay, Kim serves as the hint system.** When Indigo is stuck, lost, or missing something, she taps the earring and Kim speaks up. He does not solve problems for her -- he nudges, suggests, points her attention toward things she might have overlooked. He is not a tactical advisor or a combat instructor. He is her friend, and he helps the way a friend helps: by knowing how she thinks and gently redirecting when she is spinning her wheels.
 
-Kim does not speak to anyone else on the crew. His communication is limited to Indigo. The one exception is **Captain Ys**, who has examined the earring and what Kim is. Ys understands the vessel, understands Kim's state, and understands the stakes. Ys knows that if the earring is lost -- if Kim is obliterated -- Indigo will not willingly continue the journey. Her entire reason for traveling to the center of the Mirralata System is Kim. Without him, there is no motivation, no compliance, no prophecy child walking toward her role. The earring is not just Indigo's emotional anchor. It is Ys's leverage -- the thing that keeps his mission viable.
+**The crew knows about Kim.** He is not a secret and never was. They know who he is, what he did, and that he is conscious inside the earring -- and several of them have spoken to him before, earlier in the journey, prior to where this game begins. He was a voice they knew.
+
+**In this game he speaks to nobody but Indigo.** The crew does not address him and he does not address them. Every line Kim has across all four chapters is to her. Somebody they used to talk to has gone quiet in an earring three feet away and nobody remarks on it.
+
+This is why Indigo can ask "what if the Mirralata center is the same thing?" in Ch4 End.1 without ever saying his name. Everyone on that deck already knows who she means.
+
+**Captain Ys** knows the most about the vessel itself. He has examined the earring and understands what Kim is, what state he is in, and how the containment works. Ys knows that if the earring is lost -- if Kim is obliterated -- Indigo will not willingly continue the journey. Her entire reason for traveling to the center of the Mirralata System is Kim. Without him, there is no motivation, no compliance, no prophecy child walking toward her role. The earring is not just Indigo's emotional anchor. It is Ys's leverage -- the thing that keeps his mission viable.
 
 ### Iris Lirra -- The Professora (Black Rose)
 The woman who brought her in, nearly got her killed, advocated for her life, trained her, bonded with her, and then erased the Blaze Network from her memory as a final act of protection. The protagonist remembers Iris -- her name, their bond, the feeling that this person matters. But the context that would explain the depth of that bond is gone. Iris is the protagonist's only real connection to the Black Rose, and the relationship exists in a strange limbo: close, but incomplete. The protagonist knows Iris shaped her. She cannot fully explain how.

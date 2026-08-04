@@ -150,9 +150,9 @@ INDIGO: Brod?
 
 KAT: ...Not with us.
 
-INDIGO: The mouse?
+INDIGO: Mouse girl?
 
-KAT: She's here. Shaken, not hurt.
+KAT: She's nearby. Shaken, not hurt.
 
 INDIGO: So it's just Brod.
 
@@ -319,7 +319,7 @@ INDIGO: Magic truck. You're welcome.
 
 ```
 [COMMS]
-KAT (via magic signal): Brod, your gear is being held at a husky field camp. Sketch and Tablet. I've located it -- small camp, four troops. Northeast, about two kilometers from your current position. Manageable.
+KAT (via magic signal): Brod, your gear is being held at a husky field camp. Sketch and Tablet. I've located it -- small camp, four troops. Northeast, about 1 kilometers from your current position. Manageable.
 
 BROD: ...Thanks. I'm going.
 
@@ -454,6 +454,205 @@ UNKNOWN VOICE (overheard, radio): Copy. Flagging. Stand by.
 
 ---
 
+### 4.5 -- Brod: The Husky Camp (Parallel)
+
+```
+[CUTSCENE]
+(Cut away from Indigo. New location: a small husky field camp on the mountain's northeast face. Four soldiers. A supply tent. Equipment crates stacked under a tarp.)
+
+(Brod watches from behind a rock. No Sketch. No Tablet. Just his dual swords and himself. He is scanning the camp -- counting heads, mapping exits, timing the patrol loop.)
+
+(He moves. Fast, low, quiet. He is not a great fighter. He is a competent one. And four distracted grunts guarding a supply camp is manageable.)
+
+(Quick cuts: Brod draws both swords and moves through the camp. The first soldier doesn't see him until the blade is already there -- pommel strike to the temple, down. The second turns and Brod is already closing the distance. Two strikes. Clean. The third reaches for a radio -- Brod kicks it out of his hand. The fourth runs. Brod lets him go.)
+
+(He moves to the supply tent. Opens a crate. Inside: Sketch -- his sentient sketchbook, closed, dormant.)
+
+(He picks up Sketch. Holds it for a moment. Checks the binding, checks the pages. Everything is intact.)
+
+BROD: Hey.
+
+(Sketch's cover flips open. Pages ruffle on their own.)
+
+(A voice erupts from the pages -- bright, loud, way too much energy for a supply tent on a frozen mountain.)
+
+SKETCH: MASTER!!! You took forever!
+
+BROD: ...Hey.
+
+SKETCH: You look terrible!
+
+BROD: Thanks
+
+(The sketchbook glows. Light spills from the pages. The book lifts out of Brod's hands -- and Sketch transforms. The pages fold, the binding stretches, light reshapes into a humanoid figure. A girl -- white hair, blue eyes, blue outfit, mischievous grin. She lands on the ground, arms spread wide, radiating pure joy.)
+
+SKETCH: FREEDOM! Fresh air! 
+
+(The cold hits her. Instantly. The wind cuts through the tent flap. Snow blows across her face. Her grin freezes -- literally.)
+
+SKETCH: Nope!
+
+(She transforms back. The light collapses inward, the humanoid form folds, and Sketch is a book again -- landing in Brod's outstretched hand. Pages shivering. )
+
+BROD (flat): Yeah.
+
+SKETCH: It's warm in here.
+
+BROD: I know.
+
+SKETCH: ...I missed you.
+
+BROD: ...Yeah. Me too.
+
+(Deeper in the tent -- Tablet. Human-sized robot, black and white plating, blue eyes dark. She is slumped against equipment crates, powered down. The huskies stored her like cargo.)
+
+(Brod crouches beside her. He finds the power interface and activates it. Tablet's blue eyes flicker on. Her head lifts. Her tail cable drags across the floor. She stands -- stiff, recalibrating, but functional.)
+
+(Brod crouches beside her. He finds the power interface and activates it.)
+
+(Tablet's blue eyes flicker on.)
+
+(CUT TO: First-person -- Tablet's POV. Her vision boots up. A HUD overlays the world -- scanning, categorizing, threat-assessing everything in view.)
+
+(Equipment crates: [OBJECT -- NO THREAT]. Tent walls: [STRUCTURE -- MAPPED]. Tent flap, wind, snow outside: [ENVIRONMENT -- COLD]. Downed husky soldiers visible through the canvas: [HOSTILE -- NEUTRALIZED].)
+
+(Her gaze finds Brod. The HUD processes him differently. The hard targeting lines soften. The threat framework dissolves around his silhouette. One tag appears, steady and warm against the cold display:)
+
+([BROD TSUMI -- PROTECT])
+
+(The POV holds on him for a beat. He is crouching in front of her, looking at her face, waiting.)
+
+(CUT BACK TO: Third-person. Tablet's head lifts. Her tail cable drags across the floor. She stands -- stiff, recalibrating, but functional. Her blue eyes are locked on Brod.)
+
+BROD: You good?
+
+(Tablet tilts her head. A small holographic display projects from her palm -- a simple status readout. Green lines. System check: functional. No damage. Ready.)
+
+(She closes her hand. The hologram disappears.)
+
+(She nods once.)
+
+(Her hand reaches out and rests on his forearm -- brief, light, barely there. Not a malfunction. Not recalibration. She is confirming he is real.)
+
+(Brod doesn't flinch. He doesn't comment on it. He just nods back.)
+
+BROD: Ready? Let's go
+
+(He sheaths his swords. Sketch tucked under one arm. Tablet falls into step beside him -- slightly ahead, slightly to his left. Bodyguard positioning. Instinctive. They move toward the cave system.)
+```
+
+**Notes:** Brod's retrieval is efficient and quiet. He's not Indigo -- he doesn't punch through problems. He counts, plans, and moves. The fourth soldier running is deliberate -- Brod doesn't chase kills. He came for his people.
+
+The two reunions are deliberately opposite:
+
+**Sketch** is an explosion. She's loud, joyful, furious about the crate, and immediately too much. She transforms into her humanoid girl form for the first time on-screen -- white hair, blue eyes, peak energy -- and the cold kills it in three seconds flat. She retreats to book form and the audience laughs. But the last beat ("I missed you" / "Yeah. Me too") lands quietly underneath the comedy. These two are each other's person. The comedy is the surface. The bond is the floor.
+
+**Tablet** is silence. Her introduction is a first-person POV shot through her HUD -- she scans the room, tags threats, maps the environment, and then finds Brod. The targeting framework softens around him. He is tagged [PROTECT]. The audience sees through her eyes that she is not equipment -- she is a sentient being with one priority. When she touches his arm after powering on, it is not a malfunction. She is confirming he is real. Brod treats her like a person ("You good?"), not tech. She responds with a hologram status readout and a nod. No words.
+
+**Tablet's one-word rule:** Tablet is allowed exactly ONE spoken word across the entire game. It is not used here. Every other interaction is nonverbal -- holograms, gestures, nods, physical positioning. When that single word eventually comes, it will carry the weight of every silent moment before it.
+
+---
+
+### 4.6 -- Brod: Into the Caves (Parallel)
+
+```
+[CUTSCENE]
+(Brod stands outside the northeast cave entrance. Snow. Wind. Sketch tucked under one arm. Tablet beside him.)
+
+(His comms crackle.)
+
+KAT (via magic signal): Brod. You've recovered your equipment?
+
+BROD (via magic signal): Yeah...
+
+KAT: Keep along the trail, it feeds toward the rendezvous.
+
+BROD: Copy.
+
+KAT: You sound tense. Want me to keep talking? I can keep you company. My voice is very soothing, I've been told.
+
+BROD: I'm fine.
+
+KAT: I can see you from here. You look cold, want me to warm you up with my sexy voice...
+
+BROD: .......
+
+KAT: (laughing) Relax. Kat out.
+
+(Comms cut.)
+
+(Beat. Brod stares at nothing.)
+
+SKETCH (from under his arm, quiet): She likes you.
+
+BROD: She does that to everyone.
+
+SKETCH: She doesn't do it to everyone.
+
+BROD: Sketch.
+
+SKETCH: I'm just saying--
+
+BROD: Don't just say.
+
+SKETCH: Your face is red.
+
+BROD: It's cold!
+
+SKETCH: It's VERY cold and your face is VERY red.
+
+BROD: We're going in the cave now...
+
+(He enters the cave system. Tablet falls into step beside him -- steady, quiet, her blue eyes casting faint light in the dark.)
+```
+
+```
+[CUTSCENE]
+(Deeper in. The tunnel narrows. Stone walls, dripping water. Brod moves carefully. He knows he's not the toughest thing in these tunnels.)
+
+(His comms crackle again.)
+
+KAT (via magic signal, clipped -- different tone now): Brod. Status.
+
+BROD: Moving. River's getting warmer.
+
+KAT: You're on track. Take the left fork when you hit the split -- the right one dead-ends in a collapse.
+
+BROD: Got it.
+
+KAT: I have Vennessa somewhere in the lower tunnels. Head toward her. She's been marking the walls -- you'll see her work before you see her.
+
+BROD: How do you--
+
+KAT: Just find her. Kat out.
+
+(Comms cut.)
+
+(Brod keeps moving. The walls change. The stone is wet. The river runs nearby -- cold water, snowmelt.)
+
+(He stops. Something on the cave wall.)
+
+(A painting. Small, precise. A directional mark worked into a simple image -- an arrow shape pointing deeper, with a tiny ship drawn beneath it.)
+
+(He stares at it.)
+
+BROD: ........
+
+(He follows it.)
+```
+
+**Notes:**
+
+**Kat's provocation** -- "Want me to warm you up with my sexy voice" is deliberate and pointed. She gives real directions wrapped in flirting she knows he can't handle. Brod is not attracted -- his silence is discomfort, not desire. He tries to pull it back to business ("I'm fine") and she escalates. She's entertained by his shutdown.
+
+**Sketch as private commentator** -- Mirrors Kim/Indigo's earring dynamic. After Kat's comms end, Sketch chimes in privately. "She likes you" / "Your face is red" -- wingman who makes everything worse. Brod can't shut her down either. Two women he can't escape, back to back.
+
+**Kat's switch** -- Second comms exchange is all business. "Status." "Take the left fork." "Just find her. Kat out." No trace of flirting. The situation is escalating and she toggles instantly. The contrast shows the provocation only happens when she can afford it.
+
+**Kat and Vennessa** -- Kat already knows where Vennessa is because they've been in contact off-screen. Vennessa's paintings are her own initiative -- Kat didn't tell her to mark the caves.
+
+---
+
 ## Level 5: The Wolf Squad Is Coming
 
 ---
@@ -466,7 +665,7 @@ KAT (via magic signal, tense): Indigo, I'm picking up new movement. This isn't t
 
 INDIGO: What are they?
 
-KAT: Wolf Squad. Swahili East Axel Legion elite unit. Five wolf anthros -- professional hunters. Gun-equipped. They command human infantry. These are not patrols, Indigo. These are the ones the Legion sends when patrols stop coming back.
+KAT: Wolf Squad. Swahili East Axel Legion elite unit. Five wolves -- professional hunters. Gun-equipped. They command infantry. These are not patrols, Indigo. These are the ones the Legion sends when patrols stop coming back.
 
 INDIGO: ETA?
 
@@ -490,7 +689,87 @@ KIM: Then move.
 
 ---
 
-### 5.3 -- Running, Not Fighting
+### 5.3 -- Brod Finds Vennessa (Parallel)
+
+```
+[CUTSCENE]
+(Cut away from Indigo. Underground. Brod follows the painted trail deeper -- each painting slightly different in composition but always clear in direction. Whoever painted these wanted to be found.)
+
+(He rounds a bend. The tunnel opens into a small chamber. A figure is crouched against the wall, brush pen in hand, painting another directional mark onto the stone.)
+
+(Vennessa. Small. Mouse ears flat against her head. She freezes when she hears him -- brush pen raised like a weapon.)
+
+(She sees him. Recognizes him. The brush pen lowers.)
+
+VENNESSA: ...Brod?
+
+BROD: Kat sent me. Following your paintings.
+
+VENNESSA: They worked?
+
+BROD: I'm here.
+
+(She exhales. Stands up. She's been alone in these caves since the crash -- painting trails in the dark, hoping someone would follow them.)
+
+VENNESSA: I've been marking routes toward where I think the ship is. Kat's signal came through faintly a while back -- I couldn't respond, but I got a direction.
+
+BROD: Kat's coordinating from the rendezvous. Ship's there. Ys and the mechanic too.
+
+VENNESSA: And Indigo?
+
+BROD: Doing Indigo things on the mountain.
+
+(Beat.)
+
+VENNESSA: ...Is she okay?
+
+BROD: She is indigo... Let's find the ship 
+
+(Vennessa blinks. Decides not to ask.)
+
+VENNESSA: I've been painting toward where I think the ship is. I can retrace my trail.
+
+BROD: Better than nothing. Let's go.
+
+```
+
+**Notes:** Brod and Vennessa's dynamic is low-key. She's been doing her job alone in the dark -- painting trails, mapping caves, making herself useful without any combat ability. Vennessa deciding not to ask says everything about how she handles the crew.
+
+---
+
+### 5.4 -- Brod and Vennessa: Moving Together (Parallel)
+
+```
+[CUTSCENE]
+(Short scene. Brod, Tablet, and Vennessa moving through the caves. Vennessa retraces her painted trail. Brod follows. Tablet watches their backs.)
+
+BROD (via magic signal): Kat. I have Sketch, Tablet, and the mouse. We're underground heading your way.
+
+KAT (via magic signal): Good. I can see your position. Take the left fork ahead
+
+VENNESSA: She can see us?
+
+BROD: She can see everything.
+
+KAT (via magic signal, quieter -- just to Brod): Every inches, all the details
+
+(Brod stops walking. His jaw tightens. He stares straight ahead, Blushes.)
+
+(Vennessa didn't hear the comms. But she sees him freeze.)
+
+VENNESSA: ...You okay?
+
+BROD: Fine.
+
+(He starts moving again. Faster than before. Vennessa watches him for a second, confused, then follows.)
+
+(They keep moving.)
+```
+
+
+---
+
+### 5.5 -- Running, Not Fighting (Indigo)
 
 ```
 [GAMEPLAY DIALOGUE]
@@ -506,7 +785,7 @@ KIM: You can go through them or around them. Around is faster. The wolves don't 
 
 ---
 
-### 5.4 -- Ticking Clock
+### 5.6 -- Ticking Clock
 
 ```
 [COMMS]
