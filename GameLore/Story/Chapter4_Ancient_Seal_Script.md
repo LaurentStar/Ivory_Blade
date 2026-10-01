@@ -1528,11 +1528,11 @@ INDIGO: I know.
 
 KIM: I'm going to be extremely annoying about it if you forget.
 
-INDIGO: You're already extremely annoying.
+INDIGO: You're already extremely annoying my friend
 
 KIM: I'm dead. You have to be nice to me.
 
-INDIGO: You're not dead.
+INDIGO: You're not dead.... yet
 
 (It comes out faster and harder than she meant it.)
 
@@ -1550,11 +1550,11 @@ KIM: Keep talking to me.
 
 INDIGO: I know how it works, Kim.
 
-KIM: I'm not talking about how it works.
+KIM: Remember you gotta keep me entertained while you save me
 
 (Beat.)
 
-INDIGO: ...Okay.
+INDIGO: ...I know. (chuckle) I know.
 ```
 
 **Notes:** **The gap holds.** Kim asks the direct question -- why did you go down there -- and she lies to him, and they both know she is lying, and he lets her. He still does not know the wish machine was for him. This is the chapter's stated emotional engine and it is worth more carried into the next game than spent in a credits scene. Everything here is written to press against that line without crossing it.
@@ -1573,18 +1573,6 @@ INDIGO: ...Okay.
 
 ### C.5 -- Last Look
 
-```
-[CREDITS]
-(She keeps talking. We stop hearing it.)
-
-(The camera lifts off the deck. Kat taping down a bandage. Ys with the chart under his arm. Robert saying something that makes Vennessa look up. Brod asleep sitting upright, a book under one arm and a robot standing over him.)
-
-(And a seventeen-year-old sitting apart from all of them with her hand over her ear, talking to somebody who is not there, because the talking is the only thing holding him.)
-
-(Above all of it, someone else's prophecy finishes without them.)
-
-(The last of the credits. Then black.)
-```
 
 **Notes:** The final image is the thesis. The prophecy -- the thing both armies died over, the thing Indigo was told she was -- resolves in the sky behind a crew who are not watching it. What they are doing instead is bandaging each other, arguing about routes, and keeping a boy alive by talking to him.
 
@@ -1636,23 +1624,10 @@ Hold on the wide long enough that the player has to choose what to look at, and 
 
 #### Dark Joke -- Options [CHOICE]
 
-**[OPTION A -- Used in Script]**
-
 > YS: We'll get her to the center. That's the easy part.
 
 Surface: dry humor about logistics. Underneath: the "easy part" is delivery. What happens at the center is the sacrifice. Kat hears "easy part" as devastating.
 
-**[OPTION B]**
-
-> YS: The journey costs what it costs.
-
-Surface: pragmatic acceptance of resources and danger ahead. Underneath: the cost is Indigo. The journey's price is the prophecy child's life. Kat hears "costs" differently.
-
-**[OPTION C]**
-
-> YS: At least she'll make it. That's more than most can say.
-
-Surface: reassurance -- she is tough, she will survive the trip. Underneath: "making it" to the center is the problem, not the solution. She makes it there and dies. "More than most can say" -- because most people are not walking toward their own sacrifice. Kat hears the conditional tense.
 
 ---
 

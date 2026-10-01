@@ -81,7 +81,7 @@ void UVRIKTargets::ComputeHeadIKTarget(
 }
 
 void UVRIKTargets::ComputeBodyIKParams(
-	USceneComponent* camera,
+	float current_player_height,
 	float standing_hmd_height,
 	float max_pelvis_drop,
 	float max_spine_lean_total,
@@ -100,14 +100,13 @@ void UVRIKTargets::ComputeBodyIKParams(
 	out_lean_per_bone   = 0.0f;
 	out_is_crawling     = false;
 
-	if (!camera || standing_hmd_height <= 0.0f)
+	if (current_player_height <= 0.0f || standing_hmd_height <= 0.0f)
 	{
 		return;
 	}
 
-	const float current_z = camera->GetComponentLocation().Z;
 	const float raw_factor = FMath::Clamp(
-		1.0f - (current_z / standing_hmd_height), 0.0f, 1.0f);
+		1.0f - (current_player_height / standing_hmd_height), 0.0f, 1.0f);
 
 	out_crouch_factor = raw_factor;
 
@@ -133,7 +132,7 @@ void UVRIKTargets::ComputeBodyIKParams(
 	const int32 bone_count = FMath::Max(spine_bone_count, 1);
 	out_lean_per_bone = (effective * max_spine_lean_total) / static_cast<float>(bone_count);
 
-	const float actual_drop = standing_hmd_height - current_z;
+	const float actual_drop = standing_hmd_height - current_player_height;
 	const float lean_radians = FMath::DegreesToRadians(
 		effective * max_spine_lean_total);
 	const float spine_height_reduction =

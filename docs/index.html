@@ -1,0 +1,765 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Ivory Blade — VR Action Combat</title>
+<style>
+  /* ── Reset & base ── */
+  *, *::before, *::after { margin: 0; padding: 0; box-sizing: border-box; }
+
+  :root {
+    --bg:        #0a0a0f;
+    --surface:   #12121a;
+    --border:    #1e1e2e;
+    --text:      #c8c8d4;
+    --text-dim:  #6e6e82;
+    --accent:    #b08cff;
+    --accent-lo: rgba(176, 140, 255, .12);
+    --gold:      #e8c46a;
+    --red:       #ff5c5c;
+    --blue:      #5cb8ff;
+    --teal:      #4adbc8;
+  }
+
+  html { scroll-behavior: smooth; }
+
+  body {
+    font-family: 'Segoe UI', system-ui, -apple-system, sans-serif;
+    background: var(--bg);
+    color: var(--text);
+    line-height: 1.65;
+    overflow-x: hidden;
+  }
+
+  /* ── Typography ── */
+  h1, h2, h3, h4 { font-weight: 600; line-height: 1.2; }
+  h1 { font-size: clamp(2.4rem, 6vw, 4.2rem); letter-spacing: -.03em; }
+  h2 { font-size: clamp(1.6rem, 3.5vw, 2.4rem); letter-spacing: -.02em; }
+  h3 { font-size: 1.15rem; }
+  p  { max-width: 64ch; }
+
+  a { color: var(--accent); text-decoration: none; }
+  a:hover { text-decoration: underline; }
+
+  /* ── Layout ── */
+  .wrap {
+    width: min(1120px, 90vw);
+    margin: 0 auto;
+  }
+
+  section {
+    padding: 5rem 0;
+    border-bottom: 1px solid var(--border);
+  }
+
+  /* ── Nav ── */
+  nav {
+    position: sticky;
+    top: 0;
+    z-index: 100;
+    backdrop-filter: blur(14px);
+    -webkit-backdrop-filter: blur(14px);
+    background: rgba(10, 10, 15, .82);
+    border-bottom: 1px solid var(--border);
+  }
+  nav .wrap {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    height: 56px;
+  }
+  nav .logo {
+    font-weight: 700;
+    font-size: 1.05rem;
+    color: #fff;
+    letter-spacing: .06em;
+    text-transform: uppercase;
+  }
+  nav .logo span { color: var(--accent); }
+  nav ul {
+    list-style: none;
+    display: flex;
+    gap: 1.8rem;
+  }
+  nav a {
+    color: var(--text-dim);
+    font-size: .85rem;
+    text-transform: uppercase;
+    letter-spacing: .08em;
+    transition: color .2s;
+  }
+  nav a:hover { color: #fff; text-decoration: none; }
+
+  /* ── Hero ── */
+  .hero {
+    min-height: 92vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    position: relative;
+    border-bottom: 1px solid var(--border);
+    overflow: hidden;
+  }
+  .hero::before {
+    content: '';
+    position: absolute;
+    inset: 0;
+    background:
+      radial-gradient(ellipse 70% 55% at 65% 40%, rgba(176, 140, 255, .08), transparent),
+      radial-gradient(ellipse 50% 60% at 20% 70%, rgba(92, 184, 255, .06), transparent);
+    pointer-events: none;
+  }
+  .hero .wrap { position: relative; z-index: 1; }
+  .hero .tagline {
+    text-transform: uppercase;
+    font-size: .78rem;
+    letter-spacing: .18em;
+    color: var(--accent);
+    margin-bottom: 1.2rem;
+  }
+  .hero h1 { color: #fff; margin-bottom: 1.4rem; }
+  .hero h1 em {
+    font-style: normal;
+    background: linear-gradient(135deg, var(--accent), var(--blue));
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+  }
+  .hero .subtitle {
+    font-size: clamp(1rem, 2vw, 1.25rem);
+    color: var(--text-dim);
+    max-width: 52ch;
+    margin-bottom: 2.6rem;
+  }
+  .hero .pills {
+    display: flex;
+    flex-wrap: wrap;
+    gap: .6rem;
+  }
+  .pill {
+    display: inline-block;
+    padding: .35rem .9rem;
+    border-radius: 999px;
+    font-size: .78rem;
+    font-weight: 600;
+    letter-spacing: .04em;
+    border: 1px solid var(--border);
+    background: var(--surface);
+    color: var(--text-dim);
+  }
+  .pill.ue  { border-color: rgba(92,184,255,.3);  color: var(--blue); }
+  .pill.vr  { border-color: rgba(176,140,255,.3); color: var(--accent); }
+  .pill.cpp { border-color: rgba(232,196,106,.3); color: var(--gold); }
+
+  /* ── Section headers ── */
+  .sh {
+    margin-bottom: 3rem;
+  }
+  .sh .label {
+    text-transform: uppercase;
+    font-size: .72rem;
+    letter-spacing: .18em;
+    color: var(--accent);
+    margin-bottom: .5rem;
+  }
+  .sh h2 { color: #fff; }
+  .sh p  { color: var(--text-dim); margin-top: .6rem; }
+
+  /* ── Feature cards ── */
+  .cards {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    gap: 1.4rem;
+  }
+  .card {
+    background: var(--surface);
+    border: 1px solid var(--border);
+    border-radius: 12px;
+    padding: 2rem 1.8rem;
+    transition: border-color .25s, transform .25s;
+  }
+  .card:hover {
+    border-color: rgba(176,140,255,.3);
+    transform: translateY(-3px);
+  }
+  .card .icon {
+    width: 42px; height: 42px;
+    border-radius: 10px;
+    display: grid; place-items: center;
+    font-size: 1.2rem;
+    margin-bottom: 1.2rem;
+    background: var(--accent-lo);
+  }
+  .card h3 { color: #fff; margin-bottom: .5rem; }
+  .card p  { font-size: .92rem; color: var(--text-dim); }
+
+  /* ── Breakdown (alternating image-text) ── */
+  .breakdown {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 3rem;
+    align-items: center;
+    margin-bottom: 4rem;
+  }
+  .breakdown:last-child { margin-bottom: 0; }
+  .breakdown.flip > :first-child { order: 2; }
+  .breakdown .visual {
+    border-radius: 14px;
+    aspect-ratio: 4/3;
+    background: var(--surface);
+    border: 1px solid var(--border);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding: 2rem;
+    position: relative;
+    overflow: hidden;
+  }
+  .breakdown .visual::after {
+    content: '';
+    position: absolute;
+    inset: 0;
+    border-radius: 14px;
+    pointer-events: none;
+  }
+  .breakdown .detail h3 { color: #fff; margin-bottom: .6rem; }
+  .breakdown .detail p { font-size: .94rem; color: var(--text-dim); margin-bottom: .8rem; }
+  .breakdown .detail p:last-child { margin-bottom: 0; }
+
+  .highlight {
+    color: var(--accent);
+    font-weight: 600;
+  }
+  .highlight-gold {
+    color: var(--gold);
+    font-weight: 600;
+  }
+  .highlight-red {
+    color: var(--red);
+    font-weight: 600;
+  }
+  .highlight-teal {
+    color: var(--teal);
+    font-weight: 600;
+  }
+
+  /* ── Diagram inside visual ── */
+  .diagram-row {
+    display: flex;
+    align-items: center;
+    gap: .7rem;
+    margin-bottom: .7rem;
+    font-size: .82rem;
+    font-family: 'Cascadia Code', 'Fira Code', 'Consolas', monospace;
+    color: var(--text-dim);
+  }
+  .diagram-row:last-child { margin-bottom: 0; }
+  .d-box {
+    padding: .3rem .7rem;
+    border-radius: 6px;
+    font-size: .75rem;
+    font-weight: 600;
+    white-space: nowrap;
+  }
+  .d-arrow { color: var(--text-dim); }
+  .d-accent  { background: var(--accent-lo); color: var(--accent); border: 1px solid rgba(176,140,255,.25); }
+  .d-gold    { background: rgba(232,196,106,.1); color: var(--gold); border: 1px solid rgba(232,196,106,.25); }
+  .d-teal    { background: rgba(74,219,200,.1);  color: var(--teal); border: 1px solid rgba(74,219,200,.25); }
+  .d-red     { background: rgba(255,92,92,.1);   color: var(--red);  border: 1px solid rgba(255,92,92,.25); }
+  .d-blue    { background: rgba(92,184,255,.1);  color: var(--blue); border: 1px solid rgba(92,184,255,.25); }
+
+  /* ── Weapon grid ── */
+  .weapon-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+    gap: 1.2rem;
+  }
+  .weapon-card {
+    background: var(--surface);
+    border: 1px solid var(--border);
+    border-radius: 10px;
+    padding: 1.5rem;
+    text-align: center;
+    transition: border-color .25s;
+  }
+  .weapon-card:hover { border-color: rgba(176,140,255,.3); }
+  .weapon-card .wname {
+    font-weight: 700;
+    color: #fff;
+    font-size: 1rem;
+    margin-bottom: .25rem;
+  }
+  .weapon-card .wrole {
+    font-size: .78rem;
+    color: var(--accent);
+    text-transform: uppercase;
+    letter-spacing: .06em;
+    margin-bottom: .6rem;
+  }
+  .weapon-card p { font-size: .85rem; color: var(--text-dim); margin: 0 auto; }
+
+  /* ── Stats row ── */
+  .stats {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+    gap: 1.2rem;
+    margin-top: 3rem;
+  }
+  .stat {
+    text-align: center;
+    padding: 1.6rem 1rem;
+    background: var(--surface);
+    border: 1px solid var(--border);
+    border-radius: 10px;
+  }
+  .stat .num {
+    font-size: 2.2rem;
+    font-weight: 700;
+    color: #fff;
+    line-height: 1;
+    margin-bottom: .35rem;
+  }
+  .stat .num span { color: var(--accent); }
+  .stat .desc {
+    font-size: .8rem;
+    color: var(--text-dim);
+    text-transform: uppercase;
+    letter-spacing: .06em;
+  }
+
+  /* ── Footer ── */
+  footer {
+    padding: 3rem 0;
+    text-align: center;
+    color: var(--text-dim);
+    font-size: .82rem;
+  }
+  footer .logo {
+    font-weight: 700;
+    font-size: 1rem;
+    color: #fff;
+    letter-spacing: .06em;
+    margin-bottom: .5rem;
+  }
+  footer .logo span { color: var(--accent); }
+  footer .author {
+    margin-top: .6rem;
+    font-size: .9rem;
+    color: var(--text);
+  }
+  footer .socials {
+    display: flex;
+    justify-content: center;
+    gap: 1.4rem;
+    margin-top: .8rem;
+  }
+  footer .socials a {
+    font-size: .82rem;
+    color: var(--accent);
+    text-transform: uppercase;
+    letter-spacing: .06em;
+    transition: color .2s;
+  }
+  footer .socials a:hover { color: #fff; }
+  footer .quote {
+    margin-top: 1.2rem;
+    font-style: italic;
+    font-size: .82rem;
+    color: var(--text-dim);
+    max-width: 50ch;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  /* ── Responsive ── */
+  @media (max-width: 768px) {
+    .breakdown { grid-template-columns: 1fr; }
+    .breakdown.flip > :first-child { order: 0; }
+    nav ul { display: none; }
+    section { padding: 3.5rem 0; }
+    .hero { min-height: 80vh; }
+  }
+</style>
+</head>
+<body>
+
+<!-- ━━ Nav ━━ -->
+<nav>
+  <div class="wrap">
+    <div class="logo">Ivory<span>Blade</span></div>
+    <ul>
+      <li><a href="#combat">Combat</a></li>
+      <li><a href="#dodge">Dodge</a></li>
+      <li><a href="#weapon">Weapon</a></li>
+      <li><a href="#body">VR Body</a></li>
+      <li><a href="#world">World</a></li>
+    </ul>
+  </div>
+</nav>
+
+<!-- ━━ Hero ━━ -->
+<section class="hero">
+  <div class="wrap">
+    <p class="tagline">Unreal Engine 5 &middot; Meta Quest</p>
+    <h1>Fight smarter.<br>Dodge <em>into</em> the attack.</h1>
+    <p class="subtitle">
+      Ivory Blade is a VR action game built around a combat system that rewards reading attacks,
+      committing to a direction, and knowing when your body can't take one more dodge.
+    </p>
+    <div class="pills">
+      <span class="pill ue">Unreal Engine 5</span>
+      <span class="pill vr">Meta Quest VR</span>
+      <span class="pill cpp">C++ Native Systems</span>
+      <span class="pill">Anomaly Realm Physics</span>
+      <span class="pill">Context-Gated Dodge</span>
+    </div>
+  </div>
+</section>
+
+<!-- ━━ Combat Overview ━━ -->
+<section id="combat">
+  <div class="wrap">
+    <div class="sh">
+      <p class="label">Combat Design</p>
+      <h2>Every system talks to every other system</h2>
+      <p>
+        Attacks broadcast trajectories. The dodge reads them in real time.
+        Fatigue punishes panic. The weapon shifts to match the moment.
+      </p>
+    </div>
+
+    <div class="cards">
+      <div class="card">
+        <div class="icon">&#9876;</div>
+        <h3>Context-Gated Dodge</h3>
+        <p>
+          Dodge only fires when you're inside an attack's alert box.
+          No threat nearby? The input is ignored. No spam, no panic rolls — just reads.
+        </p>
+      </div>
+      <div class="card">
+        <div class="icon">&#10138;</div>
+        <h3>Attack Trajectory Chains</h3>
+        <p>
+          Every projectile and melee swing defines its path as ordered waypoints.
+          The dodge system reads the current segment direction and time-to-arrival in real time.
+        </p>
+      </div>
+      <div class="card">
+        <div class="icon">&#9201;</div>
+        <h3>Fatigue System</h3>
+        <p>
+          Each dodge costs stamina. I-frame duration shrinks, dodge distance drops,
+          cooldown grows. Five rapid dodges? You're exhausted and locked out.
+        </p>
+      </div>
+      <div class="card">
+        <div class="icon">&#9878;</div>
+        <h3>Shape-Shifting Weapon</h3>
+        <p>
+          The Meta Morph Blade shifts between pike, long sword, dual short swords,
+          and scythe — each with different combat roles and risk profiles.
+        </p>
+      </div>
+      <div class="card">
+        <div class="icon">&#9899;</div>
+        <h3>Full VR Body</h3>
+        <p>
+          Not floating hands. Full-body IK driven by your headset — crouching,
+          crawling, foot planting, spine lean. You have a body and it moves with you.
+        </p>
+      </div>
+      <div class="card">
+        <div class="icon">&#127760;</div>
+        <h3>Planetoid Combat</h3>
+        <p>
+          The entire combat system works in actor-local space. Dodge on any surface,
+          any gravity direction. The tangent plane is always correct.
+        </p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ━━ Dodge Deep Dive ━━ -->
+<section id="dodge">
+  <div class="wrap">
+    <div class="sh">
+      <p class="label">The Dodge System</p>
+      <h2>A dodge system that reads the fight</h2>
+      <p>Your stick sets the direction. The system helps — but never overrides you.</p>
+    </div>
+
+    <div class="breakdown">
+      <div class="visual">
+        <div class="diagram-row">
+          <span class="d-box d-accent">Attack Spawns</span>
+          <span class="d-arrow">&rarr;</span>
+          <span class="d-box d-gold">Trajectory Chain</span>
+          <span class="d-arrow">&rarr;</span>
+          <span class="d-box d-teal">Alert Box Active</span>
+        </div>
+        <div class="diagram-row">
+          <span class="d-box d-teal">Player Overlaps</span>
+          <span class="d-arrow">&rarr;</span>
+          <span class="d-box d-accent">Jump + Stick Flick</span>
+          <span class="d-arrow">&rarr;</span>
+          <span class="d-box d-blue">Dodge Accepted</span>
+        </div>
+        <div class="diagram-row">
+          <span class="d-box d-blue">Stick Direction</span>
+          <span class="d-arrow">+</span>
+          <span class="d-box d-gold">Light Assist</span>
+          <span class="d-arrow">=</span>
+          <span class="d-box d-accent">Final Direction</span>
+        </div>
+        <div class="diagram-row">
+          <span class="d-box d-red">Fatigue++</span>
+          <span class="d-arrow">&rarr;</span>
+          <span class="d-box d-red">I-Frames &darr;</span>
+          <span class="d-arrow">&rarr;</span>
+          <span class="d-box d-red">Distance &darr;</span>
+          <span class="d-arrow">&rarr;</span>
+          <span class="d-box d-red">Cooldown &uarr;</span>
+        </div>
+      </div>
+      <div class="detail">
+        <h3>Context gate &mdash; no empty dodges</h3>
+        <p>
+          Each attack carries an <span class="highlight">alert box</span> — an overlap sphere
+          sized by the developer. Dodge input is rejected unless you're inside one.
+          Fast projectiles get wide alert boxes. Tight melee swings get small ones.
+        </p>
+        <h3>Assist that never fights you</h3>
+        <p>
+          Your stick chooses the direction. The system applies a
+          <span class="highlight">perpendicular nudge</span> — never opposing your input.
+          If you dodge <em>into</em> the attack, the system pushes you
+          <span class="highlight-teal">under or over</span> it with a duck phase
+          while i-frames cover the pass-through.
+        </p>
+        <h3>Live tracking, decaying influence</h3>
+        <p>
+          Direction isn't locked at start. The dodge <span class="highlight">re-evaluates every tick</span>
+          with decaying assist weight, so it reacts to moving attacks while still
+          committing to your input by the end.
+        </p>
+      </div>
+    </div>
+
+    <div class="breakdown flip">
+      <div class="visual">
+        <div class="diagram-row" style="justify-content:center; margin-bottom:1.2rem;">
+          <span class="d-box d-accent" style="font-size:.9rem; padding:.5rem 1.2rem;">FATIGUE SCALING</span>
+        </div>
+        <div class="diagram-row">
+          <span style="width:90px; text-align:right;">Fresh</span>
+          <span class="d-box d-blue" style="width:100%;">I-Frames: 0.3s &nbsp;|&nbsp; Full Distance &nbsp;|&nbsp; 0.35s Cooldown</span>
+        </div>
+        <div class="diagram-row">
+          <span style="width:90px; text-align:right;">Mid</span>
+          <span class="d-box d-gold" style="width:100%;">I-Frames: 0.2s &nbsp;|&nbsp; Reduced &nbsp;|&nbsp; 0.5s Cooldown</span>
+        </div>
+        <div class="diagram-row">
+          <span style="width:90px; text-align:right;">Max</span>
+          <span class="d-box d-red" style="width:100%;">I-Frames: 0.09s &nbsp;|&nbsp; Minimum &nbsp;|&nbsp; 0.7s Cooldown</span>
+        </div>
+        <div class="diagram-row">
+          <span style="width:90px; text-align:right; color:var(--red);">Exhausted</span>
+          <span class="d-box d-red" style="width:100%; opacity:.6;">LOCKED OUT &nbsp; (1.0s recovery)</span>
+        </div>
+      </div>
+      <div class="detail">
+        <h3>Fatigue punishes panic</h3>
+        <p>
+          Every dodge increments a hidden fatigue counter. As fatigue rises,
+          <span class="highlight-red">i-frame duration shrinks</span> toward 30% of base,
+          dodge distance drops to half, and cooldown doubles.
+        </p>
+        <p>
+          Hit <span class="highlight-red">max fatigue</span> and you're locked out entirely —
+          no dodges for a full second. Fatigue decays after 1.5s of not dodging.
+        </p>
+        <p>
+          The message: <em>you can dodge through anything, but not everything.</em>
+          Read the attacks. Pick your moments. Panic costs you.
+        </p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ━━ Weapon ━━ -->
+<section id="weapon">
+  <div class="wrap">
+    <div class="sh">
+      <p class="label">The Meta Morph Blade</p>
+      <h2>One weapon. Four forms. Different fights.</h2>
+      <p>She carries one thing. It becomes what she needs.</p>
+    </div>
+
+    <div class="weapon-grid">
+      <div class="weapon-card">
+        <div class="wname">Pike</div>
+        <div class="wrole">Default &middot; General Purpose</div>
+        <p>Balanced reach, control, spacing. Deflects and parries bullets. Where she lives.</p>
+      </div>
+      <div class="weapon-card">
+        <div class="wname">Long Sword</div>
+        <div class="wrole">Magic-Focused Combat</div>
+        <p>Channels spells through the blade. Melee strikes combined with magical effects. The conduit.</p>
+      </div>
+      <div class="weapon-card">
+        <div class="wname">Dual Short Swords</div>
+        <div class="wrole">Pure Physical</div>
+        <p>No magic. Speed, footwork, aggression. A statement: she doesn't need spells to be dangerous.</p>
+      </div>
+      <div class="weapon-card">
+        <div class="wname">Scythe</div>
+        <div class="wrole">High Risk &middot; High Reward</div>
+        <p>Wide arcs, punishing mistimes, exposed recovery. But this form carries her most powerful moves.</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ━━ VR Body ━━ -->
+<section id="body">
+  <div class="wrap">
+    <div class="sh">
+      <p class="label">VR Presence</p>
+      <h2>You have a body. It moves with you.</h2>
+      <p>Full-body inverse kinematics driven by your headset and controllers in real time.</p>
+    </div>
+
+    <div class="breakdown">
+      <div class="visual">
+        <div class="diagram-row" style="justify-content:center; margin-bottom:1rem;">
+          <span class="d-box d-accent" style="font-size:.9rem; padding:.5rem 1.2rem;">HMD HEIGHT &rarr; BODY IK</span>
+        </div>
+        <div class="diagram-row">
+          <span class="d-box d-blue">Standing</span>
+          <span style="color:var(--text-dim); font-size:.78rem;">Full locomotion animation &middot; light IK</span>
+        </div>
+        <div class="diagram-row">
+          <span class="d-box d-gold">Crouching</span>
+          <span style="color:var(--text-dim); font-size:.78rem;">Pelvis drops &middot; spine leans &middot; legs IK-bend</span>
+        </div>
+        <div class="diagram-row">
+          <span class="d-box d-red">Crawling</span>
+          <span style="color:var(--text-dim); font-size:.78rem;">Full crawl animation takeover</span>
+        </div>
+        <div class="diagram-row" style="margin-top:.8rem;">
+          <span class="d-box d-teal">Arms</span>
+          <span style="color:var(--text-dim); font-size:.78rem;">Controller &rarr; IK hand &amp; elbow targets</span>
+        </div>
+        <div class="diagram-row">
+          <span class="d-box d-teal">Feet</span>
+          <span style="color:var(--text-dim); font-size:.78rem;">Planted to ground &middot; knee targets from calf bones</span>
+        </div>
+      </div>
+      <div class="detail">
+        <h3>Three pose states, zero jitter</h3>
+        <p>
+          Your real-world height maps to <span class="highlight">standing, crouching, or crawling</span>
+          with hysteresis to prevent flickering at boundaries. The system reads ceiling
+          heights from the environment to gate transitions.
+        </p>
+        <h3>Proportional IK, never full override</h3>
+        <p>
+          Light crouch = light IK with visible leg animation. Deep crouch = strong IK for
+          floor contact. Leg animation is <span class="highlight">never fully replaced</span> —
+          the character always looks alive.
+        </p>
+        <h3>Arms track your controllers</h3>
+        <p>
+          Motion controller transforms are converted into skeletal mesh component space.
+          Elbow joint targets are computed to bend naturally — backward and outward.
+        </p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ━━ World ━━ -->
+<section id="world" style="border-bottom:none;">
+  <div class="wrap">
+    <div class="sh">
+      <p class="label">The Swahili Realm</p>
+      <h2>Floating planetoids. Local gravity. Every surface is a floor.</h2>
+      <p>
+        An Anomaly Realm — a three-dimensional scattering of floating landmasses
+        with gravitational pulls that shift between and around them.
+      </p>
+    </div>
+
+    <div class="cards">
+      <div class="card">
+        <div class="icon">&#127758;</div>
+        <h3>Actor-Space Everything</h3>
+        <p>
+          No world-up assumption anywhere. Dodge projects to the tangent plane.
+          Body rotation uses local up. Wall running scores against any surface orientation.
+          The code doesn't care which way is "down."
+        </p>
+      </div>
+      <div class="card">
+        <div class="icon">&#9889;</div>
+        <h3>Mid-Tier Low Universal Energy</h3>
+        <p>
+          Magic is the primary combat tool. Raw energy won't save you.
+          Deep knowledge and clever application beat raw power — which is
+          exactly where a 17-year-old with 60 years of half-remembered study thrives.
+        </p>
+      </div>
+      <div class="card">
+        <div class="icon">&#9881;</div>
+        <h3>Mecha Suits</h3>
+        <p>
+          Summonable mechanical constructs that run without magic after deployment.
+          Sturdy builds survive multiple realms. Powerful builds crumble outside their tier.
+          The tradeoff is strategic, not numerical.
+        </p>
+      </div>
+    </div>
+
+    <div class="stats">
+      <div class="stat">
+        <div class="num"><span>4</span></div>
+        <div class="desc">Weapon Forms</div>
+      </div>
+      <div class="stat">
+        <div class="num"><span>3</span></div>
+        <div class="desc">Pose States</div>
+      </div>
+      <div class="stat">
+        <div class="num"><span>0.3</span>s</div>
+        <div class="desc">Base I-Frames</div>
+      </div>
+      <div class="stat">
+        <div class="num"><span>5</span></div>
+        <div class="desc">Dodges to Exhaustion</div>
+      </div>
+      <div class="stat">
+        <div class="num"><span>C++</span></div>
+        <div class="desc">Native Systems</div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ━━ Footer ━━ -->
+<footer>
+  <div class="wrap">
+    <div class="logo">Ivory<span>Blade</span></div>
+    <div class="socials">
+      <a href="https://github.com/LaurentStar" target="_blank" rel="noopener">GitHub</a>
+      <a href="https://medium.com/@laurent.mundell" target="_blank" rel="noopener">Medium</a>
+      <a href="https://www.hackerrank.com/profile/laurent_mundell" target="_blank" rel="noopener">HackerRank</a>
+    </div>
+  </div>
+</footer>
+
+</body>
+</html>

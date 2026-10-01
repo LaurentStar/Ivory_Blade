@@ -6,16 +6,20 @@
 
 ## Overview
 
-| Field | Detail |
-|---|---|
-| **Name** | The Mirralata System |
-| **Type** | A structured arrangement of discrete, self-contained universes (realms) |
-| **Scale** | The totality of existence in the Ivory Blade world |
-| **Structure** | Realms arranged around a center |
-| **Center** | Unknown. The protagonist believes something there can restore a sacrificed soul. The prophecy says the chosen child will reach it and activate a special event. |
-| **Governing Laws** | Three pillars -- Universal Energy, magic, and physics -- vary per realm |
+
+| Field              | Detail                                                                                                                                                          |
+| ------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Name**           | The Mirralata System                                                                                                                                            |
+| **Type**           | A structured arrangement of discrete, self-contained universes (realms)                                                                                         |
+| **Scale**          | The totality of existence in the Ivory Blade world                                                                                                              |
+| **Structure**      | Realms arranged around a center                                                                                                                                 |
+| **Center**         | Unknown. The protagonist believes something there can restore a sacrificed soul. The prophecy says the chosen child will reach it and activate a special event. |
+| **Governing Laws** | Three pillars -- Universal Energy, magic, and physics -- vary per realm                                                                                         |
+
 
 ---
+
+
 
 ## What It Is
 
@@ -27,15 +31,19 @@ The system has a center. The protagonist's journey across 10 games is to reach i
 
 ---
 
+
+
 ## The Three Pillars
 
 Every realm in the Mirralata System is governed by three fundamental forces. Their values and behaviors vary from realm to realm, creating radically different conditions in each.
 
-| Pillar | Function |
-|---|---|
+
+| Pillar               | Function                                                                                                                                                                   |
+| -------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Universal Energy** | The raw fuel of existence. Determines the ceiling for how powerful a being can become. Ranges from near-zero (baseline biology only) to extreme (Dragon Ball-level power). |
-| **Magic** | A separate force from UE. Inversely relevant to UE level -- dominant in mid-level realms, irrelevant in the highest, nearly impossible in the lowest. |
-| **Physics** | The fundamental rules of reality. Standard realms follow internally consistent physics (even if different from other realms). Anomaly Realms break their own rules. |
+| **Magic**            | A separate force from UE. Inversely relevant to UE level -- dominant in mid-level realms, irrelevant in the highest, nearly impossible in the lowest.                      |
+| **Physics**          | The fundamental rules of reality. Standard realms follow internally consistent physics (even if different from other realms). Anomaly Realms break their own rules.        |
+
 
 The interplay of these three pillars makes every realm a unique environment. A mid-UE standard realm with conventional physics is a completely different experience from a low-UE Anomaly Realm with broken gravity. Beings who travel between realms must adapt or die.
 
@@ -43,7 +51,11 @@ Full details: `GameLore/World_Physics/UniversalEnergy.md` | `GameLore/World_Phys
 
 ---
 
+
+
 ## Realm Types
+
+
 
 ### Standard Realms
 
@@ -57,7 +69,11 @@ Full details: `GameLore/World_Physics/Realms.md`
 
 ---
 
+
+
 ## Travel
+
+
 
 ### Spaceships
 
@@ -85,17 +101,22 @@ The Mirralata System is not always safe to traverse. Large-scale events can bloc
 
 ---
 
+
+
 ## Cross-Realm Power Dynamics
 
 The Mirralata System punishes beings who cross too far from their native energy level. Travel between realms is not just logistically dangerous -- it is biologically dangerous.
 
-| Direction | Effect |
-|---|---|
-| **Descending** (high UE to low UE) | Beings lose access to the energy sustaining them. The most powerful and UE-dependent tear apart -- their cells, organs, and structure fail without ambient energy. The strongest beings in the system may be prisoners of their own realm. |
-| **Ascending** (low UE to high UE) | Beings gain disproportionate power. Surviving in low-energy environments builds baseline toughness. When that toughness meets abundant energy, the result is massive enhancement. |
+
+| Direction                                   | Effect                                                                                                                                                                                                                                               |
+| ------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Descending** (high UE to low UE)          | Beings lose access to the energy sustaining them. The most powerful and UE-dependent tear apart -- their cells, organs, and structure fail without ambient energy. The strongest beings in the system may be prisoners of their own realm.           |
+| **Ascending** (low UE to high UE)           | Beings gain disproportionate power. Surviving in low-energy environments builds baseline toughness. When that toughness meets abundant energy, the result is massive enhancement.                                                                    |
 | **The Light Threshold** (ascending too far) | If the gap is too extreme, the being dissolves into light -- omnipresent, godlike, but without form. Functionally death, though calm rather than violent. Exceptionally composed individuals can maintain consciousness and retreat to reconstitute. |
 
+
 This creates asymmetric danger:
+
 - **Descend too far:** tear apart (violent, structural failure)
 - **Ascend too far:** become light (calm, dissolution)
 
@@ -105,18 +126,24 @@ Full details: `GameLore/World_Physics/UniversalEnergy.md`
 
 ---
 
+
+
 ## Known Realms
 
-| Realm | Type | UE Level | Status | Notes |
-|---|---|---|---|---|
-| **Swahili Realm** | Anomaly | Mid-tier low | Active warzone | Setting of Game 1. Planetoid terrain, strange gravity. Two armies fighting. Both hunt the protagonist. |
-| **Mayler Realm** | TBD | TBD | Notorious for animal exploitation. Close to the center. | Setting of a late-series game. Hub for rare creature collection, poaching, and trade. The crew must steal a rare creature to cross an Anomaly Realm. Vennessa's star cat is held here. |
-| **Vitoko Realm** | TBD | TBD | Capital realm | A capital of sorts. Robert Poole's destination -- she was visiting family there. |
-| **Protagonist's Home Realm** | TBD | TBD (likely mid-range) | TBD | Contains the elf-controlled nation where IndigoLLiy was raised by Sirus and his sister. |
+
+| Realm                        | Type    | UE Level               | Status                                                  | Notes                                                                                                                                                                                  |
+| ---------------------------- | ------- | ---------------------- | ------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Swahili Realm**            | Anomaly | Mid-tier low           | Active warzone                                          | Setting of Game 1. Planetoid terrain, strange gravity. Two armies fighting. Both hunt the protagonist.                                                                                 |
+| **Mayler Realm**             | TBD     | TBD                    | Notorious for animal exploitation. Close to the center. | Setting of a late-series game. Hub for rare creature collection, poaching, and trade. The crew must steal a rare creature to cross an Anomaly Realm. Vennessa's star cat is held here. |
+| **Vitoko Realm**             | TBD     | TBD                    | Capital realm                                           | A capital of sorts. Robert Poole's destination -- she was visiting family there.                                                                                                       |
+| **Protagonist's Home Realm** | TBD     | TBD (likely mid-range) | TBD                                                     | Contains the elf-controlled nation where IndigoLLiy was raised by Sirus and his sister.                                                                                                |
+
 
 Full profiles: `GameLore/Locations/MirralataSystem/SwahiliRealm/SwahiliRealm.md` | `GameLore/Locations/Mirralata System/MaylerRealm/MaylerRealm.md`
 
 ---
+
+
 
 ## The Center
 
@@ -138,6 +165,8 @@ Full details: `GameLore/World_Physics/Prophecy.md`
 
 ---
 
+
+
 ## Cosmic-Scale Entities
 
 The Mirralata System contains beings and entities that operate at scales beyond any individual realm.
@@ -156,6 +185,8 @@ Full details: `GameLore/World_Physics/Prophecy.md`
 
 ---
 
+
+
 ## What the System Implies
 
 The Mirralata System is not a collection of game levels. It is a living, structured cosmos:
@@ -166,6 +197,8 @@ The Mirralata System is not a collection of game levels. It is a living, structu
 - **Travel is the story.** The 10-game arc is structured around the journey through realm after realm, each with different physics, different UE levels, different civilizations, and different dangers. The Mirralata System is not a backdrop -- it is the structure that generates the narrative.
 
 ---
+
+
 
 ## Open Questions
 
@@ -179,3 +212,4 @@ The Mirralata System is not a collection of game levels. It is a living, structu
 8. **The worm guardians** -- Are there more than one? What are they guarding? Who or what created them? Are they sentient?
 9. **Vitoko Realm** -- What does this capital realm look like? What makes it a capital? Capital of what -- a political union, a trade hub, a cultural center?
 10. **The protagonist's home realm** -- Name, UE level, and character. What is the elf-controlled nation like?
+

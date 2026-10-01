@@ -56,8 +56,8 @@ public:
 	);
 
 	/**
-	 * Derives pelvis drop, spine lean, and crawl flag from the HMD's
-	 * current height relative to a calibrated standing height.
+	 * Derives pelvis drop, spine lean, and crawl flag from the player's
+	 * current height relative to a standing height reference.
 	 *
 	 * Three zones (controlled by crouch_dead_zone and crawl_threshold):
 	 *   Standing  — outputs zero, pure locomotion animation
@@ -66,7 +66,7 @@ public:
 	 */
 	UFUNCTION(BlueprintCallable, Category = "Animation|VRIK")
 	static void ComputeBodyIKParams(
-		USceneComponent* camera,
+		float current_player_height,
 		float standing_hmd_height,
 		float max_pelvis_drop,
 		float max_spine_lean_total,
