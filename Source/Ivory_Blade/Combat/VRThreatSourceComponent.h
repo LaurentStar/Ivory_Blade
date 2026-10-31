@@ -47,6 +47,17 @@ public:
 	UFUNCTION(BlueprintPure, Category = "Threat")
 	USphereComponent* GetAlertBox() const { return AlertBoxSphere; }
 
+	/**
+	 * Collision radius of this attack's damage volume, in cm.
+	 *
+	 * ThreatRadiusOverride when it is non-zero, otherwise the radius detected
+	 * from the owning actor's first shape that is not the alert box. The dodge
+	 * system needs this to work out how far the player has to travel to clear
+	 * the attack, which it cannot do from the attack's direction alone.
+	 */
+	UFUNCTION(BlueprintPure, Category = "Threat")
+	float GetThreatRadius() const;
+
 	// ── Configuration ──
 
 	/**
@@ -77,6 +88,14 @@ public:
 
 private:
 	float DetectRadius() const;
+
+	/**
+	 * Detected radius, cached after the first query. Negative until resolved.
+	 *
+	 * DetectRadius walks every shape on the actor and warns when it finds
+	 * none, so it is not something to repeat per dodge.
+	 */
+	mutable float CachedThreatRadius = -1.0f;
 
 	UPROPERTY()
 	TObjectPtr<USphereComponent> AlertBoxSphere;

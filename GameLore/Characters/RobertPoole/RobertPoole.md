@@ -94,6 +94,24 @@ The magically augmented blast hits the tiger captain. He is burned, broken, and 
 
 She did not volunteer for this. She was in position, the weapon was ready, and the moment came. She fired because it needed to happen. That is who Robert is: the person who does what needs to be done, not because she is brave, but because she is there and nobody else can do it.
 
+### The Passenger
+
+> Depends on Ram Nassor, whose creator agreement is still pending. If that character is cut, this section goes with her and nothing else in Robert's profile changes.
+
+In Chapter 2 Level 3, Robert seals the hull against the cave animals and refuses to open it for a stranger pounding on the hatch. She is **right**. The animals would kill her, and she has never seen this person before. She knows there is someone out there and she makes the call anyway.
+
+The stranger calls her a coward for it. That accusation -- unfair, delivered by someone who was never in any danger at all -- lands on a fear Robert already has about herself, and she carries it for the rest of the game.
+
+What follows is the quietest arc on the crew:
+
+- **Ch2 L6** -- "Did you leave the aft hold open when you went?" She asks, gets told no, and talks herself out of it. "It's an old ship."
+- **Ch3 L5** -- She starts to report emptied ration crates and a track through the dust, looks at it, and says "Nothing. Stabilizers are holding."
+- **Ch4 L1** -- She gets as far as naming the hold to Ys's face and finishes with "Needs sweeping."
+- **Ch4 L4** -- She fires the shot that takes down the tiger captain.
+- **Ch4 End.8** -- The stranger is found aboard, insults her again, and Robert does not answer. She goes to the airlock faster.
+
+**She never detects anything.** She has no magic to detect with -- that is the point. She finds physical evidence, repeatedly, and chooses not to pull on it. By Chapter 4 that has stopped being carelessness and become a decision she keeps remaking.
+
 ---
 
 ## Key Relationships
@@ -137,6 +155,6 @@ The story needs Robert because she is the human-scale reference point. When Indi
 3. ~~**Background**~~ -- Resolved: Self-taught out of necessity. Every vehicle she rides breaks down -- a curse or spectacularly bad luck. The silver lining is she is always around to patch it back together. A lifetime of breakdowns made her a mechanic.
 4. **Age** -- How old is she? Is she older than the protagonist and Brod, or roughly their age?
 5. **Personal stakes** -- Does the journey begin to matter to her beyond survival? Does she develop a reason to stay that is not just "the alternatives are worse"?
-6. **After the tiger captain** -- How does firing the shot that took down the most dangerous fighter in the game affect her? Does she see herself differently?
+6. ~~**After the tiger captain**~~ -- Resolved in End.8, and the answer is an action rather than a speech. Called a coward a second time by the same stranger, in front of her captain, Robert does not argue and does not defend herself. She raises an eyebrow and starts opening the airlock faster. She has never claimed not to be afraid -- what changed is that she no longer accepts the word from someone who has never been in danger. The most frightened person on the crew becomes the only one actively trying to kill the intruder, and she does it without raising her voice. (Depends on Ram Nassor. If that character is cut, this reverts to open.)
 7. ~~**Robert's perspective on IndigoLLiy**~~ -- Resolved: Sees her as a teen/child. Easy to talk to on the same wavelength, comforting but not emotionally close.
 8. **Magic potential** -- Is she truly almost magicless, or is there latent capability she has never developed? Does the journey change this?

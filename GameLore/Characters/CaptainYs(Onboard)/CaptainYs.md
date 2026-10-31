@@ -137,6 +137,20 @@ She is small and not built for combat. Her magic is her only tool in a fight, an
 
 Ys really wants her gone. But the Mayler Realm -- the only destination that makes sense for Vennessa -- is **close to the center of the Mirralata System**. There is no convenient stop along the way. Dropping her anywhere else means stranding her in a realm that is not her destination with no way to reach her cat. She is going to be on his ship for **nearly the entire journey**. He did not invite her. She did not ask. And he is stuck with her for almost every game.
 
+### Ram Nassor -- The Second Stowaway
+
+> *Pending creator agreement. If the character is cut, this section and the shotgun paragraph under Ranged go with her.*
+
+Nassor is the one thing in Game 1 that gets past him completely.
+
+**He never detects her, and the reason is that he is never aboard.** He and Kat are aware of all sentient beings on the ship -- it is how they have known about Sketch and Tablet from the start -- and for thirteen levels neither of them is standing on it. Nobody else has the capability. Robert lives aboard and is nearly magicless; she finds physical evidence three separate times and reports none of it.
+
+At the Ch4 ending the whole crew is finally aboard at once, somebody thinks to count, and Ys and Kat find an eight-foot armed stranger in the aft hold. **He attacks without asking a single question** and orders her thrown out of a moving ship. What stops him is Indigo's observation that this has happened *before* -- which tells him there is history here he does not have.
+
+His ruling afterward is deliberately narrow: **not malicious.** He does not say she is harmless, and he offers no opinion on her power, because that is not the question in front of him and not something he can verify. She gets passage until the ship can set down somewhere in the Swahili Realm outside the civil war for repairs.
+
+**It is word for word the arrangement Robert has**, which Robert notices and nobody else does. Like Robert's, it will fail -- the crew keeps nearly dying before they can drop anyone anywhere. That is how Nassor ends up staying without Ys ever deciding to keep her, which is the second stowaway he has acquired by pragmatism rather than choice.
+
 ### Crew Summary
 
 | Member | How They Joined | Relationship to Ys | Combat Role |
@@ -145,6 +159,7 @@ Ys really wants her gone. But the Mayler Realm -- the only destination that make
 | **Brod Tsumi** | Pre-existing. Long history together. | Mentee. Stern, serious, no jokes. | Combatant. Drawing-casting magic. |
 | **Mechanic** | Picked up from public transport. | Protected crew member. Ys shields her from conflict. | Non-combatant. Mechanic and ship maintenance. |
 | **Vennessa** | Stowaway. Never asked -- just hid on the ship. | Uninvited. Ys is looking for a safe place to leave her. | Limited. Drawing-casting magic (similar skill to the mercenary, better tools). Small, not combat-suited. |
+| **Ram Nassor** *(pending)* | Stowaway, twice. Thrown off once and came back. | Not crew. Granted conditional passage to the next safe landing. | None used. Enormously strong and never deployed. |
 
 Everyone on the crew believes the same baseline truth: they are hired to get from point A to point B by a strange ghost man. The rabbit girl's true relationship with Ys, the depth of his mentorship with the mercenary, and his quiet calculations about who stays and who gets dropped off -- none of this is spoken aloud. The crew operates on orders and proximity, not intimacy.
 
@@ -173,6 +188,8 @@ Ys is the **second-best hand-to-hand fighter on the crew.** He is not the protag
 ### Ranged -- Guns vs. Piloting
 
 His aim with firearms is **bad.** Put a gun in his hands and he will miss shots that the mercenary would land without thinking. This is a genuine weakness, not a stylistic choice. He does not carry guns because he cannot use them effectively.
+
+**The one exception is a shotgun, and it exists because of the weakness rather than in spite of it.** He owns exactly one, it is stowed rather than carried, and it only ever comes out at contact range against a target that is already restrained -- where there is nothing to aim at and his marksmanship is not a factor. It is the single firearm a bad shot can use with total confidence, which is precisely why it is the one he bought. The crew has almost never seen it. Its only appearance in Game 1 is Ch4 End.8, pressed against the head of a stowaway Kat already has pinned.
 
 His aim while **piloting a flying craft is the opposite** -- extremely sharp. Whatever disconnect exists between Ys and handheld firearms disappears when he is at the controls of a ship. He can thread a craft through tight spaces and line up strafing runs with precision that borders on mechanical. The contrast is stark: hand him a pistol and he is mediocre, put him in a cockpit and he is lethal.
 

@@ -358,6 +358,24 @@ But underneath, it is a joke about **Indigo's sacrifice** -- the price she will 
 
 The rest of the crew takes it at face value. Kat does not.
 
+### The Stowaway Is Found
+
+> *Depends on Ram Nassor, whose creator agreement is pending. This section and every Nassor beat in Chapters 2 through 4 are built to be deleted as a block.*
+
+**After the ending beat, not inside it.** Indigo's doubt cannot absorb an entrance like this and this cannot carry her doubt. Keep the seam hard.
+
+The ending is the first time in the entire game that every member of the crew is aboard at once, and it is the first time anybody thinks to count. **Ys and Kat sweep their own ship and find an eight-foot armed stranger living in the aft hold.** They attack on sight -- Kat pins her, Ys puts a shotgun against her head, and he orders the airlock opened with the ship in flight.
+
+Only **Indigo and Robert** have ever met her. Brod has not, and neither have Ys or Kat, which is why the response is immediate and lethal and entirely correct.
+
+Nassor pleads, then recovers her footing and accuses the whole crew of loosing a demon into the realm -- which is true, and which **Indigo does not answer.** Then she disparages Robert to Kat's face without addressing her. **Robert does not argue.** She raises an eyebrow and starts opening the airlock faster.
+
+What stops it is **Indigo**, who is not surprised that there is a stranger aboard, only that she is aboard *again*. That single word tells Ys there is history he does not have. He calls Robert off and asks four questions -- who are you, what are you, why are you here, why should I let you stay -- with the gun still up. Kat has heard of the kingdom, which downgrades the threat. Indigo works out mid-answer that Nassor is a woman and gets angrier rather than softer.
+
+**Ys rules that she is not malicious**, which is a judgement on intent and nothing else. He offers no opinion on her power. She gets passage until the ship can set down somewhere in the Swahili Realm outside the civil war for repairs -- **the identical arrangement Robert already has**, and it will fail the identical way.
+
+**The joke underneath it** is that Indigo threw this woman off the ship in Chapter 2 and nobody checked again. Thirteen levels of the crew planning and fighting and bleeding around a cargo hold none of them opened, while Robert found the evidence three separate times and said nothing.
+
 ---
 
 ## Credits Sequence
@@ -387,6 +405,8 @@ Ys lays out the route on a physical chart. This is his answer to Vennessa's spee
 The trio is canon casting rather than convenience. Ys's humor is reserved for the outer circle, which means Robert and Vennessa specifically. This is the only place in the game he is funny.
 
 The scene closes on Vennessa observing that he does a lot of getting people where they are going. His pen stops. It is her second unanswered pause with him after Ch3 1.6, and she files it without pressing.
+
+**Nassor is in all three vignettes and part of none of them.** She sits apart in Kat and Brod's scene waiting to be addressed, interrupts the route scene once to ask which mark is the one where she is discarded, and is the louder-than-necessary voice behind Indigo during the Kim conversation. In the final wide she is coiled at the edge of the deck, alone, watching a battle that nobody she wants to impress is watching. She got exactly what she wanted -- to be aboard -- and it has bought her nothing. *(Cuts with the rest of the Nassor material.)*
 
 ### Indigo and Kim
 

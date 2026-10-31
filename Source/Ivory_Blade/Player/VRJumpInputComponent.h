@@ -2,6 +2,7 @@
 
 #include "CoreMinimal.h"
 #include "Components/ActorComponent.h"
+#include "Engine/TimerHandle.h"
 #include "VRJumpInputComponent.generated.h"
 
 DECLARE_LOG_CATEGORY_EXTERN(LogVRJump, Log, All);
@@ -70,6 +71,31 @@ public:
 	UFUNCTION(BlueprintCallable, Category = "Input|Jump")
 	void ResetJumpState();
 
+	// ── Hold timing ──
+	//
+	// IA_Jump's mappings carry no triggers, and must not. On Quest, OpenXR
+	// injects every action once per hand per frame, and the idle hand's zero
+	// runs through the same UInputTrigger instances as the real value. Anything
+	// stateful is wiped each frame: Hold and Hold And Release never reach their
+	// threshold, and Pressed re-fires continuously because its LastValue is
+	// reset. A trigger-less action is derived purely from the current value, so
+	// there is nothing to corrupt -- which is why smooth locomotion always
+	// worked while jump did not. Hold duration is therefore measured here.
+
+	/**
+	 * Resolve a deferred jump after this long if its release never arrives.
+	 *
+	 * A lost Completed event strands bJumpDeferred, and a stranded flag
+	 * silently swallows every jump that follows it. Zero disables the net.
+	 */
+	UPROPERTY(EditAnywhere, BlueprintReadWrite, Category = "Input|Jump",
+		meta = (ClampMin = "0.0"))
+	float JumpHoldTimeout = 1.0f;
+
+	/** Seconds since the current press, or zero when nothing is held. */
+	UFUNCTION(BlueprintPure, Category = "Input|Jump")
+	float GetCurrentHoldDuration() const;
+
 	// ── Output ──
 
 	/**
@@ -96,9 +122,39 @@ public:
 	UPROPERTY(EditAnywhere, BlueprintReadWrite, Category = "Input|Jump|Diagnostics")
 	bool bLogDiagnostics = true;
 
+	/**
+	 * Mirror every decision to the screen as well as the log.
+	 *
+	 * Device testing is an untethered APK, so LogVRJump is unreadable there.
+	 * Each kind of line owns its own slot and outlives the frame, so a whole
+	 * press-then-release gesture stays on screen to be read afterwards.
+	 */
+	UPROPERTY(EditAnywhere, BlueprintReadWrite, Category = "Input|Jump|Diagnostics")
+	bool bShowDebugOnScreen = false;
+
+	/** Base key for the debug messages. Offset from the combo component's block. */
+	UPROPERTY(EditAnywhere, BlueprintReadWrite, Category = "Input|Jump|Diagnostics")
+	int32 DebugMessageKey = 7300;
+
 private:
 	/** Calls Jump on the owning Character and broadcasts OnJumpPerformed. */
 	void PerformJump(const TCHAR* reason);
+
+	/** One on-screen line, owning its slot so each kind of event stays readable. */
+	void ReportDebug(const FString& message, int32 slot, float lifetime, FColor color) const;
+
+	/** Resolves a deferred jump whose release never arrived. */
+	void HandleJumpHoldTimeout();
+
+	/** Cancels the pending timeout. Leaves the press time alone, so the
+	 *  resolving path can still report how long the hold lasted. */
+	void ClearHoldTimeout();
+
+	/** World time the current press began. Negative when nothing is held. */
+	double JumpPressTimeSeconds = -1.0;
+
+	/** Pending JumpHoldTimeout, live only while a jump is deferred. */
+	FTimerHandle JumpTimeoutHandle;
 
 	/** This press took the advance-mode branch, so its release owes a jump. */
 	bool bJumpDeferred = false;

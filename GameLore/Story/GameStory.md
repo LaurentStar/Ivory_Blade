@@ -44,8 +44,11 @@ Ys's crew:
 | **Brod Tsumi** | 19-year-old Black male mercenary. Drawing-casting magic via sentient sketchbook (Sketch). Not loyal -- needs the money. |
 | **Robert Poole (Mechanic)** | Slender, lanky, tall pink-haired human woman. Keeps the ship and equipment operational. |
 | **Vennessa (Mouse Woman)** | Short mouse-like anthropomorphic woman. Drawing-casting magic via brush pen. Stowaway. |
+| **Ram Nassor** *(pending)* | Eight-foot serpentine aristocrat. Enormously strong, magic she cannot control, a Ram Dao she never uses. Not crew -- a stowaway in the aft hold from Ch2 L3 until she is found at the Ch4 ending. |
 
 The crew is small. Six people total including the protagonist. Ys hired almost everyone -- their loyalty is to him first, not to her. She is a passenger with a purpose, not the leader.
+
+**Nassor is not part of that count and nobody aboard counts her.** She boards uninvited in Chapter 2, is thrown off, boards again unseen, and rides the hold for thirteen levels before Ys and Kat sweep the ship at the ending. Her creator agreement is pending, so every beat she appears in is built to be deleted as a block. See `GameLore/Characters/RamNassor (Pending)/RamNassor.md`.
 
 ---
 
@@ -248,5 +251,8 @@ Both victories come from the same core trait: she refuses to accept that a situa
 8. **The 1-year deadline** -- How much of the year does this game consume?
 9. **Escape** -- How does the crew leave the Swahili Realm after the demon emergence?
 10. **The credits narrator** -- Character TBD. No longer blocking: the Ch4 credits are carried by the crew vignettes and the narration is cut. If the character is ever defined, decide whether they bookend a credits sequence or belong somewhere else.
+11. **Ram Nassor's creator agreement** -- Not concluded. Everything she appears in is written to be removed as a block and no existing dialogue was rewritten for her. If the agreement fails, delete the Ch2 L3 encounter and ejection, the Ch3 2.4 shot, Ch4 End.8, her credits background, and Robert's three passenger seeds.
+12. **Where Nassor's kingdom is** -- Deliberately unplaced. It belongs to a realm that has not been written. The only fixed point is that Kat has heard of it, which is all End.8 requires.
+13. **The two legendary swords** -- Nassor crossed realms chasing a rumour that they were near the Swahili Realm. They are not, and nothing connects them to the ancient structure or the demon's deception. Whether they exist at all is open.
 
 *Resolved:* Captain Ys's profile, the prophecy, crew members Kat Arlean Mori and Brod Tsumi are documented in `GameLore/Characters/`. The prophecy is detailed in `GameLore/World_Physics/Prophecy.md`.

@@ -109,6 +109,23 @@ void UVRThreatSourceComponent::EndPlay(const EEndPlayReason::Type EndPlayReason)
 	Super::EndPlay(EndPlayReason);
 }
 
+// ── Queries ──
+
+float UVRThreatSourceComponent::GetThreatRadius() const
+{
+	if (ThreatRadiusOverride > 0.0f)
+	{
+		return ThreatRadiusOverride;
+	}
+
+	if (CachedThreatRadius < 0.0f)
+	{
+		CachedThreatRadius = DetectRadius();
+	}
+
+	return CachedThreatRadius;
+}
+
 float UVRThreatSourceComponent::DetectRadius() const
 {
 	const AActor* owner = GetOwner();

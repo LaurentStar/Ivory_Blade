@@ -247,6 +247,19 @@ TIGER CAPTAIN: Where is the girl?
 
 TIGER CAPTAIN: I won't ask twice.
 
+(Cut. Deep in the aft hold, between the crates, in the dark. A coil of patterned scale. Gold at the horns. Watching.)
+
+```
+
+```
+[INTERNAL]
+NASSOR (internal): You get what you deserve, you filthy boney human!
+```
+
+```
+[CUTSCENE]
+(Cut back. She does not move. She was never going to.)
+
 (He lets go. She collapses forward, gasping.)
 
 (He moves to Jack. Looks at the stone restraints. Breaks them with one hand. Jack stands -- free, rubbing his wrists.)
@@ -261,6 +274,14 @@ TIGER CAPTAIN: If you weren't useful for tracking, I'd leave you here.
 ```
 
 **Notes:** The tiger captain is introduced through violence and contempt. He chokes Robert without hesitation. He breaks Indigo's magical restraints with one hand -- the same restraints Jack couldn't budge. And his dismissal of Jack is total: "tied up at a ship as a prisoner" reduces everything Jack went through to nothing. The audience should feel the power gap immediately.
+
+**The Nassor shot is the payoff to the Chapter 2 ejection.** The player watched Indigo throw her off the ship and listened to her rant about burning alive, and was given every reason to think that was the end of her. This is where they find out she got back on. Not at the ending -- here, two levels later, in a scene that has nothing else to do with her. Everything from this point to End.8 runs on dramatic irony: the audience knows, and the crew does not.
+
+**One shot. Do not extend it.** The tiger captain's beats do not change, nothing is cut, and he keeps the scene. His introduction is load-bearing for his power level and must not be diluted. Robert survives in canon -- he lets go and she collapses gasping -- so the outcome is untouched.
+
+**It plays as pettiness, not menace.** She did not cause this, she will not help, and she is enjoying it enormously. "Boney human" does the characterisation for free: a snob's insult aimed precisely at a woman the canon describes as slender and lanky, which marks her as species-ist rather than cruel. She stays put because involving herself gains her nothing, which is her stated operating principle.
+
+**Rule for Nassor's internal lines.** [Script_Style_Methods.md](Script_Style_Methods.md) scopes `[INTERNAL]` to the protagonist, so this is a deliberate extension of the category and it is contained by one rule: **Nassor only gets internal monologue in parallel cutscenes where Indigo is absent.** 2.4 opens by cutting away from the protagonist, so there is no competition for the inner-voice channel. If Indigo is in the scene, Nassor does not get to think out loud.
 
 ---
 
@@ -905,6 +926,22 @@ INDIGO: Now or never.
 YS (via magic signal): I'm bringing the ship through. There's a larger opening on the east side. Keep moving. The gate is closing.
 (Trigger: mid-traversal.)
 ```
+
+```
+[COMMS]
+ROBERT (via ship comms): Captain, the aft hold--
+
+(She stops.)
+
+(Ration crates, pulled open and emptied, stacked against the bulkhead. A long clear track through the dust on the deck. Something very large has been sitting down here.)
+
+YS (via magic signal): Robert.
+
+ROBERT (via ship comms): ...Nothing. Stabilizers are holding.
+(Trigger: shortly after Ys brings the ship through.)
+```
+
+**Notes:** Second passenger seed, and the first one the audience is in on -- 2.4 has already shown them who is down there. Robert starts to report it and stops, which is the whole thread in four lines. She is not confused and she is not missing anything; she looks straight at the evidence and decides not to pull on it. Keep Ys's "Robert" as pure impatience. He is flying a ship through a closing gate and has no idea he just talked her out of it.
 
 ---
 

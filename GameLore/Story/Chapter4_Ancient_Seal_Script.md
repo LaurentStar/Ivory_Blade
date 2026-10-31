@@ -183,6 +183,14 @@ YS: Robert -- the ship took damage coming through the gate. How bad?
 
 ROBERT: Hull stress, two cracked stabilizers, and the port thruster is grinding. Flyable, but not for long. I need a few hours.
 
+ROBERT: ...And the aft hold.
+
+YS: What about it.
+
+(Beat.)
+
+ROBERT: Needs sweeping.
+
 YS: You have them. Vennessa -- stay with Robert. Keep her covered while she works and draw up some tools for her.
 
 VENNESSA: (nods)
@@ -194,6 +202,8 @@ YS: Nobody goes deeper. We hold this chamber until we know more.
 (Camera: Ys in the center of the frame. The crew moves to their assignments. Indigo stays still.)
 (Trigger: continuation of the discovery scene.)
 ```
+
+**Notes:** Third and last of Robert's passenger seeds, and the broadest -- she gets as far as naming the hold out loud to the captain's face and then puts it down again. "Needs sweeping" is true. It is also the most complete piece of evidence anyone in the game produces about Nassor, and Robert buries it in a maintenance report. By this point her silence has stopped being carelessness and become a decision she keeps making.
 
 ---
 
@@ -1325,6 +1335,188 @@ TABLET (quiet -- just to Brod): You did enough.
 
 ---
 
+### End.8 -- The Aft Hold
+
+```
+[CUTSCENE]
+(Below deck. Ys and Kat move through the ship together. Not searching. Confirming.)
+
+(This is the first time in four chapters that every member of this crew has been aboard at the same moment, and it has finally occurred to somebody to count.)
+
+(Kat stops outside the aft hold. She does not say anything. She looks at Ys.)
+
+(He opens it.)
+
+(The hold. Ration crates pulled open and emptied. A cleared track through the dust the size of a vehicle. And at the back of it, folded into the dark between the bulkheads, eight feet of coiled serpent in filthy purple and gold, blinking at the light.)
+
+(Nobody asks who she is.)
+```
+
+```
+[CUTSCENE]
+(Kat moves first.)
+
+(The magic lands across Nassor's chest and shoulders and sets -- not damage, weight. Her own body stops answering her. Kat is on her before she finishes going down: one knee into the coils, both hands working, and the Ram Dao goes skidding away across the deck plating.)
+
+(Ys does not hurry. He walks in, puts a shotgun against the side of her head, and leaves it there.)
+
+(Nobody on this crew has ever seen him hold a gun. He is not aiming it. At this range he does not have to.)
+
+(Above them, footsteps. The rest of the crew arrives at the hold door and stops there -- Indigo, Robert, Brod, Vennessa. Brod has never seen this person before in his life and has no idea what he is looking at.)
+
+YS (not looking up): Open the airlock.
+
+KAT: Hands are full, Captain.
+
+(Robert goes.)
+```
+
+```
+[CUTSCENE]
+NASSOR: Wait. WAIT. You cannot simply --
+
+NASSOR: I am UNARMED. That blade is ceremonial!
+
+(Nobody responds to this.)
+
+NASSOR: Do you have the faintest comprehension of what you people have DONE? You have loosed a demon into this realm. A demon! It is out there at this very moment, and you --
+
+(Nobody responds to this either. Indigo, in the doorway, does not move and does not answer.)
+
+(Nassor's head turns as far as the pin allows. She finds Kat's face directly above her and makes her play.)
+
+NASSOR: You. You do not look as cowardly, weak, and unkind as the red haired woman. Surely you can muster kindness to let me stay?
+
+(Across the hold, at the airlock panel, Robert's hand stops.)
+
+(She raises one eyebrow.)
+
+(Then she goes back to work on the panel, noticeably faster than she was a moment ago.)
+
+(Kat has not reacted at all. Kat has not looked away from Ys.)
+```
+
+```
+[CUTSCENE]
+(Indigo has been in the doorway the entire time. Blank. The same look she gave a snake woman shouting at a sealed hatch two chapters ago, and about as long.)
+
+INDIGO: ...She's on the ship again.
+
+(Ys's eyes move. Not his head. His eyes.)
+
+YS: Again.
+
+INDIGO: Again.
+
+(Beat.)
+
+YS: Robert. Stop.
+
+(The panel goes quiet.)
+```
+
+```
+[CUTSCENE]
+(The barrel does not move.)
+
+YS: Who are you.
+
+NASSOR: Ram Nassor, of the --
+
+YS: What are you.
+
+NASSOR: I -- that is a remarkably rude --
+
+YS: What are you.
+
+NASSOR: A mage. A dancer. A woman of standing.
+
+YS: Why are you here.
+
+NASSOR: There are two swords in this region. Legendary ones. They make all things beautiful, and with them I will set a trend, and with a trend I will take the throne and be written into the history of my kingdom forever.
+
+(Silence.)
+
+NASSOR: ...They were not here.
+
+YS: Why should I let you stay.
+
+(For the first time, she does not have an answer ready.)
+
+KAT: I've heard of it.
+
+(Everyone looks at her. Kat does not look back at anyone. Her hands do not move.)
+
+KAT: Little monarchy, long way out past the far realms. You take the crown by starting a fashion and you keep it until somebody starts a better one. It's real. She's not lying about the kingdom.
+
+(Indigo's head tilts a fraction.)
+
+INDIGO: ...You're a woman.
+
+NASSOR: I BEG YOUR --
+
+INDIGO: Huh.
+
+(She does not apologise. If anything she looks more annoyed than she did a minute ago.)
+```
+
+```
+[CUTSCENE]
+(Ys looks at the emptied crates. At the track in the dust. At the blade lying twenty feet away where Kat put it.)
+
+YS: You're not malicious.
+
+NASSOR: I am NOBLE --
+
+YS: You're not malicious. That is all I said.
+
+(He takes the barrel off her head.)
+
+YS: We set down in the Swahili Realm. Somewhere the war isn't. We fix the ship. You are off at that stop.
+
+NASSOR: And if the repairs should require longer than --
+
+YS: You are off at that stop.
+
+(He leaves. Kat releases her, collects the Ram Dao on the way out, and does not hand it back.)
+
+(At the airlock panel, Robert has not moved.)
+
+(She has heard that arrangement before. Word for word. It was hers.)
+```
+
+**Notes:** This reveal belongs to the crew, not the player. The audience has known since **Ch3 2.4**. The joke underneath it is that Indigo threw this woman off the ship in Chapter 2 and **nobody ever checked again** -- thirteen levels of the crew planning and fighting and bleeding around a cargo hold none of them opened.
+
+**It goes after End.7, not inside the Ending Beat.** Indigo's doubt and Ys's dark joke cannot absorb an entrance like this, and End.8 cannot carry them. Keep the seam hard.
+
+**The comedy is the split down the middle of the room.** Only Indigo and Robert have ever met her. Brod has not, and neither have Ys or Kat. So the two people with hands on her have no Chapter 2 context and no reason to think she is ridiculous -- they have found an unidentified eight-foot armed stranger living inside their ship on the worst day of their lives, and their response is immediate and lethal and entirely correct. Standing in the doorway are the only two people alive who know this is a woman who once lost an argument to a door.
+
+**Kat is not gentle and there is no act.** Her "comforting to lethal has no gap" register is for people she has a reason to put at ease, and an intruder is not one of them. What carries over is the other half of the profile: she is nonchalant about killing, and that is her baseline rather than a mask. Her hands stay on Nassor, her attention stays on Ys, and she does not need the airlock order repeated. No banter, no reassurance, and no cruelty either -- none of this is interesting enough to her to be worth any of them.
+
+**Ys and the gun.** His aim is bad and he does not carry firearms, which is exactly why this works: the barrel is against the head of a target who is already pinned, so marksmanship is not a factor. See `CaptainYs.md` -- he owns one shotgun and it only comes out at contact range.
+
+**The airlock is not a bluff and the ship is in flight.** He is not threatening to maroon her or hand her to anyone. He wants her out of a moving ship immediately. Chapter 2's ejection was a punchline with a landing; this is a disposal, issued flatly to a subordinate already reaching for the release, in front of the whole crew, by the captain they trust.
+
+**Robert's answer is silence.** She does not defend herself and she does not argue with "coward" -- she has never once claimed not to be afraid. What she rejects is the word coming from this particular person. The animals that would have killed her were an irritation to Nassor, who has never been in danger in her life and still does not know the difference exists. One raised eyebrow is the only tell. Keep her in register: she does not command attention and she does not perform. The most frightened person on this crew becoming the only one actively trying to kill the intruder is the payoff for her entire thread, and it is played without a single line.
+
+**Nassor's hair call is wrong.** Robert is pink-haired. Nassor has not looked closely enough to know.
+
+**Indigo's line is the hinge.** She is not surprised that there is a stranger aboard. She is surprised at the repetition, and that single word -- *again* -- is what tells Ys there is history here he does not have. It is also the only thing in the scene that stops the ejection. Nassor survives on Ys's judgement, not on anything she argued.
+
+**She never answers the demon accusation.** End.1 through End.7 are an entire sequence of the crew talking Indigo down from exactly that thought, and then a petty aristocrat at gunpoint says it out loud. It survives because Nassor aims it at the crew as a mass -- she has been in a hold and does not know who did what -- and because she is right and nobody corrects her. Indigo's silence is the whole reaction, and it is the last thing the player sees her do.
+
+**Her arc inside the scene is plead, then lecture.** Cornered and genuinely in danger, the entitlement collapses and she bargains; then she recovers her footing and goes on the attack. Begging and then scolding, in that order, is the entire character compressed into one scene. "Noble, especially if her survival depends on it" is from her own brief.
+
+**The verdict is narrow on purpose.** Ys rules on intent and nothing else. He does not say she is harmless, he offers no opinion on her power, and he is correct about the part he ruled on. Nobody aboard has any idea what they have just agreed to carry.
+
+**Robert's last beat is the scene's quietest joke.** The deal Ys offers Nassor is word for word the deal Robert has -- passage until a safe drop-off that keeps not arriving because the crew keeps nearly dying. Robert recognises it immediately. It is also how Nassor is still aboard later without anyone ever deciding to keep her.
+
+**No `[VOICED]` lines.** Nassor does not get one in this game. Her beep signature does the work: loud, over-articulated, metrically regular, like a herald nobody asked to speak.
+
+> **Pending creator agreement.** End.8 and every Nassor beat in Chapters 2 and 3 are built to be deleted as a block. Nothing in End.1 through End.7 or the credits depends on this scene. See `GameLore/Characters/RamNassor (Pending)/RamNassor.md`.
+
+---
+
 ## Credits
 
 ---
@@ -1356,6 +1548,8 @@ CHAPTER 4 -- COMPLETE
 (The tactical gear goes first. Kat does not take it off -- it simply stops being there, replaced by whatever impractical thing she was wearing before the shooting started. The scythe is gone. The DMR is gone. The woman who cut down wolves on a frozen lake is kneeling in front of a nineteen-year-old with a medical kit.)
 
 (Brod watches the change happen. Then he looks very hard at the floor.)
+
+(Against the far bulkhead, well out of the way, eight feet of snake aristocrat sits coiled with her arms folded and her chin up, waiting to be addressed. Nobody introduces her. Nobody is going to.)
 
 KAT: Come on now Brod, I need to check your wounds.
 
@@ -1460,6 +1654,14 @@ ROBERT: Can we just relax, let's not be so tense
 
 YS: I actually agree, I need to power off
 
+(A shadow falls across the chart. Nassor has come over. She has been listening to every word of this and nobody noticed her arrive.)
+
+NASSOR: And which of these is the one where I am discarded?
+
+(Ys puts a mark on the chart without looking up. He does not point at it.)
+
+YS: That one.
+
 ```
 
 ---
@@ -1468,7 +1670,7 @@ YS: I actually agree, I need to power off
 
 ```
 [CONVERSATION]
-(Indigo has not moved. Behind her the other two groups carry on -- Kat's voice pitched to carry, Robert laughing at something, the dry scrape of a chart being rolled up. Nobody comes over. Nobody needs anything from her.)
+(Indigo has not moved. Behind her the other two groups carry on -- Kat's voice pitched to carry, Robert laughing at something, the dry scrape of a chart being rolled up, one voice considerably louder than the rest explaining something to nobody. Nobody comes over. Nobody needs anything from her.)
 
 (She is alone in the middle of her own crew.)
 
@@ -1578,6 +1780,8 @@ INDIGO: ...I know. (chuckle) I know.
 
 Hold on the wide long enough that the player has to choose what to look at, and make sure the golden child is not in the center of frame.
 
+**Nassor is in the shot and nobody is near her.** Put her somewhere in the wide -- coiled at the edge of the deck, apart from all three groups, watching a battle that none of the people she is trying to impress are watching. She has what she wanted, which is to be aboard, and it has bought her nothing. It is the last joke in the game and it is told entirely in staging. *(Cut with the rest of the Nassor material if the creator agreement falls through.)*
+
 ---
 
 ## Script Notes
@@ -1636,6 +1840,24 @@ Surface: dry humor about logistics. Underneath: the "easy part" is delivery. Wha
 - His warning about the tiger captain is the most important thing he says. "Kinda tough." Understated. He is not a good fighter and he knows it -- so for him to rate someone is significant.
 - Functional throughout. Drawing. Fighting. Augmenting the cannon. No complaints. The Avolin demon stays quiet this chapter because Brod has a reason to keep going that does not require threats.
 - "Worth a look." -- his honest assessment of the Mirralata center. Not a speech. Not a promise. Just a kid giving his take and going back to work.
+
+### Voice Direction -- Ram Nassor
+
+> *Pending creator agreement. Cuts with the rest of the Nassor material.*
+
+- **Beep signature:** loud, over-articulated, metrically regular -- a herald nobody asked to speak. Unchanged from Chapter 2 even with a gun against her head. She does not have a quiet setting.
+- **No `[VOICED]` lines.** She does not get one in this game. Everyone else in End.8 outranks her for the privilege and that is the joke.
+- **Plead, then lecture, in that order.** The first half is genuine -- she is pinned, disarmed, and about to be thrown out of a moving ship, and the grandeur comes apart. The second half is her recovering her footing and going on the offensive, which is the more comfortable mode and the one she retreats into. "Noble, especially if her survival depends on it" is from her own brief.
+- **"That blade is ceremonial" is a lie and a bad one.** Play it as someone who expects to be believed because she said it.
+- **The demon accusation is the one thing she is right about all game.** Deliver it as outrage rather than as an argument. She has no idea who actually did it; she is blaming the room and happens to land on the truth.
+- **She never addresses Robert.** The insult goes to Kat's face with Robert standing twenty feet away. That is deliberate and it is nastier than attacking her directly. She also gets Robert's hair colour wrong, because she has never looked closely enough to know.
+- **She misreads every person in the room.** She tries to charm the woman kneeling on her chest and ignores the man holding the gun. This is not stupidity -- it is the self-image gap, and it is why she needs saving by two people who do not like her.
+
+### Voice Direction -- Robert (End.8)
+
+- **She does not speak and she does not argue.** The entire performance is one raised eyebrow and a change of pace at the airlock panel. Keep her in her established register: she does not command attention and she does not perform.
+- She has never claimed not to be afraid. What she rejects is this particular person using the word, which is why there is no rebuttal -- a rebuttal would concede the question is open.
+- Her last beat, recognising her own drop-off arrangement being handed to someone else, is played without a line. Do not have anyone notice her noticing.
 
 ### Voice Direction -- Tiger Captain
 

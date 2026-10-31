@@ -345,11 +345,91 @@ INDIGO: There she is.
 ```
 
 ```
+[CUTSCENE]
+(Camera pulls out of first person. Wide shot of the chamber -- the ship, the animals circling it, and one thing in the frame that has no business being there.)
+
+(An eight-foot serpent woman is coiled against the sealed hatch, hammering on it with the flat of one fist. Grey-green scales, gold-capped horns, white plumes at the shoulders, a great deal of purple and green silk. A heavy curved blade is slung across her back. She is not reaching for it.)
+
+(The cave animals are all over her. Hanging off her forearms, scrambling up the coils, worrying at the tail. They are accomplishing nothing at all. She does not appear to have noticed them.)
+
+NASSOR: OPEN. THE. DOOR.
+
+NASSOR: I can hear you breathing in there, coward!
+
+(Cut to Indigo. Hold on her. Blank.)
+
+(She came around the bend braced to find the ship discovered. This is not that.)
+
+(Hold a beat longer than is comfortable. Then the nearest animals turn and notice her.)
+(Trigger: immediately after "There she is.")
+```
+
+```
 [BARK]
 INDIGO: (exertion -- fighting animals)
 INDIGO: Back. Off.
 (Trigger: combat with cave animals.)
 ```
+
+```
+[CONVERSATION]
+(The last of the animals scatter into the rocks. Indigo turns on the snake woman and closes -- blade up, no hesitation. A huge armed stranger standing at the crew's hidden ship is a threat until proven otherwise.)
+
+NASSOR: Finally. Someone with a spine.
+
+(Indigo does not stop.)
+
+NASSOR: I have been out here for MINUTES. Minutes! Hammering! While that creature inside sits behind her locks and listens to me being devoured --
+
+(Two animals are still hanging off her raised forearm. She gestures with it for emphasis. They stay on.)
+
+NASSOR: -- devoured, I say. Eaten alive at her doorstep. And not one bolt thrown.
+
+(Indigo has stopped. The blade is still up. She is no longer advancing.)
+
+NASSOR: Is this how your people receive a guest?
+
+(Nassor throws the arm wide. Magic comes off it -- too much, unaimed, nothing she intended. A section of cave wall forty feet away ceases to exist.)
+
+(Neither of them looks at it. Nassor because she has not noticed. Indigo because she has, and has decided not to mention it.)
+
+NASSOR: You may tell her I will not be forgetting it.
+
+INDIGO: Who are you?
+
+NASSOR: Someone whose business is considerably above yours.
+
+(Beat.)
+
+INDIGO: ...Okay.
+
+(She lowers the blade.)
+
+INDIGO: You're not with the army.
+
+NASSOR: I beg your --
+
+INDIGO: You're not with the army. Go away.
+
+(Wide shot, held. Nassor reared up is nearly twice Indigo's height. Indigo is 4'3" and entirely unimpressed. The size does nothing for her.)
+
+(Indigo turns her back on her -- the clearest statement available of how much of a threat she is -- and walks to the hull.)
+(Trigger: cave animals cleared.)
+```
+
+**Notes:** Three women, one set of animals, three completely different outcomes. They would kill Robert, which is why she sealed the hull and why she was right to. They are a real fight for Indigo, which the player just had. They cannot do a single thing to Nassor. That one asymmetry ranks all three against each other without anyone fighting anyone, and it is the only measurement Nassor gets in the entire game. Her strength is never stated -- the player's own exertion thirty seconds earlier does the measuring.
+
+**Play the animals as guinea pigs.** Small things nipping and climbing and getting shaken loose and coming straight back. Animate it as nothing happening. She is not swatting them away in irritation and she is not rising above them either -- they are simply not a factor, and she talks straight through them.
+
+**She is petty, not aggrieved.** She was never in danger for one second and the audience must be able to see that. The outrage is a performance of an injury she did not sustain, and she will carry the grudge for four chapters. That is what makes it funny instead of sympathetic.
+
+**Robert is not guilty and she knows it.** She is aware there is a person out there. She refuses anyway, because opening the hull lets in animals that will kill her and she has never seen this stranger before. Do not play it as her mistaking the noise for wildlife -- she made a correct decision on purpose. Neither woman is wrong, and that is the whole situation.
+
+**The stare comes before the fighting, not after.** It is the only acknowledgement the scene ever gives that this is absurd, and it has to land while the player is still processing what they are looking at.
+
+**The talking is what saves her.** Indigo is genuinely about to run her through. What stops it is thirty seconds of grandiose, self-absorbed, completely war-irrelevant complaining, which lets Indigo reclassify her from threat to nuisance in real time. Her mouth is the only defense she has and it works entirely by accident.
+
+**The misfire is played straight past.** No reaction shot of the hole, no line about it. Extreme power and zero control in one beat, and the scene declines to comment.
 
 ---
 
@@ -384,7 +464,23 @@ INDIGO: Oh yeah!
 (Trigger: player clears the animals and approaches the ship.)
 ```
 
+```
+[CUTSCENE]
+(Robert turns for the bridge. Indigo follows her in.)
+
+(Behind them, the hatch stands open on an empty chamber.)
+
+(A length of patterned coil slides through it, unhurried, and is gone into the dark of the hold.)
+
+(Nobody looks back. Nobody closes the hatch.)
+(Trigger: immediately after Robert leads the protagonist inside.)
+```
+
 **Notes:** Indigo is already moving toward the crew. Robert redirects her -- not with emotion, but with practical sense. She knows the ship better than anyone. This flows directly into the surveillance scene.
+
+**Robert's two lines do all the work and neither of them changes.** "Animals everywhere. I sealed the hull and waited it out" is now a defense she does not know she is making, delivered to the only person who could tell her she was right. The locks coming off "too many locks, all at once" is the sound of someone who did not do this lightly. Both lines stand exactly as written and both mean something new.
+
+**The player sees her get on. The crew does not.** This is deliberate -- it starts the dramatic irony running and makes the bridge interruption land as a payoff rather than a surprise. Only the *second* boarding, after the ejection, is hidden from the player as well.
 
 ---
 
@@ -417,9 +513,51 @@ INDIGO: Pull it up.
 (The protagonist watches through the screen. They are alive. They are fighting. But they are outnumbered, outgunned, and being driven toward the surface.)
 ```
 
+```
+[CUTSCENE]
+(The feed holds on the lava line climbing the wall behind the crew.)
+
+NASSOR (from directly behind them): That will be the volcanic activity, then.
+
+(Held reaction. Indigo. Blank. The same look she gave the hatch, and shorter.)
+
+(Robert has not moved. Robert is not going to move.)
+
+(HARD CUT.)
+
+(Exterior. The open hatch. Indigo throws eight feet of snake aristocrat out of the ship one-handed, and it lands in the dirt.)
+
+(Nassor does not resist, does not reach for the blade, and does not stop talking.)
+
+NASSOR: -- and when that mountain opens and I am boiled alive out here, the two of you may reflect --
+
+(The hatch shuts.)
+
+NASSOR (muffled, through the hull): -- on what KIND of people you have decided to be!
+
+(Interior. The bridge. Indigo and Robert are standing exactly where they were, facing the screen.)
+
+(Neither of them mentions it again.)
+(Trigger: end of the surveillance feed.)
+```
+
 **Notes:** The player sees the crew in trouble but still fighting -- not captured yet. The capture comes later on the frozen lake. This establishes urgency without jumping ahead. The surveillance is the first time the player sees the crew's formation clearly -- and the center of it is Vennessa. She's not dead weight. She's the supply line. Her drawing magic feeds the crew's defenses. But she can't draw and fight, so the entire crew orients around keeping her alive and producing. Brod is her primary shield. Everyone else fights outward from her position.
 
 **Vennessa casts her own work.** Her constructs come off her own pages by her own hand, start to finish. Sketch has no involvement in Vennessa's magic -- not as an animator, not as a courier, not at all. Sketch only ever touches Brod's drawings.
+
+**The ejection is the second half of a two-part gag.** The sequence does not end with Nassor getting aboard. It ends with her getting aboard twice. The hard cut is the joke -- no argument, no build, no dialogue in front of it. She says one unhelpful thing about the lava and the next frame is her hitting the ground.
+
+**Reuse the stare.** Indigo's reaction here should be the identical held beat from 3.4, just shorter. Two matching blank stares is a better runner than two different reactions, and the repetition is what makes the cut land.
+
+**She does not resist, and that matters.** The moment she fights back it becomes a contest and the two of them get ranked against each other, which the story must never do. She is being evicted, not defeated, and scuffling over it would be beneath her. It also does not occur to her that the eviction is permanent -- which is exactly why she simply comes back.
+
+**Indigo throwing something that size one-handed is a strength beat.** It is consistent with punches that send soldiers and debris flying. Let it land as that, with Nassor still mid-sentence as she goes.
+
+**The grievance escalates and now has two names on it.** At the hatch she blamed Robert. Out here she blames Robert and Indigo together, and she has upgraded the imaginary injury from being eaten to being burned alive.
+
+**Leave the lava claim unverified.** The animals demonstrably could not hurt her. Whether rising magma could is never established and must not be. The audience should be unable to tell whether she was ever in any danger -- possibly including her.
+
+**The player never sees her get back on.** This is the single most important staging instruction in the Chapter 2 material. The second boarding happens entirely off screen. The player watches her thrown out, hears her rant about burning to death, and is given every reason to believe that is the end of it. The payoff is two levels later in Ch3 2.4.
 
 ---
 
@@ -988,8 +1126,18 @@ INDIGO: Absolutely yes....
 INDIGO: Robert. I'm coming up. Open the hatch.
 
 ROBERT (via magic signal, surprised): You're-- okay. Okay. Opening now.
+
+(A pause. Longer than it needs to be.)
+
+ROBERT (via magic signal): ...Did you leave the aft hold open when you went?
+
+INDIGO: No.
+
+ROBERT (via magic signal): Right. No. It's an old ship.
 (Trigger: player reaches the tower base.)
 ```
+
+**Notes:** First of Robert's passenger seeds, and the only one the player is not in on. It has to read as a frazzled woman and a tired ship, nothing more -- the player must not work out that Nassor is aboard until Ch3 2.4. Robert's "it's an old ship" is her talking herself out of it in real time, which is the behaviour the rest of the thread is built on.
 
 ---
 
@@ -1057,6 +1205,15 @@ CHAPTER 2 -- COMPLETE
 - Terrified. Genuine. She is not pretending to be brave.
 - Her signal is broken because she is broken -- she barely knows magic and forced a transmission through willpower.
 - "You came" -- two words that carry all her relief.
+
+### Voice Direction -- Ram Nassor
+> *Pending creator agreement. Cuts with the rest of the Nassor material.*
+- **Beep signature:** loud, over-articulated, metrically regular. The rhythm of a herald nobody asked to speak. She does not raise her volume to be heard over the animals or the ship -- she is simply always at that volume.
+- **No `[VOICED]` lines.** Not in this chapter and not in this game. The story is never important enough to stop for her, and that is the point.
+- **She declaims, she does not shout.** Even "OPEN. THE. DOOR." is delivered like a proclamation rather than a plea. The raised index finger from her reference art is her default gesture and should recur.
+- **She is performing an injury she did not sustain.** Nothing out there can touch her and the audience has to be able to see it. Pitch the outrage at full grandeur while the animals visibly accomplish nothing, and let the gap do the work. Petty, not aggrieved.
+- **She never notices the animals and never notices the misfire.** Two separate beats where the scene shows the audience something she does not register. Do not give her a reaction to either.
+- **The ejection is not a defeat and she does not read it as one.** She does not resist, does not reach for the blade, and does not stop mid-sentence. It does not occur to her that this is permanent, which is precisely why she comes back.
 
 ### Voice Direction -- Jack
 - Professional. Controlled. Even after losing Bassual, he does not rage -- he channels it into focus.

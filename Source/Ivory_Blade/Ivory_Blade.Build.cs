@@ -16,5 +16,12 @@ public class Ivory_Blade : ModuleRules
 			"HeadMountedDisplay",
 			"AnimGraphRuntime"
 		});
+
+		// Only the combo set's IsDataValid needs this, to find mapping contexts
+		// that still give a combo output action a physical key.
+		if (Target.bBuildEditor)
+		{
+			PrivateDependencyModuleNames.Add("AssetRegistry");
+		}
 	}
 }
